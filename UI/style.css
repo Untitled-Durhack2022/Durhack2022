@@ -1,0 +1,15 @@
+form {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-self: center;
+}
+
+#viz-box {
+  border-style: solid;
+  height: 100%;
+}
