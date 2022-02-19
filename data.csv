@@ -1,1824 +1,1824 @@
 ,bedroom,reception,bathroom,price,address
-0,3,,1,100000,"Ramshaw Row, Ramshaw, Bishop Auckland, Durham DL14"
-1,2,2,1,79000,"Byerley Road, Shildon DL4"
-2,3,3,,225000,"Girton Close, Peterlee SR8"
-3,4,,,230000,"Hubback Square, Darlington DL2"
-4,3,1,1,48000,"West View Road, Hartlepool TS24"
-5,3,1,1,160000,"High Barnes, Great Lumley, Chester Le Street DH3"
-6,3,1,2,169950,"Hamilton Row, Waterhouses, Durham DH7"
-7,3,2,,125000,"Harrow Road, Stockton-On-Tees TS18"
-8,3,2,1,185000,"Orchard Road, Darlington DL3"
-9,3,3,1,230000,"Swaledale Avenue, Darlington DL3"
-10,3,1,1,140000,"Oldwood Close, Newton Aycliffe DL5"
-11,3,2,1,119950,"High Street, Carrville, Durham DH1"
-12,4,1,1,190000,"Brackenridge, Shotton DH6"
-13,2,2,1,375000,"Green Leas, Carlton Village, Stockton-On-Tees TS21"
-14,2,1,,30000,"Derby Street, Hartlepool TS25"
-15,3,2,2,209995,"""Ellerton"" at Edward Pease Way, Darlington DL2"
-16,3,2,2,209995,"""Ellerton"" at Edward Pease Way, Darlington DL2"
-17,3,1,2,120000,"Tristram Avenue, Hartlepool TS25"
-18,1,2,1,220000,"Front Street, Ebchester, Consett DH8"
-19,3,2,1,180000,"Front Street, Shotley Bridge, Consett DH8"
-20,5,4,3,360000,"Taylor Grove, Wingate TS28"
-21,3,2,1,93000,"Challoner Road, Hartlepool TS24"
-22,3,1,1,140000,"Cumberland Crescent, Billingham TS23"
-23,1,1,1,40000,"Dorset Street, Easington Lane, Houghton Le Spring DH5"
-24,2,,1,70000,"Auckland Wynd, Shildon DL4"
-25,3,1,2,130000,"St. Marys Close, Newton Aycliffe DL5"
-26,2,2,1,125000,"Kempston Way, Norton, Stockton-On-Tees TS20"
-27,5,,2,235000,"Glenluce, Birtley DH3"
-28,2,1,1,167500,"Culross Grove, Stockton-On-Tees TS19"
-29,3,2,2,102997,"""Maidstone"" at Coxhoe, Durham DH6"
-30,3,1,3,142500,"Wattie Moore Grove, Hartlepool TS24"
-31,3,3,1,160000,"Millford Way, Bowburn, Durham DH6"
-32,5,3,,294950,"""The Winster"" at The Rings, Ingleby Barwick, Stockton-On-Tees TS17"
-33,3,2,1,149950,"High View, Ushaw Moor, Durham DH7"
-34,4,2,3,180000,"The Beeches, Billingham TS23"
-35,3,1,2,125000,"5 Orkney Way, Stockton-On-Tees TS17"
-36,2,1,1,80000,"Wilfred Street, Chester Le Street DH3"
-37,3,1,1,125000,"Rushyford Avenue, Roseworth, Stockton-On-Tees TS19"
-38,3,1,1,95000,"High Hope Street, Crook, Durham DL15"
-39,4,2,2,266000,"39 Corvus Drive, Stockton-On-Tees TS18"
-40,3,1,1,150000,"Lawnswood, Houghton Le Spring DH5"
-41,4,,,600000,"Westfields, Etherley Bank, Bishop Auckland, Durham DL14"
-42,2,1,1,129995,"Byron Lodge Estate, Seaham SR7"
-43,5,1,2,285000,"Cresta View, Houghton Le Spring DH5"
-44,2,1,1,70000,"Wilson Street, Darlington DL3"
-45,4,2,,160000,"Oakmoor Close, Darlington DL1"
-46,3,2,1,45000,"Whitburn Street, Hartlepool TS24"
-47,3,2,1,75000,"Brougham Terrace, Hartlepool, Cleveland TS24"
-48,5,2,1,375000,"Earls Green, East Rainton, Houghton Le Spring DH5"
-49,4,2,2,330000,"Thornaby Road, Thornaby, Stockton-On-Tees TS17"
-50,4,1,2,195000,"Clarke Court, Consett DH8"
-51,5,1,2,140000,"Chillerton Way, Wingate, Durham TS28"
-52,2,1,1,80000,"Mary Street, Seaham SR7"
-53,2,1,1,105000,"Mowbray Road, Stockton-On-Tees, Durham TS20"
-54,1,1,1,40000,Durham DH1
-55,7,2,5,250000,"Yarm Road, Stockton-On-Tees TS18"
-56,2,1,1,90000,"Bedford Street, Darlington DL1"
-57,3,2,,89950,"Severn Close, Peterlee SR8"
-58,2,1,1,89950,"South View, Langley Park, Durham DH7"
-59,3,2,,80000,"Quinn Crescent, Wingate TS28"
-60,2,,1,89950,"Highfield Rise, Chester-Le-Street DH3"
-61,4,2,3,290000,"Weymouth Drive, Houghton Le Spring DH4"
-62,3,2,2,179999,"Churston Close, Newbottle, Houghton Le Spring DH4"
-63,3,2,2,122500,"""Moresby"" at Edward Pease Way, Darlington DL2"
-64,1,1,1,40000,"Second Street, Blackhall Colliery, Hartlepool TS27"
-65,2,,1,70000,"Pears Terrace, Shildon, Durham DL4"
-66,2,2,1,135000,"Bankwell Drive, High Etherley, Bishop Auckland DL14"
-67,2,1,1,55000,"Queen Street, Grange Villa, Chester-Le-Street, Durham DH2"
-68,6,6,4,750000,"School Street, Witton Le Wear, Bishop Auckland DL14"
-69,2,,,70000,"Cedar Road, Bishop Auckland, Durham DL14"
-70,2,1,1,45000,"Pine Street, Birtley, Chester Le Street DH3"
-71,3,2,1,140000,"Durham Road, Leadgate, Consett DH8"
-72,3,2,2,235000,"Lord Close, Middlesbrough TS5"
-73,4,2,2,272995,"""Ingleby"" at Edward Pease Way, Darlington DL2"
-74,2,1,1,158995,"""Denford"" at Edward Pease Way, Darlington DL2"
-75,2,1,1,159995,"""Denford"" at Edward Pease Way, Darlington DL2"
-76,3,2,2,124995,"""Denby"" at Riverston Close, Hartlepool TS26"
-77,3,2,2,104995,"""Ellerton"" at Coxhoe, Durham DH6"
-78,3,2,2,209995,"""Ellerton"" at Coxhoe, Durham DH6"
-79,2,2,1,149950,"Langdale, Birtley, Chester Le Street, Co Durham DH3"
-80,4,1,2,350000,"Winding Way, Darlington DL2"
-81,3,2,1,300000,"Benfieldside Road, Consett DH8"
-82,1,1,1,99950,"Claypath Court, Claypath, Durham DH1"
-83,3,,,144995,"Kates Gill Grange, Stanley DH9"
-84,4,,,525000,"Olive Grove, Trimdon Village, Durham TS29"
-85,3,2,1,299950,"Clarence Road, Eaglescliffe, Stockton-On-Tees TS16"
-86,2,,1,70000,"Seymour Street, Bishop Auckland, Durham DL14"
-87,4,2,2,325000,"Castlefields, Houghton Le Spring DH4"
-88,3,2,2,220000,"Wensley Close, Ouston, Chester Le Street DH2"
-89,3,2,1,170000,"Christchurch Drive, Stockton-On-Tees TS18"
-90,2,1,1,99950,"Rowan Court, Spennymoor DL16"
-91,3,1,1,360000,"Duneside, Stockton-On-Tees TS19"
-92,3,1,1,90000,"Norton Avenue, Stockton-On-Tees TS20"
-93,4,2,2,299950,"Houghton Banks, Ingleby Barwick, Stockton-On-Tees TS17"
-94,4,2,2,339950,"Longhill Court, Browney, Durham DH7"
-95,2,1,1,110000,"Dunedin Close, Kyo Road, West Kyo, Stanley DH9"
-96,4,4,2,395000,"Paddock Church Street, Hartlepool TS25"
-97,4,2,2,329950,"Lynnwood Drive, Billingham TS22"
-98,2,1,1,65000,"Lewes Road, Darlington DL1"
-99,4,1,2,220000,"Eastgate, Houghton Le Spring DH4"
-100,3,1,1,115000,"Lilywhite Terrace, Easington Lane, Houghton Le Spring DH5"
-101,3,1,2,150000,"Seaton Close, Easington Village, Peterlee SR8"
-102,3,,,140000,"Carisbrooke Crescent, Etherley Dene, Bishop Auckland, Durham DL14"
-103,3,1,1,140000,"Meadowsweet Lane, Stockton-On-Tees TS19"
-104,3,2,3,140000,"Malvern Road, Billingham TS23"
-105,2,2,1,80000,"Church Street, Hesleden, Hartlepool TS27"
-106,4,2,2,340000,"Brent Court, Billingham TS23"
-107,2,2,1,140000,"Caledonian Way, Darlington DL1"
-108,6,4,1,90000,"St. Aidans Street, Hartlepool TS25"
-109,3,1,2,225000,"Cuthberts Park, Birtley DH3"
-110,2,1,1,90000,"Chaucer Avenue, Hartlepool TS25"
-111,3,,1,186000,"45 Forest Avenue, Hartlepool TS24"
-112,3,1,1,272000,"Forest Avenue, Hartlepool TS24"
-113,3,1,,145000,"Crimdon Beck Close, Stockton-On-Tees TS18"
-114,2,1,1,90000,"Barsloan Grove, Peterlee, County Durham SR8"
-115,2,1,1,190000,"Norwich Close, Great Lumley, Chester Le Street DH3"
-116,3,,1,70000,"Furness Street, Hartlepool, County Durham TS24"
-117,3,,1,70000,"Derwent Street, Hartlepool, County Durham TS26"
-118,3,,1,70000,"Sheriff Street, Hartlepool, County Durham TS26"
-119,3,2,1,185000,"Herrington Mews, Houghton Le Spring DH4"
-120,3,,1,70000,"Rugby Street, Hartlepool, County Durham TS25"
-121,3,2,1,125000,"Findon Hill, Sacriston, Durham DH7"
-122,2,1,1,118995,"Sea Breeze Residential Park, Hartlepool, Durham TS25"
-123,3,3,,189950,"Brancepeth Close, Newton Hall, Durham DH1"
-124,3,1,1,99995,"Denewood, Murton, Seaham SR7"
-125,3,1,1,150000,"Albany Road, Norton, Stockton-On-Tees TS20"
-126,4,,,80000,"Woodbine Terrace, Stanley, Durham DH9"
-127,2,2,1,110000,"Whitfield Drive, Hartlepool TS25"
-128,1,1,1,115000,"Limbrick Avenue, Stockton-On-Tees TS19"
-129,5,3,3,600000,"Junction Road, Stockton-On-Tees, Durham TS20"
-130,2,1,1,45000,"Grosvenor Terrace, Trimdon Collery, Trimdon, Durham TS29"
-131,3,2,2,125000,"Armstrong Drive, Willington, Crook DL15"
-132,2,1,1,25000,"Limetrees Close, Middlesbrough TS2"
-133,4,2,3,142000,"Benson Green, Stockton-On-Tees TS18"
-134,4,3,2,190000,"The Pasture, Ingleby Barwick, Stockton-On-Tees, Durham TS17"
-135,4,,,240000,"Olive Grove, Trimdon Village, County Durham TS29"
-136,4,,,145000,"Olive Grove, Trimdon Village, County Durham TS29"
-137,4,,,105000,"Olive Grove, Trimdon Village, County Durham TS29"
-138,2,2,1,125000,"Station Road, Blackhall Colliery, Hartlepool TS27"
-139,2,,,75000,"Hutchinson Street, Bishop Auckland DL14"
-140,3,2,,40000,"Third Street, Horden, Peterlee SR8"
-141,3,,,90000,"Peases Row, Bishop Auckland, Durham DL14"
-142,3,1,,55000,"Tudor Court, Shotton Colliery, Durham DH6"
-143,2,2,1,68000,"Elemore Lane, Easington Lane, Houghton Le Spring DH5"
-144,4,,,250000,"Fowler Close, Philadelphia, Houghton-Le-Spring DH4"
-145,3,2,1,225000,"Mainside, Redmarshall, Stockton TS21"
-146,2,1,1,120000,"Woodlands Green, Middleton St George, Darlington DL2"
-147,3,1,1,145000,"Lambton Street, Chester Le Street DH3"
-148,4,5,3,575000,"Egerton Road, Hartlepool TS26"
-149,3,1,1,174950,"Montanna Close, Houghton Le Spring DH4"
-150,3,1,1,180000,"Clifton Avenue, Billingham TS22"
-151,2,1,1,38000,"Dorset Crescent, Consett DH8"
-152,4,2,2,85000,"Commercial Road West, Coxhoe, County Durham DH6"
-153,2,1,1,70000,"Lees Street, Stanley, Co.Durham DH9"
-154,3,2,1,140000,"Hurworth Road, Billingham TS23"
-155,4,2,2,285000,"Cardinal Grove, Stockton-On-Tees TS19"
-156,3,2,1,70000,"School Street, Easington, Peterlee SR8"
-157,1,1,,65000,"Highfield Rise, Chester Le Street DH3"
-158,3,,,125000,"Finchale View, West Rainton DH4"
-159,2,1,1,60000,"Eltham Crescent, Thornaby, Stockton-On-Tees TS17"
-160,1,1,,12000,"General Bucher Court, Bishop Auckland DL14"
-161,3,3,2,360000,"Rose Terrace, Egglescliffe, Stockton-On-Tees TS16"
-162,2,1,,70000,"Park View, Stockton-On-Tees TS18"
-163,1,1,1,65000,"Highfield Rise, Chester Le Street DH3"
-164,1,1,1,59995,"Carlton Close, Stockton-On-Tees TS18"
-165,2,1,1,130000,"Brundall Close, Stockton-On-Tees TS19"
-166,3,1,1,100000,"Lauder Close, Stockton-On-Tees TS19"
-167,3,2,1,200000,"Waltham Avenue, Stockton-On-Tees TS18"
-168,5,3,3,379950,"Carlton Drive, Darlington DL3"
-169,3,3,1,185000,"Brookside, Witton Gilbert, Durham DH7"
-170,4,4,,259950,"""The Coniston"" at Tursdale Road, Bowburn, Durham DH6"
-171,3,3,,189950,"""The Grasmere"" at Tursdale Road, Bowburn, Durham DH6"
-172,5,2,,264950,"""The Belmont"" at Cross Lane, Sacriston, Durham DH7"
-173,3,3,,199950,"""The Grasmere"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-174,2,1,1,65000,"Harrow Street, Hartlepool TS25"
-175,2,1,1,60000,"Harrow Street, Hartlepool TS25"
-176,3,2,1,160000,"Greatham Avenue, Stockton-On-Tees TS18"
-177,2,1,1,105000,"Trident Close, Hartlepool TS24"
-178,2,1,1,72000,"Bramcote Way, Thornaby, Stockton-On-Tees, Durham TS17"
-179,2,,,74995,"Greta Bridge, Barnard Castle DL12"
-180,2,,,99995,"Greta Bridge, Barnard Castle DL12"
-181,2,,,39995,"Greta Bridge, Barnard Castle DL12"
-182,3,2,2,160000,"Uplands Close, Crook DL15"
-183,3,1,,120000,"Ashcroft, Stanhope, Bishop Auckland DL13"
-184,3,1,1,110000,"Radyr Close, Stockton-On-Tees TS19"
-185,4,2,2,230000,"Deepdale Avenue, Stockton On Tees TS18"
-186,3,1,1,100000,"Lincoln Grove, Norton, Stockton TS20"
-187,3,2,2,200000,"Arkless Grove, The Grove, Consett DH8"
-188,3,1,2,269000,"Messenger Mews, Shotley Bridge, Consett DH8"
-189,2,1,2,145000,"Central Exchange, Chester Le Street DH3"
-190,4,1,1,235000,"Lyndon, Dalton On Tees, N/R Darlington DL2"
-191,4,2,2,179950,"Linthorpe Avenue, Seaham SR7"
-192,3,2,,175000,"Grantham Road, Norton, Stockton-On-Tees TS20"
-193,2,1,2,99950,"Robertson Court, Chester Le Street DH3"
-194,3,2,,160000,"Farbridge Crescent, Consett DH8"
-195,5,2,3,350000,"Kirkwood Drive, Nevilles Cross, Durham City, Durham DH1"
-196,2,1,1,200000,"Hurworth Road, Neasham, N/R Darlington DL2"
-197,2,1,1,65000,"Brusselton Court, Stockton-On-Tees TS18"
-198,4,2,1,350000,"North Street, East Rainton, Houghton Le Spring DH5"
-199,4,2,1,320000,"Fulthorpe Road, Norton, Stockton-On-Tees TS20"
-200,4,2,1,230000,"Darlington Lane, Stockton-On-Tees TS19"
-201,2,1,1,100000,"Norton Road, Norton, Stockton-On-Tees TS18"
-202,4,3,,254950,"""The Marston"" at Old Cemetery Road, Hartlepool TS24"
-203,2,2,1,47950,"Copeland Row, Evenwood, Bishop Auckland DL14"
-204,5,1,3,295000,"Hood Street, St John's Chapel DL13"
-205,4,2,2,260000,"The Darlings, Hart, Hartlepool TS27"
-206,2,1,1,85000,"Ramsey Street, Chester Le Street DH3"
-207,3,1,1,120000,"Fleece Terrace, Edmondsley, Durham DH7"
-208,2,2,2,150000,"St. Pauls Way, Hunwick, Crook DL15"
-209,2,1,1,125000,"Aynsley Mews, Consett DH8"
-210,3,1,2,170000,"Richmond Way, Darlington DL1"
-211,3,1,1,120000,"Henderson Road, Newton Aycliffe DL5"
-212,1,1,1,210000,"Business Investment Opportunity David Road, Norton, Stockton-On-Tees TS20"
-213,3,2,,99999,"Wear Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-214,3,2,1,164950,"Dacre Gardens, Consett DH8"
-215,3,1,1,90000,"Pine Street, Chester Le Street DH3"
-216,3,1,1,250000,"Heathmeads, Pelton, Chester Le Street DH2"
-217,2,1,1,39500,"Station Avenue South, Fencehouses, Houghton Le Spring DH4"
-218,2,1,,115000,"Coronation Avenue, Durham DH1"
-219,3,1,1,95000,"Gayfield Terrace, Grants Houses, Peterlee, Durham SR8"
-220,2,1,,55000,"Dean Close, Peterlee SR8"
-221,4,4,2,395000,"St. Georges Terrace, East Boldon NE36"
-222,2,1,1,38450,"Stanhope Burn Holiday Park, Crawleyside DL13"
-223,3,,1,132000,"Victoria Road, Stockton-On-Tees, North Yorkshire TS17"
-224,3,1,1,235000,"Conyers Close, Darlington DL3"
-225,3,1,1,120000,"Ramsbury Avenue, Stockton-On-Tees TS19"
-226,3,2,1,295000,"Darlington Lane, Stockton-On-Tees TS19"
-227,4,2,2,535000,"Turnberry Walk, Durham DH1"
-228,5,,,350000,"Kirkwood Drive, Durham, Durham DH1"
-229,2,1,1,120000,"Claypath Court, Durham, Durham DH1"
-230,3,,1,70000,"Everett Street, Hartlepool, County Durham TS26"
-231,4,1,,150000,"Sandford Close, Wingate TS28"
-232,3,1,1,290000,"Westcott Drive, Framwellgate Moor, Durham DH1"
-233,3,1,2,235000,"Queen Elizabeth Drive, Consett DH8"
-234,2,,,120000,"Chalk Hill Road, Newbottle DH4"
-235,3,2,1,145000,"Felton Lane, Bishopsgarth, Stockton TS19"
-236,4,2,2,499950,"Hutton Close, Chester Le Street DH3"
-237,2,1,1,130000,"Ickworth Court, Ingleby Barwick, Stockton-On-Tees TS17"
-238,5,2,,274950,"""The Belmont"" at Southside, Middridge, Newton Aycliffe DL5"
-239,3,3,,214950,"""The Grasmere"" at Southside, Middridge, Newton Aycliffe DL5"
-240,3,3,,174950,"""The Barton"" at Southside, Middridge, Newton Aycliffe DL5"
-241,2,2,,151950,"""The Alnwick"" at Southside, Middridge, Newton Aycliffe DL5"
-242,2,2,1,69950,"Grasmere Road, Darlington DL1"
-243,2,1,1,90000,"Appleby Close, Darlington DL1"
-244,4,,2,359950,"Summerson Place, Darlington DL2"
-245,4,,2,365950,"Summerson Place, West Park Garden Village DL2"
-246,3,2,1,115000,"Front Street, Westgate, Bishop Auckland DL13"
-247,2,1,1,93500,"Wallington Road, Billingham TS23"
-248,3,2,1,245000,"Hillcrest Avenue, Fairfield, Stockton TS18"
-249,3,1,1,109950,"Beamish Street, Stanley DH9"
-250,3,1,2,175000,"Ripley Close, Ouston, Chester Le Street DH2"
-251,2,1,1,19000,"Eleventh Street, Horden, Peterlee SR8"
-252,3,2,1,60000,"Wilson Street, Hartlepool TS26"
-253,3,2,1,295000,"Raby Road, Stockton-On-Tees TS18"
-254,3,1,2,105000,"Pontop Terrace, Stanley DH9"
-255,3,,1,240000,"Lindenhurst, Plantation Terrace, Crook, Durham DL15"
-256,2,1,1,80000,"West View Road, Hartlepool TS24"
-257,3,1,4,275000,"Mayflower Close, Hartlepool TS24"
-258,3,1,1,79950,"Grange Close, Peterlee, County Durham SR8"
-259,2,1,1,75000,"George Street, Bowburn, County Durham DH6"
-260,3,2,1,79950,"Zetland Street, Darlington DL3"
-261,2,1,1,42500,"St. Cuthberts Road, Stockton-On-Tees TS18"
-262,3,1,1,85000,"Mendip Terrace, Stanley, Durham DH9"
-263,3,,,200000,"Pannal Walk, Eaglescliffe, Stockton-On-Tees, Durham TS16"
-264,3,1,1,130000,"Skerries Walk, Darlington DL1"
-265,4,2,2,399950,"Van Dyck Close, Barnard Castle DL12"
-266,2,2,1,95000,"Lanton Street, Houghton Le Spring DH4"
-267,2,1,2,105000,"Kirklee House, Victoria Road, Darlington DL1"
-268,3,2,1,195000,"Chelmsford Avenue, Fairfield, Stockton TS18"
-269,5,2,3,270000,"Chaucer Close, Billingham TS23"
-270,3,2,1,65000,"Grosvenor Terrace, Trimdon Colliery TS29"
-271,3,2,1,69950,"The Avenue, Wheatley Hill, County Durham DH6"
-272,2,1,1,10000,"2 Tile Shed Crossing, East Boldon NE36"
-273,3,2,1,15000,"11 Oxford Road, Thornaby, Stockton-On-Tees TS17"
-274,2,2,1,140000,"Marley Close, Stockton-On-Tees TS19"
-275,2,1,2,70000,"Lingwood Court, Thornaby, Stockton-On-Tees TS17"
-276,4,3,1,300000,"Oxbridge Lane, Stockton-On-Tees TS18"
-277,3,1,1,115000,"Whin Meadows, Hartlepool TS24"
-278,2,1,1,105000,"Barley Mill Road, Consett DH8"
-279,1,1,1,119950,"Manor Hall Close, Seaham SR7"
-280,4,3,3,475000,"Westerton Heights, Westerton, Bishop Auckland DL14"
-281,2,,,80000,"Rutherford Terrace, Ferryhill, Durham DL17"
-282,4,2,2,230000,"Sunset View, Dipton, Stanley DH9"
-283,2,1,1,140000,"Hopgarth Gardens, Chester Le Street DH3"
-284,3,1,,89950,"Hatfield Place, Peterlee SR8"
-285,3,2,1,180000,"Durham Road, Leadgate, Consett DH8"
-286,3,2,3,230000,"Howsham Road, Spennymoor DL16"
-287,2,1,1,105000,"The Green, Consett DH8"
-288,3,2,1,60000,"The Gables Thornley, Durham DH6"
-289,2,1,2,260000,"Eskdale Gardens, Shildon DL4"
-290,2,1,1,94995,"Emerson Way, Newton Aycliffe DL5"
-291,2,,,140000,"Northumberland Street, Darlington, Durham DL3"
-292,,,,400000,"House DL12, County Durham"
-293,4,2,1,125000,"Wansbeck Gardens, Hartlepool TS26"
-294,5,4,2,450000,"Barmpton Lane, Darlington DL1"
-295,4,2,2,270000,"Abbotts Way, Consett DH8"
-296,2,2,,160000,"Bourn Lea, Houghton Le Spring, Tyne And Wear DH4"
-297,3,3,1,165000,"Wear View, Hunwick, Crook DL15"
-298,2,1,2,99950,"Durham Road, Spennymoor DL16"
-299,3,2,,95000,"Appleton Road, Stockton-On-Tees TS19"
-300,3,2,,85000,"The Avenue, Wheatley Hill, Durham DH6"
-301,4,3,1,325000,"Reeth Road, Stockton-On-Tees, Durham TS18"
-302,3,1,1,50000,"Boyden Court, Bury Road, Newton Aycliffe DL5"
-303,3,2,1,80000,"Lenin Terrace, Stanley DH9"
-304,3,2,2,204995,"""Ellerton"" at Coxhoe, Durham DH6"
-305,2,2,1,95000,"Ravensworth Road, Birtley, Chester Le Street DH3"
-306,4,2,,239950,"""The Hornsea"" at Tursdale Road, Bowburn, Durham DH6"
-307,3,2,,209950,"""The Lockwood Corner"" at Tursdale Road, Bowburn, Durham DH6"
-308,4,2,,237950,"""The Earlswood Corner"" at Cross Lane, Sacriston, Durham DH7"
-309,3,3,,184950,"""The Grasmere"" at Cross Lane, Sacriston, Durham DH7"
-310,3,3,,159950,"""The Barton"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-311,4,2,2,200000,"Chapel Road, Billingham TS23"
-312,3,1,1,189950,"Seymour Crescent, Eaglescliffe, Stockton-On-Tees TS16"
-313,3,2,1,150000,"Merring Close, Stockton-On-Tees TS18"
-314,1,1,1,35000,"Dean Street, Shildon DL4"
-315,3,1,1,200000,"Merring Close, Hartburn, Stockton-On-Tees TS18"
-316,3,2,1,100000,"Durham Road, Blackhill, Consett DH8"
-317,3,2,,60000,"Church Street, Haswell, Durham DH6"
-318,2,1,1,25000,"80 Fifth Street, Horden, Peterlee SR8"
-319,2,1,1,25000,"80 Fifth Street, Horden, Peterlee SR8"
-320,2,1,1,65000,"Norman Terrace, Consett DH8"
-321,4,2,1,150000,"Mulberry Wynd, Stockton-On-Tees TS18"
-322,3,2,1,125000,"Patterdale Avenue, Stockton-On-Tees TS19"
-323,2,1,1,120000,"Brockwell Court, Bishop Auckland DL14"
-324,3,1,1,169950,"Dalton Way, Penshaw, Houghton Le Spring DH4"
-325,3,1,1,350000,"The Village, Hartlepool TS27"
-326,2,1,1,84950,"Alexandra Street, Consett DH8"
-327,2,1,1,59950,"Staindale Place, Hartlepool TS25"
-328,2,1,1,69950,"Bannerman Terrace, Ushaw Moor, Durham DH7"
-329,3,2,1,160000,"Millford Way, Bowburn, Durham DH6"
-330,3,1,1,85000,"Priestman Road, Newton Aycliffe DL5"
-331,4,3,2,220000,"Goldfinch Road, Easington Lane, Houghton Le Spring DH5"
-332,3,2,1,95000,"Park Road, Stanley, Co Durham DH9"
-333,3,1,1,265000,"West Pelton House, West Pelton, County Durham DH9"
-334,3,2,1,79950,"Low Grange Avenue, Billingham TS23"
-335,2,1,1,148000,"Pocklington Way, Hetton Le Hole, Houghton -Le- Spring DH5"
-336,3,2,3,105000,"Melbury Street, Seaham, Co. Durham. SR7"
-337,3,1,1,5000,"Seventh Street, Peterlee, County Durham SR8"
-338,2,1,1,5000,"Howlish View, Bishop Auckland, County Durham DL14"
-339,3,1,1,99995,"Leeholme Court, Annfield Plain, Stanley DH9"
-340,3,5,3,425000,"Elwick Road, Hartlepool TS26"
-341,3,1,1,67500,"Marsh House Avenue, Billingham TS23"
-342,2,1,1,79950,"Corfe Crescent, Billingham TS23"
-343,3,1,2,225000,"Wimbledon Walk, Birtley, Chester Le Street DH3"
-344,3,2,2,327000,"Strangford Road, Seaham SR7"
-345,2,1,,35000,"Seventh Street, Horden, Peterlee SR8"
-346,2,1,1,110000,"Bevan Close, Stockton-On-Tees TS19"
-347,3,2,,186950,"""The Delamare"" at Old Cemetery Road, Hartlepool TS24"
-348,3,1,2,199950,"Aidan Gardens, Belmont, Durham DH1"
-349,2,1,1,130000,"Ramshaw Court, Dipton, Stanley DH9"
-350,2,1,1,220000,"West Promenade, Consett DH8"
-351,4,3,2,210000,"Churchside Gardens, Easington Lane, Houghton Le Spring DH5"
-352,3,,1,80000,"Hall Lane Estate, Willington, Crook, County Durham DL15"
-353,3,,1,70000,"Wilson Street, Crook, County Durham DL15"
-354,4,2,3,270000,"Rigel Road, Stockton-On-Tees TS18"
-355,3,3,2,180000,"Heather Lane, Crook DL15"
-356,4,1,1,220000,"Duncombe Court, Shield Row, Stanley DH9"
-357,4,2,2,335000,"Drayton Gardens, Wynyard, Billingham TS22"
-358,2,1,1,115000,"Ouse Crescent, Great Lumley, Chester Le Street DH3"
-359,5,3,7,1500000,"Fir Tree Farm, Sedgefield, Stockton-On-Tees, County Durham TS21"
-360,3,1,1,128000,"Conyers Avenue, Chester Le Street DH2"
-361,3,,,150000,"Greenhills, Byers Green, Spennymoor, Durham DL16"
-362,2,1,1,75000,"St Ives Place, Murton, Seaham, County Durham SR7"
-363,2,1,1,215000,"Adelaide Grove, Stockton-On-Tees TS18"
-364,4,4,1,98000,"High Street, Easington Lane, Houghton Le Spring DH5"
-365,3,1,1,89950,"North Cross Street, Leadgate, Consett DH8"
-366,6,3,3,330000,"Beech Wood, Castle Eden, Hartlepool TS27"
-367,2,1,1,129995,"The Pasture, Newton Aycliffe DL5"
-368,1,1,1,52500,"Business Investment Opportunity David Road, Norton, Stockton-On-Tees TS20"
-369,3,2,1,185000,"Woodborough Lane, Stockton-On-Tees TS19"
-370,3,2,1,169950,"Thornaby Road, Thornaby, Stockton-On-Tees TS17"
-371,3,2,1,135000,"Findon Hill, Sacriston, Durham, Durham DH7"
-372,3,2,2,180000,"Greenland Mews, Pelton Fell, Chester Le Street DH2"
-373,2,1,1,55000,"Blanchland Court, Ashington NE63"
-374,2,1,,40000,"Hardwick Street, Horden, Peterlee SR8"
-375,2,1,1,110000,"Mill Lane, Sherburn Village DH6"
-376,2,1,1,218000,"Durham Road, Wolviston, Billingham TS22"
-377,3,2,1,149950,"Drybourne Park, Shildon DL4"
-378,2,1,1,105000,"Ramsey Close, Peterlee SR8"
-379,3,2,1,165000,"Denshaw Close, Fairfield, Stockton-On-Tees TS19"
-380,4,4,,399950,"Coniston Grange, East Boldon NE36"
-381,3,,1,199950,"Cromarty, Chester-Le-Street DH2"
-382,2,1,1,65000,"Watt Street, Seaham SR7"
-383,,,,12000,"General Bucher Court, Bishop Auckland DL14"
-384,2,1,1,45000,"Church Street, Shildon DL4"
-385,4,2,2,240000,"Holwick Close, Consett DH8"
-386,3,2,1,140000,"Tyne Road, Stanley DH9"
-387,2,,,70000,"Park Road, Witton Park, Bishop Auckland, Durham DL14"
-388,3,1,1,100000,"West Lea, New Herrington, Houghton Le Spring DH4"
-389,2,2,,175000,"Rimswell Road, Stockton-On-Tees TS19"
-390,2,1,1,150000,"Wimpole Road, Fairfield, Stockton-On-Tees TS19"
-391,4,2,2,259500,"Celandine Gardens, Hartlepool TS26"
-392,4,1,,155000,"Chillerton Way, Wingate TS28"
-393,4,3,2,314995,"""Alderney"" at Coxhoe, Durham DH6"
-394,4,2,2,282995,"""Kennford"" at Riverston Close, Hartlepool TS26"
-395,4,2,2,282995,"""Kennford"" at Riverston Close, Hartlepool TS26"
-396,4,3,2,319995,"""Alderney"" at Riverston Close, Hartlepool TS26"
-397,4,3,2,294995,"""Alderney"" at Rosedale, Spennymoor DL16"
-398,3,1,2,152500,"Merlin Way, Hartlepool TS26"
-399,5,2,3,695000,"Waldridge Lane, Chester Le Street DH2"
-400,2,1,1,79950,"Waltons Terrace, New Brancepeth, Durham DH7"
-401,2,,,100000,"2 School Court, Broompark, Durham, County Durham DH7"
-402,3,1,1,143000,"Goldfinch Road, Easington Lane, Houghton Le Spring DH5"
-403,2,2,1,89950,"Elliot Street, Sacriston, Durham DH7"
-404,3,1,1,120000,"Herrington Road, Billingham TS23"
-405,3,1,3,195000,"Greenfield Way, Houghton Le Spring DH4"
-406,2,1,1,90000,"Twizell Lane, West Pelton, Stanley DH9"
-407,2,1,1,80000,"Galashiels Grove, Houghton Le Spring DH4"
-408,2,1,1,170000,"Leyland Close, Bowburn, Durham DH6"
-409,3,2,1,250000,"Haughton Green, Darlington DL1"
-410,5,,,745000,"White Smocks, Durham DH1"
-411,2,,,79950,"Lyons Lane, Easington Lane DH5"
-412,4,1,1,120000,"Daventry Avenue, Stockton-On-Tees TS19"
-413,3,2,,50000,"Third Street, Horden, Peterlee SR8"
-414,3,2,1,150000,"Redmire Road, Stockton-On-Tees TS18"
-415,2,1,1,65000,"Warnebrook Avenue, Murton, Durham, Durham SR7"
-416,3,3,1,320000,"West End, Sedgefield TS21"
-417,2,1,1,39999,"Ninth Street, Blackhall Colliery, County Durham TS27"
-418,3,2,,40000,"Byron Terrace, Shotton Colliery, Durham DH6"
-419,4,2,2,374995,"Eden Crescent, Great Lumley, Chester Le Street DH3"
-420,2,1,1,159950,"Station Road South, Murton, Seaham SR7"
-421,2,1,1,145000,"Nable Hill Close, Chilton DL17"
-422,4,1,1,205000,"Wesley Gardens, Consett, Durham DH8"
-423,4,2,2,600000,"Elwick Road, Hartlepool TS26"
-424,3,2,1,105000,"Wolviston Road, Hartlepool TS25"
-425,1,1,1,79950,"Front Street West, Penshaw, Houghton Le Spring DH4"
-426,4,2,2,600000,"Elwick Road, Hartlepool TS26"
-427,3,2,1,105000,"Park Road, Consett DH8"
-428,3,1,1,150000,"Lulsgate, Thornaby, Stockton-On-Tees TS17"
-429,3,2,1,249950,"Dormand Drive, Oakerside Park, Peterlee, County Durham SR8"
-430,2,1,1,115000,"Sherburn Terrace, Consett DH8"
-431,2,1,,125000,"Cutlers Hall Road, Shotley Bridge, Consett DH8"
-432,3,,,259995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-433,3,,,196995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-434,3,1,1,244995,"Chester Grove, Darlington DL3"
-435,4,2,2,325000,"High Grange Way, Wingate TS28"
-436,4,2,1,230000,"Hatfield Close, Eaglescliffe, Stockton-On-Tees, Durham TS16"
-437,4,1,2,244950,"Harwood Drive, Houghton Le Spring DH4"
-438,2,1,1,40000,"Regent Street, Eldon Lane, Bishop Auckland DL14"
-439,3,2,1,150000,"Edward Street, Durham DH1"
-440,3,1,1,135000,"Chestnut Court, Toft Hill, Bishop Auckland DL14"
-441,2,1,1,195000,"The Dray, Satley DL13"
-442,2,1,1,36000,"High Street, Tow Law, Bishop Auckland DL13"
-443,5,1,1,230000,"Horden Burn Close, Stockton-On-Tees TS18"
-444,3,1,2,160000,"Richardson Way, Consett DH8"
-445,3,2,2,230000,"Kensington Close, Consett DH8"
-446,3,1,3,225000,"Kirkwood Drive, Durham DH1"
-447,3,,2,195000,"Front Street, Pity Me, Durham DH1"
-448,2,,,140000,"Buttercup Lane, Newbottle DH4"
-449,3,2,2,175000,"Golden Meadows, Hartlepool TS25"
-450,4,2,2,245000,"Golden Meadows, Hartlepool TS25"
-451,2,1,1,100000,"Meadowfield, Burnhope, Durham, Durham DH7"
-452,4,1,1,249995,"Rolling Mill, Consett DH8"
-453,4,2,3,385000,"Drayton Gardens, Wynyard, Billingham TS22"
-454,4,2,2,250000,"Chaucer Close, Billingham TS23"
-455,3,1,2,199950,"Brantwood, Chester Le Street DH2"
-456,3,2,1,95000,"Dale View, Crook DL15"
-457,2,1,1,59950,"Middleham Close, Ouston, Chester Le Street DH2"
-458,3,2,2,166550,"Grenaby Way, Murton, Seaham SR7"
-459,3,,1,109999,"Henley Avenue, Chester-Le-Street DH2"
-460,2,2,1,59995,"Charlotte Street, South Moor, Stanley DH9"
-461,3,1,1,125000,"Chapel Drive, Chapel Drive, Consett, Durham DH8"
-462,2,2,1,155000,"Golf Course Road, Houghton Le Spring DH4"
-463,2,1,1,70000,"Billingham Road, Norton, Stockton-On-Tees TS20"
-464,2,,,95000,"Forster Street, Consett, Durham DH8"
-465,2,1,2,89950,"Thomas Street, Sacriston, Durham DH7"
-466,3,1,,119950,"Hartoft Close, Newbottle, Houghton Le Spring DH4"
-467,2,1,2,110000,"Sandringham Court, Chester Le Street DH3"
-468,3,1,2,215000,"Chester Burn Close, Pelton Fell, Chester Le Street DH2"
-469,2,1,1,49950,"Fifth Street, Horden SR8"
-470,2,1,1,95000,"Lingdale Road, Thornaby TS17"
-471,3,1,1,137500,"Lilac Grove, Chester Le Street DH2"
-472,2,1,1,105000,"Pentland Avenue, Billingham TS23"
-473,2,1,1,44500,"Stanhope Burn Holiday Park, Crawleyside DL13"
-474,2,1,2,38450,"Linburn Beck Park, Hamsterley DL13"
-475,2,1,2,48450,"Linburn Beck Park, Hamsterley DL13"
-476,2,2,1,72500,"Milton Avenue, Blackhall Colliery, Hartlepool TS27"
-477,4,3,3,315000,"Moorhen Road, Hartlepool TS26"
-478,3,2,1,92500,"Hampden Way, Thornaby, Stockton-On-Tees TS17"
-479,3,1,1,15000,"36 Fishburn Terrace, Fishburn, Stockton-On-Tees TS21"
-480,2,1,1,10000,"11 Alhambra Terrace, Fishburn, Stockton-On-Tees TS21"
-481,2,1,1,15000,"17 Derby Street, Hartlepool TS25"
-482,3,1,1,10000,"155 West View Road, Hartlepool TS24"
-483,2,1,1,10000,"10 Edward Street, Eldon Lane, Bishop Auckland, County Durham DL14"
-484,2,1,1,59950,"Burdon Court, Horden SR8"
-485,2,1,1,35995,"Village Green Holiday Park, Consett, Country Durham DH8"
-486,2,1,1,150000,"Auckland Way, Stockton-On-Tees TS18"
-487,5,4,3,595000,"Manor House Farm, Newton Bewley, Billingham TS22"
-488,3,2,1,169950,"Copse Lane, Ingleby Barwick, Stockton-On-Tees TS17"
-489,2,1,1,80000,"Disraeli Street, Houghton Le Spring DH4"
-490,3,2,2,185000,"Murray Park, Stanley, Durham DH9"
-491,2,2,,84999,"Houghton Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-492,7,,,145000,"Yarm Lane, Stockton-On-Tees TS18"
-493,3,1,1,175000,"Horsley Way, Billingham TS23"
-494,3,1,,80000,"Honeycomb Avenue, Stockton-On-Tees TS19"
-495,2,1,1,48000,"Beech Terrace, Eldon Lane, Bishop Auckland DL14"
-496,3,2,1,145000,"Mainsforth Drive, Billingham TS23"
-497,3,2,1,95000,"Princess Road, Seaham SR7"
-498,5,3,1,115000,"Jarvis Road, Peterlee SR8"
-499,1,1,1,55000,"Aged Miners Homes, Houghton Le Spring DH5"
-500,3,2,,175000,"Brougham Court, Peterlee SR8"
-501,3,1,1,52000,"Honister Place, Newton Aycliffe DL5"
-502,3,1,1,120000,"St. Georges Close, Newton Aycliffe DL5"
-503,3,1,1,130000,"Mitchell Avenue, Thornaby, Stockton-On-Tees TS17"
-504,4,3,2,325000,"Wells Grove, Durham DH1"
-505,4,2,2,334995,"""Cornell"" at Riverston Close, Hartlepool TS26"
-506,4,3,2,364995,"""Bradgate"" at Riverston Close, Hartlepool TS26"
-507,5,4,3,484995,"""Manning"" at Riverston Close, Hartlepool TS26"
-508,3,2,2,86995,"""Ellerton"" at Rosedale, Spennymoor DL16"
-509,3,2,2,87495,"""Ellerton"" at Rosedale, Spennymoor DL16"
-510,4,3,2,374995,"""Radleigh"" at Riverston Close, Hartlepool TS26"
-511,4,2,2,309995,"""Kingsley"" at Riverston Close, Hartlepool TS26"
-512,3,2,2,124995,"""Moresby"" at Edward Pease Way, Darlington DL2"
-513,3,2,2,87995,"""Ellerton"" at Rosedale, Spennymoor DL16"
-514,2,1,1,205000,"Parklands Court, Yarm Road, Eaglescliffe, Stockton-On-Tees TS16"
-515,3,1,1,160000,"Whistlewood Close, Hartlepool TS25"
-516,3,2,1,100000,"Kirkdale Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-517,2,1,1,95000,"Derwent Avenue, Crook DL15"
-518,2,1,2,290000,"Finchale View, Pity Me, Durham DH1"
-519,3,1,,165000,"St. Barnabas, Burnmoor, Houghton Le Spring DH4"
-520,2,1,1,40000,"Chaplin Street, Seaham SR7"
-521,1,3,1,119995,"Bridge House Estate, Ferryhill DL17"
-522,4,1,2,200000,"Kates Gill Grange, Stanley DH9"
-523,2,,1,295000,"21, Fenhall Park, Lanchester DH7"
-524,3,2,,240000,"Belle Vue Gardens, Consett DH8"
-525,3,2,1,330000,"Newstead Avenue, Stockton-On-Tees TS19"
-526,4,2,,509995,"""Sheringham"" at Carmel Road South, Darlington DL3"
-527,3,1,3,220000,"The Oval, Eaglescliffe, Stockton-On-Tees TS16"
-528,2,2,1,49995,"Selbourne Terrace, Darlington DL3"
-529,3,2,1,399950,"Meldon Way, High Shincliffe, Durham DH1"
-530,4,,,420000,"The Old Barn, Railway Street, Crook, Durham DL15"
-531,2,,1,60000,"4 Gordon Avenue, Peterlee, County Durham SR84Qn SR8"
-532,3,,,114950,"Milton Close, Stanley DH9"
-533,3,1,1,115000,"Northlands, Chester Le Street DH3"
-534,2,1,1,59950,"Davy Street, Ferryhill DL17"
-535,3,1,1,84950,"Store Terrace, Easington Lane, Houghton Le Spring DH5"
-536,3,1,2,189999,"Pickering Wynd, Wingate TS28"
-537,3,1,1,195000,"Leven Avenue, Chester Le Street DH2"
-538,2,,1,40000,"Frederick Street, Coundon, Bishop Auckland DL14"
-539,3,,1,65000,"Weardale Terrace, Stanley DH9"
-540,3,1,1,114950,"Allendale Crescent, Penshaw, Houghton Le Spring DH4"
-541,2,2,1,75000,"Woodlands Road, Bishop Auckland DL14"
-542,2,1,,45000,"Marlborough Street, Hartlepool TS25"
-543,4,1,3,275000,"Ropery Lane, Chester Le Street DH3"
-544,2,,,75000,"Hutchinson Street, Bishop Auckland DL14"
-545,3,,,140000,"Rowan Drive, Brasside, Durham DH1"
-546,2,1,1,75000,"Wasdale Close, Hartlepool TS24"
-547,2,1,1,140000,"Claypath Court, Durham DH1"
-548,6,3,3,315000,"Grenadier Close, Bramley Green, Stockton TS18"
-549,3,2,1,175000,"Wallington Road, Billingham TS23"
-550,3,2,2,260000,"Goldcrest Crescent, Wynyard TS22"
-551,3,1,,60000,"Milbank Terrace, Station Town, Wingate TS28"
-552,,,,25000,"Front Street, Grange Villa, Chester Le Street DH2"
-553,3,1,1,145000,"46 Darlington Lane, Stockton-On-Tees TS20"
-554,2,1,1,45000,"Chapel Hill Road, Peterlee SR8"
-555,3,1,2,260000,"Goldcrest Crescent, Wynyard, Billingham TS22"
-556,3,1,1,85000,"Cheviot Place, Peterlee, County Durham SR8"
-557,1,1,,42000,"Thornaby Place, Thornaby, Stockton-On-Tees TS17"
-558,2,2,1,45000,"North Terrace, Willington, Crook DL15"
-559,4,3,3,355000,"St. Marys Terrace, Coxhoe, Durham DH6"
-560,5,2,1,130000,"Lansdowne Road, Hartlepool TS26"
-561,,,,85000,"Chestnut Grove, Thornaby, Stockton-On-Tees, Durham TS17"
-562,3,1,1,147500,"Howden Road, Hartlepool TS24"
-563,3,1,1,90000,"Swan Street, Evenwood, Bishop Auckland, Durham DL14"
-564,4,1,2,335000,"Bloomfield Drive, Wynyard, Billingham TS22"
-565,3,2,1,95000,"Rectory Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-566,1,1,1,60000,"Roseberry Road, Billingham TS23"
-567,3,1,1,45000,"West View Road, Hartlepool TS24"
-568,3,1,1,110000,"Anchorage Mews, Thornaby, Stockton-On-Tees, Durham TS17"
-569,1,,,9000,"15, Hartington Road, Flat 9, Stockton-On-Tees TS181HD TS18"
-570,1,,,5000,"15, Hartington Road, Flat 8, Stockton-On-Tees TS181HD TS18"
-571,1,,,5000,"15, Hartington Road, Flat 7, Stockton-On-Tees TS181HD TS18"
-572,3,1,1,85000,"Willis Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-573,1,1,1,42000,"Waterloo House, Thornaby, Stockton-On-Tees TS17"
-574,2,1,1,58000,"Elizabeth Street, Thornaby, Stockton-On-Tees TS17"
-575,4,,,195000,"Loweswater Avenue, Chester Le Street, Durham DH2"
-576,5,3,,259950,"""The Winster"" at Cross Lane, Sacriston, Durham DH7"
-577,5,2,,259950,"""The Belmont"" at Tursdale Road, Bowburn, Durham DH6"
-578,3,3,,219950,"""The Derwent"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-579,3,3,,174950,"""The Windermere"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-580,4,2,,224950,"""The Hornsea"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-581,2,2,1,200000,"Front Street, Staindrop, Darlington, Durham DL2"
-582,3,1,2,147000,"Thompson Street West, Darlington DL3"
-583,5,2,2,120000,"Medomsley Road, Consett DH8"
-584,3,2,1,140000,"Aycliffe Close, Fairfield, Stockton TS19"
-585,4,2,2,120000,"Trinity Mews, Thornaby, Stockton-On-Tees, Durham TS17"
-586,2,1,1,70000,"Victoria Street, Shildon DL4"
-587,2,1,1,120000,"Hartfields, Hartlepool TS26"
-588,3,1,1,145000,"18, Alderdene, Lanchester DH7"
-589,4,2,,240000,"Butterstone Avenue, Hartlepool TS24"
-590,3,1,,260000,"St. Bedes Close, Crossgate Moor, Durham DH1"
-591,2,1,,44999,"Rose Street East, Penshaw, Houghton Le Spring DH4"
-592,4,2,2,325000,"Eden Crescent, Great Lumley, Great Lumley DH3"
-593,4,,,254995,"Chilton, Ferryhill DL17"
-594,4,2,1,190000,"Apsley Way, Ingleby Barwick, Stockton-On-Tees TS17"
-595,5,3,,599995,"""Turnberry"" at Carmel Road South, Darlington DL3"
-596,5,3,,564995,"""Sandhills"" at Carmel Road South, Darlington DL3"
-597,5,2,3,315000,"Blue House Court, Blackhall Colliery, Hartlepool TS27"
-598,3,2,1,119950,"Twizell Lane, West Pelton, Stanley DH9"
-599,2,,,85000,"4 Clarendon Road, Darlington, County Durham DL1"
-600,2,1,1,140000,"Pierremont Crescent, Darlington DL3"
-601,3,2,3,190000,"Stotsfieldburn Farm, Rookhope DL13"
-602,3,2,2,195000,"Balmoral, Great Lumley, Chester Le Street DH3"
-603,,,,40000,"Station Street, Shildon DL4"
-604,2,,,49950,"Eleventh Street, Horden, County Durham SR8"
-605,1,1,1,50000,"Bradley Close, Ouston, Chester Le Street DH2"
-606,1,1,1,40000,"Darlington Retail Park, Yarm Road, Darlington DL1"
-607,5,2,3,250000,"Larmouth Court, Durham DL15"
-608,2,1,1,109950,"St Marys Crescent, Blackhill DH8"
-609,4,1,2,230000,"Whitworth Park Drive, Houghton Le Spring DH4"
-610,2,1,1,82950,"Bainbridge Street, Carrville, Durham DH1"
-611,3,2,2,154950,"Roseberry Mews, West Pelton, Stanley DH9"
-612,3,1,1,75000,"Eden Terrace, Stanley DH9"
-613,2,,,65000,"Woodlands Road, Bishop Auckland, County Durham DL14"
-614,3,,3,280000,"Queen Elizabeth Drive, Consett, Durham DH8"
-615,3,2,1,135000,"Berkeley Road, Darlington DL1"
-616,4,,1,239000,"41 The Hollys, Birtley, Chester Le Street DH3"
-617,4,4,,259950,"""The Coniston"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-618,3,3,,179950,"""The Windermere"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-619,3,3,,134950,"""The Windermere"" at Hillside Road, Coundon, Bishop Auckland DL14"
-620,3,3,,139950,"""The Barton"" at Hillside Road, Coundon, Bishop Auckland DL14"
-621,3,3,,209950,"""The Derwent"" at Tursdale Road, Bowburn, Durham DH6"
-622,4,3,,264950,"""The Chedworth"" at Cross Lane, Sacriston, Durham DH7"
-623,3,2,1,290000,"North End, Durham DH1"
-624,3,1,1,80000,"Park Avenue, Coundon Gate, Bishop Auckland DL14"
-625,2,1,,145000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-626,3,1,1,180000,"Runnymede, Great Lumley, Chester Le Street DH3"
-627,2,1,1,89950,"Best View, Shiney Row, Houghton Le Spring DH4"
-628,2,,,160000,"Willow Court, Toft Hill, Bishop Auckland DL14"
-629,2,1,1,75000,"Elizabeth Street, Houghton Le Spring DH5"
-630,3,1,2,224950,"Elwick, Hartlepool TS27"
-631,3,1,1,65950,"The Bye, Consett DH8"
-632,2,2,1,75000,"Oakley Green, West Auckland, Bishop Auckland, Durham DL14"
-633,3,,2,89000,"Cotherstone Court Easlington Lane, Hetton Le Hole DH5"
-634,5,3,3,520000,"Orchard Close, Wynyard TS22"
-635,3,1,2,154950,"Roseberry Mews, West Pelton, Stanley DH9"
-636,3,1,1,160000,"Napoleon Way, Stockton-On-Tees TS19"
-637,3,1,2,184950,"Whitethroat Close, Hetton-Le-Hole, Houghton Le Spring DH5"
-638,2,1,1,58000,"Spen Street, Stanley DH9"
-639,3,1,1,65000,"Stockton Road, Hartlepool TS25"
-640,2,2,1,29000,"Beaconsfield Street, The Headland, Hartlepool TS24"
-641,2,1,1,70000,"The Avenue, Seaham SR7"
-642,2,1,1,38000,"Kendal Road, Hartlepool TS25"
-643,2,1,1,135000,"Fairville Road, Fairfield, Stockton-On-Tees TS19"
-644,3,1,,175000,"Parsley Close, Easington, Peterlee SR8"
-645,2,1,1,110000,"Longfield Road, Darlington DL3"
-646,3,1,1,75000,"Leamington Parade, Hartlepool TS25"
-647,2,1,1,87500,"Horsley Close, Craghead, Stanley DH9"
-648,2,1,1,89950,"Kirknewton Close, Houghton Le Spring DH5"
-649,2,1,1,115000,"Quarry Square, Tantobie, Stanley DH9"
-650,4,1,1,85000,"Welland Close, Peterlee SR8"
-651,3,2,1,99950,"Regent Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-652,4,2,1,95000,"Webb Close, Newton Aycliffe DL5"
-653,2,1,1,100000,"Crosby Street, Darlington, Co Durham DL3"
-654,2,1,1,75000,"Melksham Square, Stockton-On-Tees TS19"
-655,3,2,1,105000,"Sunny Blunts, Peterlee, County Durham SR8"
-656,3,2,1,90000,"Vale Drive, Thornaby, Stockton-On-Tees TS17"
-657,2,1,,30000,"Castle Eden, Hartlepool TS27"
-658,2,1,1,75000,"Temple Gardens, Consett DH8"
-659,2,,,28000,"27 Cameron Road, Hartlepool, Cleveland TS24"
-660,1,1,1,70000,"Catcote Road, Hartlepool TS25"
-661,2,1,2,109995,"Heron Drive, Darlington DL1"
-662,2,,1,60000,"4 Gordon Avenue, Horden, Peterlee SR8"
-663,2,2,1,75000,"North View, Sherburn Hill, Durham DH6"
-664,3,2,,169950,"""The Derwent Corner"" at Hillside Road, Coundon, Bishop Auckland DL14"
-665,3,2,1,145000,"Yarm Road, Stockton-On-Tees, Cleveland TS18"
-666,2,2,,40000,"Greenwells Garth, Coundon, Bishop Auckland DL14"
-667,2,1,1,75000,"East Street, Stanley, Durham DH9"
-668,2,,,29000,"Flat 4, 15 Front Street, Leadgate, Consett, County Durham DH8"
-669,3,,,32000,"9 Angus Street, Peterlee, County Durham SR8"
-670,2,,,28000,"13 Ninth Street, Horden, Durham SR8"
-671,3,,,99950,"Regent Street, Hetton-Le-Hole, Tyne &amp; Wear DH5"
-672,4,2,2,399995,"""Parkin"" at South Road, Durham DH1"
-673,3,2,2,214995,"""Archford"" at Edward Pease Way, Darlington DL2"
-674,4,2,2,266995,"""Ingleby"" at Edward Pease Way, Darlington DL2"
-675,5,4,3,473995,"""Manning"" at Riverston Close, Hartlepool TS26"
-676,3,2,2,215000,"""Denby"" at Rosedale, Spennymoor DL16"
-677,2,1,,45000,"Leeholme Road, Leeholme, Bishop Auckland DL14"
-678,2,1,,30000,"Seventh Street, Horden, Peterlee SR8"
-679,2,2,,30000,"Sheriff Street, Hartlepool TS26"
-680,3,2,1,170000,"New Durham Road, Stanley DH9"
-681,2,1,1,100000,"Fallow Road, Newton Aycliffe DL5"
-682,2,1,1,79950,"Lyons Lane, Easington Lane, Houghton Le Spring DH5"
-683,3,2,1,75000,"Mulgrave Road, Hartlepool TS26"
-684,1,1,1,32500,"Woodbine Terrace, New Kyo, Stanley DH9"
-685,1,1,,97000,"Rectory Bank, West Boldon, East Boldon NE36"
-686,3,1,2,175000,"Woodwhite Close, Heritage Green, Houghton Le Spring DH4"
-687,4,2,2,220000,"Winford Grove, Wingate TS28"
-688,3,2,3,350000,"Rowan Cottage, Houghton Bank, Heighington, County Durham DL2"
-689,3,,,221995,"Harrowgate Lane, Stockton-On-Tees TS19"
-690,3,,,157995,"Chilton, Ferryhill DL17"
-691,3,,,162995,"Chilton, Ferryhill DL17"
-692,4,3,2,410000,"Hycroft, Stockton Road, Easington Village, County Durham SR8"
-693,2,,1,45000,"West View South Church, Bishop Auckland DL14"
-694,5,3,1,185000,"Cort Street, Consett DH8"
-695,2,2,1,59950,"Langley Avenue, Thornaby, Stockton-On-Tees TS17"
-696,5,1,3,325000,"Heather Lea, Flint Hill, Dipton DH9"
-697,5,4,4,525000,"Station Road, Stanley, County Durham DH9"
-698,4,,,300000,"Murray Park, Stanley DH9"
-699,4,1,2,370000,"Broadleaf Walk, Birtley DH3"
-700,5,3,,419950,"""The Fenchurch"" at Coppice Lane, Wynyard, Billingham TS22"
-701,3,1,2,160000,"Inglefield, Hartlepool, Cleveland TS25"
-702,2,1,1,89950,"Highfield Rise, Chester Le Street DH3"
-703,3,1,1,90000,"Wynyard, Chester Le Street DH2"
-704,5,,,60000,"6 York Road, Hartlepool, Cleveland TS26"
-705,2,2,1,175000,"20 Surtees Terrace, Ferryhill, Durham DL17"
-706,3,2,,219950,"""The Piccadilly"" at Sunderland Road, Easington, Peterlee SR8"
-707,4,4,,359950,"""The Mayfair"" at Coppice Lane, Wynyard, Billingham TS22"
-708,3,1,2,125000,"Field View, Bearpark, Durham DH7"
-709,2,1,1,65000,"Moravian Street, Crook DL15"
-710,3,2,,159950,"Cottingham Grove, Thornley, Durham DH6"
-711,3,1,1,150000,"Greens Beck Road, Stockton-On-Tees TS18"
-712,2,,,200000,"Ingleby, Gillas Lane East, Houghton-Le-Spring DH5"
-713,4,2,1,210000,"Bolton Close, Newton Hall, Durham DH1"
-714,3,1,2,200000,"Bridle Way, Houghton Le Spring DH5"
-715,3,2,,179950,"""The Delamare"" at Old Cemetery Road, Hartlepool TS24"
-716,2,1,1,89950,"Elm Street, Langley Park, Durham DH7"
-717,3,2,1,150000,"Chadderton Drive, Thornaby, Stockton-On-Tees TS17"
-718,2,1,1,110000,"Henry Street, Houghton Le Spring DH5"
-719,3,2,1,135000,"Ringwood Crescent, Stockton-On-Tees TS19"
-720,3,1,1,195000,"Carradale Close, Eaglescliffe TS16"
-721,3,1,1,125000,"Grangewood Court, Shiney Row, Houghton Le Spring DH4"
-722,3,1,2,249950,"Acer Drive, Haswell, Durham DH6"
-723,2,,1,400000,"Harlsey Road, Stockton-On-Tees TS18"
-724,3,1,2,175000,"Hills Drive, Norton, Stockton TS20"
-725,2,2,1,160000,"Beechwood Road, Eaglescliffe, Stockton-On-Tees TS16"
-726,3,1,1,140000,"Edendale Crescent, Howden Le Wear, Crook DL15"
-727,4,1,2,270000,"Dunstan Close, Chester Le Street DH2"
-728,2,1,1,75000,"Edward Terrace, New Brancepeth, Durham DH7"
-729,4,1,2,225000,"Brookes Rise, Langley Moor, Durham DH7"
-730,3,2,1,400000,"Causey Way, Kip Hill, Durham DH9"
-731,4,3,2,550000,"The Willow Chase, Long Newton, Stockton-On-Tees TS21"
-732,3,,,75000,"Broomlee Close, Newton Aycliffe, Durham DL5"
-733,4,2,,85000,"Seymour Street, Bishop Auckland DL14"
-734,3,,,100000,"Fleet Street, Bishop Auckland, Durham DL14"
-735,4,2,1,240000,"Stuart Close, Blackhall Colliery, Hartlepool TS27"
-736,7,3,3,925000,"Thorpe Thewles, Stockton-On-Tees TS21"
-737,3,,,235000,"West End, Witton Le Wear, Bishop Auckland DL14"
-738,3,1,1,110000,"Front Street, Sherburn Hill, Durham, Durham DH6"
-739,2,1,,42000,"Wharton Street, Coundon, Bishop Auckland DL14"
-740,2,,,110000,"Fore Bondgate, Bishop Auckland DL14"
-741,3,1,1,269950,"Coatham Drive, Hartlepool TS26"
-742,3,,,155000,"Queensway, Consett, Durham DH8"
-743,2,2,1,42000,"Wharton Street, Coundon, Bishop Auckland DL14"
-744,1,1,1,59950,"Cestrian Court, Newcastle Road, Chester Le Street, County Durham DH3"
-745,2,1,1,51500,"Derwent Street, Hartlepool TS26"
-746,3,,,250000,"Durham Lane, Eaglescliffe, Stockton-On-Tees, Durham TS16"
-747,4,2,2,250000,"Lucombe Close, Biddick Woods, Houghton Le Spring DH4"
-748,3,2,1,85000,"Goldsmith Avenue, Hartlepool TS24"
-749,2,2,1,175000,"Whitehouse Road, Billingham TS22"
-750,4,,2,450000,"Gore Hill Estate, Thornley, Durham DH6"
-751,3,,,90000,"Rochdale Street, Evenwood, Bishop Auckland, Durham DL14"
-752,1,1,1,89950,"Minster Court, Belmont, Durham DH1"
-753,3,1,1,155000,"Plumer Drive, Norton, Stockton-On-Tees TS20"
-754,3,1,1,80000,"Mardale Street, Hetton Le Hole, Tyne &amp; Wear DH5"
-755,2,1,,25000,"Fifth Street, Horden, Peterlee SR8"
-756,2,1,,140000,Chester Le Street DH2
-757,5,3,2,250000,"Market Place, St Johns Chapel, Bishop Auckland DL13"
-758,3,,,155000,"New Park, Newfield, Bishop Auckland DL14"
-759,4,2,1,229995,"Greywood Close, Hartlepool TS27"
-760,3,,,224950,"Howards Green, Edward Pease Way, Darlington, England DL2"
-761,2,1,1,45000,"William Street, South Moor DH9"
-762,2,1,,160000,"Torquay Avenue, Hartlepool TS25"
-763,3,,,140000,"Thirlmere Grove, West Auckland, Bishop Auckland, Durham DL14"
-764,4,,,376995,"Vigo Lane, Chester Le Street DH3"
-765,3,,,160000,"Lanethorpe Crescent, Darlington, Durham DL1"
-766,3,2,1,185000,"Hall Walk, Peterlee SR8"
-767,3,1,1,110000,"Pensbury Street, Darlington DL1"
-768,2,1,,47000,"Wadham Close, Peterlee SR8"
-769,3,1,2,170000,"Highgate Mews, Blackhill, Consett DH8"
-770,3,,1,150000,"Middleton Road, Woodland, Bishop Auckland DL13"
-771,4,1,2,300000,"2 North Terrace, Newton Aycliffe DL5"
-772,2,1,2,235000,"Finney Terrace, Durham DH1"
-773,5,2,3,395000,"Church Walk, Thornley, Durham DH6"
-774,4,2,2,395000,"Church Walk, Thornley, Durham DH6"
-775,2,2,1,25000,"Tees Street, Horden, County Durham SR8"
-776,2,1,,105000,"Grantham Avenue, Seaham SR7"
-777,3,2,1,160000,"Ravensworth Grove, Stockton-On-Tees TS18"
-778,4,2,2,270000,"Dunstan Close, Chester Le Street DH2"
-779,4,1,1,170000,"Cedar Court, Stanley DH9"
-780,3,1,1,170000,"Hallgate Close, Stockton-On-Tees, Durham TS18"
-781,2,1,1,99950,"Lockyer Close, Newton Aycliffe DL5"
-782,4,3,2,349950,"Handley Cross, Medomsley, Consett DH8"
-783,2,1,1,60000,"Poplar Street, Stanley DH9"
-784,3,,,221995,"Harrowgate Lane, Stockton-On-Tees TS19"
-785,3,2,1,80000,"Redworth Road, Shildon DL4"
-786,3,1,1,210000,"Rockbourne Way, Ingleby Barwick, Stockton-On-Tees TS17"
-787,3,1,2,84995,"Sherburn Terrace, Consett DH8"
-788,2,2,,85000,"Grange Court, Carrville, Durham DH1"
-789,5,2,3,595000,"Manor Field, Wynyard TS22"
-790,3,,,35500,"Wynyard Mews, Hartlepool TS25"
-791,4,2,3,330000,"Skripka Drive, Billingham TS22"
-792,4,1,3,240000,"Buckthorn Crescent, Stockton-On-Tees TS21"
-793,2,1,1,68500,"Matthews Road, Murton, Seaham, County Durham SR7"
-794,5,4,2,89000,"Front Street, County Durham TS28"
-795,3,2,1,65000,"Albion Avenue, Shildon, County Durham DL4"
-796,2,1,2,110000,"Sculptor Crescent, Stockton-On-Tees, Durham TS18"
-797,4,2,2,120000,"Wolviston Walk, Stockton-On-Tees TS19"
-798,3,,,115000,"Dale Road, Shildon, Durham DL4"
-799,2,1,1,180000,"Shannon Crescent, Stockton-On-Tees TS19"
-800,3,1,1,140000,"Port Sunlight Grove, Stockton-On-Tees TS19"
-801,2,1,,90000,"Honey Way, Stockton-On-Tees TS19"
-802,3,1,1,94000,"Garden Terrace, Coxhoe, Durham, Durham DH6"
-803,2,1,1,95000,"Scholars Park, Darlington DL3"
-804,4,,,220000,"Harwood Close, Templetown, Consett, Durham DH8"
-805,2,2,,137950,"""The Alnmouth"" at Old Cemetery Road, Hartlepool TS24"
-806,2,2,1,95000,"West View, Hunwick, Crook DL15"
-807,1,1,1,110000,"Fairwell Road, Stockton-On-Tees TS19"
-808,2,1,,79950,"Roseberry Street, Beamish, Stanley DH9"
-809,2,,,68000,"Holdforth Crest, Bishop Auckland DL14"
-810,3,2,1,139500,"Farnham Road, Newton Hall, Durham DH1"
-811,3,1,2,179995,"Plot 217 - 76 High Grange, Wingate, County Durham TS28"
-812,2,1,1,166995,"""Denford"" at Riverston Close, Hartlepool TS26"
-813,2,1,1,169995,"""Denford"" at Riverston Close, Hartlepool TS26"
-814,2,1,1,161995,"""Denford"" at Riverston Close, Hartlepool TS26"
-815,2,1,2,85000,"Henley Gardens, Consett DH8"
-816,2,2,2,335000,"The Waterside, Middleton Hall Retirement Village, Middleton St George DL2"
-817,3,1,3,129950,"Bessemer Crescent, Stockton-On-Tees TS19"
-818,4,1,2,220000,"Auckland Close, Houghton-Le-Spring, Tyne And Wear DH4"
-819,4,2,1,95000,"Lily Gardens, Dipton DH9"
-820,3,2,2,65995,"Eddleston Walk, Hartlepool TS25"
-821,4,,,145000,"Rosemary Lane, Peterlee, Durham SR8"
-822,5,3,,329950,"""The Marylebone"" at Sunderland Road, Easington, Peterlee SR8"
-823,3,1,,110000,"Thurlow Way, Houghton Le Spring DH5"
-824,4,1,1,85000,"Honister Place, Newton Aycliffe DL5"
-825,4,1,3,160000,"Ashmore Gardens, Stockton-On-Tees TS18"
-826,4,1,1,250000,"Wanstead Crescent, Chester Le Street DH3"
-827,5,1,2,460000,"St. Johns Road, Durham DH1"
-828,5,2,1,450000,"Laburnum Avenue, Durham DH1"
-829,1,1,1,195000,"Gilesgate, Durham DH1"
-830,5,3,1,395000,"Nesham Place, Houghton Le Spring DH5"
-831,3,2,2,145000,"High Street, Tow Law, Bishop Auckland DL13"
-832,2,,,73000,"Oakley Green, West Auckland, Bishop Auckland, Durham DL14"
-833,,,,30000,"West Kyo, Stanley DH9"
-834,2,1,1,110000,"Lindisfarne, Oakerside Park, Peterlee, County Durham SR8"
-835,2,1,,40000,"Second Street, Blackhall Colliery, Hartlepool TS27"
-836,2,1,,40000,"Fifth Street, Horden, Peterlee SR8"
-837,2,2,1,120000,"Union Street, Hetton Le Hole, Tyne &amp; Wear DH5"
-838,3,2,1,300000,"Bishopton Road, Stockton-On-Tees TS18"
-839,,,,89950,"Low Field, Coxhoe, Durham DH6"
-840,,,,89950,"Low Field, Coxhoe, Durham DH6"
-841,,,,89950,"Low Field, Coxhoe, Durham DH6"
-842,,,,89950,"Low Field, Coxhoe, Durham DH6"
-843,,,,89950,"Low Field, Coxhoe, Durham DH6"
-844,,,,89950,"Low Field, Coxhoe, Durham DH6"
-845,,,,550000,"Low Field, Coxhoe, Durham DH6"
-846,,,,89950,"Low Field, Coxhoe, Durham DH6"
-847,3,2,1,52000,"Mulgrave Road, Hartlepool TS26"
-848,2,2,1,80000,"Ironside Street, Houghton Le Spring DH5"
-849,3,,,95000,"Matthews Road, Murton, County Durham SR7"
-850,3,1,1,175000,"Lichfield Close, Great Lumley, Chester Le Street DH3"
-851,2,1,1,80000,"Honey Way, Stockton-On-Tees, Stockton On Tees TS19"
-852,3,2,,194950,"""The Souter"" at The Rings, Ingleby Barwick, Stockton-On-Tees TS17"
-853,2,2,1,136995,"""Kenley"" at Rosedale, Spennymoor DL16"
-854,2,1,1,82500,"Manor Drive, Stillington TS21"
-855,2,1,1,130000,"Bellflower Close, Newbottle, Houghton Le Spring DH4"
-856,3,1,1,125000,"Woodland View, Houghton Le Spring DH4"
-857,2,1,1,65000,"Woodlands Road, Bishop Auckland DL14"
-858,5,3,3,525000,"Silvermede Road, Wynyard, Billingham TS22"
-859,3,1,2,180000,"Burnhope Court, Durham DH7"
-860,3,1,,145000,"Lindisfarne, Peterlee SR8"
-861,3,2,1,52000,"Mulgrave Road, Hartlepool TS26"
-862,3,,,130000,"Bothal Walk, Stockton-On-Tees, Durham TS19"
-863,2,1,,90000,"Heritage Court, Darlington DL3"
-864,3,2,1,15000,"Sydenham Road, Hartlepool, County Durham TS25"
-865,2,1,1,75000,"Front Street, Sherburn Hill, Durham, Durham DH6"
-866,2,1,1,75000,"Stanhope Gardens, Annfield Plain, County Durham DH9"
-867,3,1,,125950,"Low Row, Easington Village, Peterlee SR8"
-868,2,1,,125000,"Low Row, Easington Village, Peterlee SR8"
-869,1,1,,119950,"Low Row, Easington Village, Peterlee SR8"
-870,2,1,,119950,"Low Row, Easington Village, Peterlee SR8"
-871,2,1,,119950,"Low Row, Easington Village, Peterlee SR8"
-872,1,1,,129950,"Low Row, Easington Village, Peterlee SR8"
-873,4,2,1,225000,"Greens Grove, Stockton-On-Tees TS18"
-874,2,1,1,54995,"Village Green Holiday Park, Consett, Country Durham DH8"
-875,2,1,2,300000,"Harvest View, Hag House Farm, Pity Me DH1"
-876,4,4,4,146000,"Bowesfield Lane, Stockton-On-Tees TS18"
-877,3,3,1,118000,"Moorsfield, Houghton Le Spring DH4"
-878,3,1,1,84950,"Hemmel Courts, Brandon, Durham DH7"
-879,3,1,2,84950,"Beechfield, Newton Aycliffe DL5"
-880,2,1,1,38000,"Pine Street, Grange Villa, Chester Le Street DH2"
-881,4,,,371995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-882,4,,,391995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-883,4,,,432995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-884,5,,,432995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-885,4,,,381995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-886,4,,,381995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-887,4,,,339995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-888,4,,,294995,"Benridge Bank, West Rainton, Houghton Le Spring DH4"
-889,4,,,315995,"Vigo Lane, Chester Le Street DH3"
-890,4,,,304994,"Vigo Lane, Chester Le Street DH3"
-891,3,,,234995,"Vigo Lane, Chester Le Street DH3"
-892,4,,,345995,"Vigo Lane, Chester Le Street DH3"
-893,3,,,284995,"Vigo Lane, Chester Le Street DH3"
-894,4,,,315995,"Vigo Lane, Chester Le Street DH3"
-895,3,,,253995,"Vigo Lane, Chester Le Street DH3"
-896,4,,,315995,"Vigo Lane, Chester Le Street DH3"
-897,3,,,238995,"Harrowgate Lane, Stockton-On-Tees TS19"
-898,4,,,259995,"Harrowgate Lane, Stockton-On-Tees TS19"
-899,3,,,186100,"Harrowgate Lane, Stockton-On-Tees TS19"
-900,3,,,213995,"Chilton, Ferryhill DL17"
-901,2,1,1,62995,"Dene Villas, Horden, Co. Durham SR8"
-902,3,1,,55000,"Ezard Street, Stockton-On-Tees TS19"
-903,3,,,110000,"Gullane Close, Stanley, Durham DH9"
-904,4,3,2,250000,"Yarm Road, Darlington DL1"
-905,3,1,1,104950,"Ashwood Close, Sacriston, Durham DH7"
-906,2,1,1,38000,"Kendal Road, Hartlepool TS25"
-907,3,1,1,99950,"Darlington Lane, Norton, Stockton-On-Tees TS20"
-908,2,1,,55000,"Wren Street, Stockton-On-Tees TS18"
-909,2,1,,55000,"Wren Street, Stockton-On-Tees TS18"
-910,2,2,1,129950,"Black Road, Langley Moor, Durham DH7"
-911,5,4,3,375000,"Mains Park Road, Chester Le Street DH3"
-912,5,1,3,450000,"Plot 38, Hardwick Grange, Sedgefield, Stockton On Tees TS21"
-913,2,1,1,84950,"Barnhill, Stanley DH9"
-914,4,1,,170000,"Stapleton Street, Norton, Stockton-On-Tees TS20"
-915,3,1,,75000,"Wylam Road, Norton, Stockton-On-Tees TS20"
-916,3,1,,55000,"Arlington Street, Stockton-On-Tees TS18"
-917,3,1,,85000,"Imperial Road, Billingham TS23"
-918,5,3,1,1000000,"Carrs Farm, Wolsingham, County Durham DL13"
-919,1,1,1,54950,"Squires Court, Darlington DL3"
-920,2,1,,190000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-921,3,1,,230000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-922,5,3,1,375000,"Holderness Drive, West Park, Darlington DL2"
-923,4,2,2,274995,"Thurleston, Newbottle, Houghton Le Spring DH4"
-924,3,3,1,249995,"Okehampton Drive, Newbottle, Houghton Le Spring DH4"
-925,3,1,2,140000,"Hadrians Way, Ebchester, Consett DH8"
-926,4,1,1,170000,"Stapleton Street, Stockton-On-Tees TS20"
-927,3,2,2,95000,"Hatfield Place, Peterlee SR8"
-928,4,2,2,414995,"""Irving"" at South Road, Durham DH1"
-929,4,3,2,524995,"""Bradgate"" at South Road, Durham DH1"
-930,4,3,2,367995,"""Avondale"" at Riverston Close, Hartlepool TS26"
-931,3,2,2,239995,"""Denby"" at Coxhoe, Durham DH6"
-932,3,2,2,245500,"""Denby"" at Coxhoe, Durham DH6"
-933,3,2,2,88499,"""Maidstone"" at Rosedale, Spennymoor DL16"
-934,3,2,1,90000,"Harthope Grove, Bishop Auckland DL14"
-935,4,1,2,269950,"Westerton Close, Binchester Moor, Spennymoor DL16"
-936,3,1,1,90000,"South End Villas, Crook DL15"
-937,,,,125000,"Brougham Terrace, Hartlepool TS24"
-938,3,2,1,80000,"Pendower Street, Darlington DL3"
-939,2,2,1,110000,"Stanley Street, Norton, Stockton-On-Tees TS20"
-940,3,1,1,230000,"Hilda Park, Chester Le Street DH2"
-941,2,1,1,164950,"Cloverfield Court, Close House, Bishop Auckland DL14"
-942,2,1,1,130000,"Myrtle Road, Eaglescliffe, Stockton-On-Tees TS16"
-943,3,1,,44000,"Hindpool Close, Hartlepool TS24"
-944,2,,,55000,"Eldon Street, Darlington DL3"
-945,4,3,2,250000,"Tavistock Close, Hartlepool TS27"
-946,2,1,1,92950,"South View, High Hold, Pelton, Chester Le Street DH2"
-947,4,2,2,250000,"Conwy Grove, Ingleby Barwick, Stockton-On-Tees TS17"
-948,3,1,3,230000,"Redruth Drive, Darlington DL3"
-949,2,1,1,185000,"Ivy Cottages, Holmside, Edmondsley, Durham DH7"
-950,3,1,1,280000,"Strawgate Grove, Stapleton, N/R Darlington DL2"
-951,3,2,2,240000,"Skripka Drive, Billingham TS22"
-952,4,3,3,450000,"Highfield Crescent, Chester Le Street DH3"
-953,3,2,1,59950,"Station Road, Shildon DL4"
-954,2,,1,68000,"Newby Grove, Stockton-On-Tees, North Yorkshire TS17"
-955,4,3,2,279950,"Heathfield Park, Middleton St George DL2"
-956,3,2,1,120000,"Prospect View, West Rainton, Houghton Le Spring DH4"
-957,4,1,,199999,"Whitefield Crescent, Penshaw, Houghton Le Spring DH4"
-958,3,2,2,295000,"Shotley Bridge, Consett DH8"
-959,4,2,2,130000,"Dunning Road, Ferryhill DL17"
-960,4,2,2,250000,"Brooklime Avenue, Stockton-On-Tees TS18"
-961,3,2,1,55000,"Arlington Street, Stockton-On-Tees TS18"
-962,2,1,1,55000,"Wren Street, Stockton-On-Tees TS18"
-963,2,1,1,55000,"Wren Street, Stockton Road TS18"
-964,3,1,1,75000,"Wylam Road, Stockton-On-Tees TS20"
-965,3,1,1,85000,"Imperial Road, Billingham TS23"
-966,2,2,1,55000,"Ezard Street, Stockton-On-Tees TS19"
-967,2,2,1,229995,"Elton Road, Billingham TS22"
-968,3,2,,227995,"""Harper"" at Finchale, County Durham, Finchale, County Durham DH1"
-969,3,2,,224995,"""Harper"" at Finchale, County Durham, Finchale, County Durham DH1"
-970,4,2,2,300000,"Redworth Road, Shildon DL4"
-971,2,1,,60000,"West Crescent, Easington, Peterlee SR8"
-972,3,2,1,65000,"Scarborough Street, Stockton-On-Tees, Cleveland TS17"
-973,3,2,1,145000,"Russell Street, Waterhouses, Durham DH7"
-974,4,,,239995,"Chilton, Ferryhill DL17"
-975,3,3,1,365000,"Edwin Street, Houghton Le Spring DH5"
-976,3,2,,90000,"Mitchell Street, South Moor, Stanley DH9"
-977,2,1,2,80000,"Deanery Court, Darlington DL3"
-978,3,3,,232950,"""The Derwent"" at Mill Lane, Sherburn Village, Durham DH6"
-979,3,2,1,90000,"Russell Place, Willington, Crook DL15"
-980,2,1,,40000,"Elwick Road, Hartlepool TS26"
-981,3,,2,180000,"Danesley Close, Peterlee, County Durham SR8"
-982,3,,2,180000,"Danesley Close, Peterlee, County Durham SR8"
-983,2,1,1,115000,"Hornbeam Walk, Stockton TS19"
-984,3,,,100000,"Front Street, West Auckland, Bishop Auckland DL14"
-985,4,2,2,325000,"Goldcrest Crescent, Wynyard, Billingham TS22"
-986,2,,,50000,"Brook Street, Coundon Grange, Bishop Auckland, Durham DL14"
-987,2,2,1,55000,"Elliot Street, Sacriston, Durham DH7"
-988,2,1,2,109950,"The Woodlands, Langley Park, Durham DH7"
-989,2,,,58000,"West View, Bishop Auckland, Durham DL14"
-990,2,,1,89995,"The Croft, Greencroft, Stanley DH9"
-991,4,2,2,265000,"Hillside Close, Blackhall Colliery, Hartlepool TS27"
-992,3,1,1,120000,"Fieldside, Pelton, Chester Le Street DH2"
-993,2,1,,25000,"Deanery Court, Eldon Lane, Bishop Auckland DL14"
-994,6,4,3,630000,"Hadrian Way, Ingleby Barwick, Stockton-On-Tees TS17"
-995,4,4,2,450000,"Wingate Road, Trimdon Station TS29"
-996,3,2,2,165000,"Glebe Houses, Ferryhill, Durham DL17"
-997,3,1,1,150000,"Church Walk, The Headland, Hartlepool TS24"
-998,2,1,1,82500,"Salisbury Crescent, West Cornforth, Ferryhill DL17"
-999,3,2,,55000,"Station Road, Easington Colliery, Peterlee SR8"
-1000,4,1,,165000,"Fairview Gardens, Stockton-On-Tees TS20"
-1001,4,,,450000,"South Ridge, Stotfold Farm, Seaton Village SR7"
-1002,2,1,,55000,"Morton Square, Peterlee SR8"
-1003,3,2,1,120000,"Seaham Road, Houghton Le Spring DH5"
-1004,2,1,1,194000,"Timothy Hackworth Court, The Avenue, Eaglescliffe TS16"
-1005,3,2,1,145000,"Stanhope Close, Meadowfield, Durham, Durham DH7"
-1006,2,1,2,100000,"Highfield Rise, Chester Le Street DH3"
-1007,2,1,1,100000,"Hartburn Mews, Stockton TS18"
-1008,3,3,,224950,"""The Chatsworth"" at Junction Road, Norton, Stockton-On-Tees TS20"
-1009,2,1,1,60000,"Holly Hill, Shildon DL4"
-1010,2,1,1,65000,"Barningham Street, Darlington DL3"
-1011,4,2,1,415000,"Yarm Road, Eaglescliffe, Stockton-On-Tees, Durham TS16"
-1012,4,1,2,165000,"44 Fairview Gardens, Stockton-On-Tees TS20"
-1013,1,1,1,80000,"The Green, Hawthorne, County Durham SR7"
-1014,4,2,,249950,"""The Hornsea"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-1015,4,4,,264950,"""The Coniston Corner"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-1016,3,3,,169950,"""The Windermere"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-1017,2,1,,25000,"Fifth Street, Horden, Peterlee SR8"
-1018,3,2,2,214995,"""Maidstone"" at Edward Pease Way, Darlington DL2"
-1019,3,1,2,196995,"""Norbury"" at Rosedale, Spennymoor DL16"
-1020,3,1,2,205995,"""Norbury"" at Rosedale, Spennymoor DL16"
-1021,3,2,2,216995,"""Ellerton"" at Edward Pease Way, Darlington DL2"
-1022,2,1,,100000,"Leeholme, Houghton Le Spring DH5"
-1023,,,,99000,"High Street, Byers Green, Spennymoor DL16"
-1024,3,3,,109950,"Dixon Rise, Peterlee SR8"
-1025,5,2,2,385000,"The Darlings, Hart, Hartlepool TS27"
-1026,2,1,1,65000,"Willow Walk, Shildon DL4"
-1027,3,1,2,67500,"West Street, Blackhall Colliery, Hartlepool TS27"
-1028,2,1,1,69999,"North Road West, Wingate TS28"
-1029,1,1,1,32000,"Ilchester Street, Seaham SR7"
-1030,2,1,2,330000,"The Hermitage, Chester Le Street DH2"
-1031,2,1,1,50000,"West Street, Grange Villa, Chester Le Street DH2"
-1032,3,2,1,69000,"South Thorn, Stanley DH9"
-1033,3,2,2,250000,"Chaplin Lane, Hartlepool TS26"
-1034,,,,280000,"Windsor Terrace, Dipton, Stanley DH9"
-1035,4,2,2,295000,"Durham Road, Wolviston, Billingham TS22"
-1036,3,2,,85000,"Adrian Place, Peterlee SR8"
-1037,5,2,3,379500,"Highsteads, Medomsley, Consett DH8"
-1038,2,2,1,85000,"Sowerby Street, Sacriston, Durham DH7"
-1039,2,2,2,65000,"Brooklyn Terrace, Murton, Seaham SR7"
-1040,3,1,2,160000,"The Chequers, Consett DH8"
-1041,1,1,1,75000,"Greenbank Road, Darlington DL3"
-1042,2,1,,30000,"Fifth Street, Horden, Peterlee SR8"
-1043,3,2,1,160000,"Church Wynd, Sherburn Village, Durham DH6"
-1044,2,1,1,55000,"Station Road East, Trimdon Colliery, Trimdon Station TS29"
-1045,3,,,100000,"Wheler Street, Houghton Le Spring, Tyne And Wear DH4"
-1046,2,2,,139950,"""The Alnwick"" at Tursdale Road, Bowburn, Durham DH6"
-1047,3,1,1,105000,"Bruce Street, Daisy Hill, Sacriston DH7"
-1048,3,2,1,170000,"Tyrone Road, Stockton-On-Tees TS19"
-1049,2,2,1,180000,"Grosvenor Road, Billingham TS22"
-1050,3,1,1,120000,"Chestnut Drive, Darlington DL1"
-1051,4,,2,OA,"Junction Road, Norton, Stockton-On-Tees TS20"
-1052,2,2,,60000,"Derwent Street, Easington Lane, Houghton Le Spring DH5"
-1053,4,2,,565000,"St. Marys Grove, Tudhoe Village, Spennymoor DL16"
-1054,4,3,2,529995,"""Bradgate"" at South Road, Durham DH1"
-1055,3,2,1,120000,"Spearman Walk, Hartlepool TS27"
-1056,2,1,1,150000,"Carlton Avenue, Billingham TS22"
-1057,3,1,1,180000,"Downs Lane, Houghton Le Spring DH5"
-1058,3,1,1,70000,"Tithe Barn Road, Stockton-On-Tees, Durham TS19"
-1059,2,1,,68000,"Moncrieff Terrace, Easington, Peterlee SR8"
-1060,2,2,1,50000,"Alexandra Terrace, Wheatley Hill, Durham DH6"
-1061,4,,,190000,"Stephenson Court, Shildon, Durham DL4"
-1062,4,,,274950,"Ford Road, Lanchester, Durham, Durham DH7"
-1063,2,4,2,169950,"Whitworth Terrace, Spennymoor DL16"
-1064,3,1,1,260000,"Briarside, Blackhill, Consett DH8"
-1065,4,3,2,125000,"Wycliffe Road, Seaham SR7"
-1066,2,1,1,65000,"Duke Street, Seaham, County Durham SR7"
-1067,2,2,1,37000,"Cameron Road, Hartlepool TS24"
-1068,2,,1,55000,"Rose Avenue, Stanley DH9"
-1069,3,2,1,15000,"West Street, County Durham DH2"
-1070,3,2,1,45000,"Third Street, Horden, County Durham SR8"
-1071,2,1,1,65000,"Church Street, Stanley Co Durham DH9"
-1072,1,1,1,98000,"Timothy Hackworth Court, Stockton-On-Tees TS16"
-1073,3,3,2,174995,"""Cannington Special"" at South Road, Durham DH1"
-1074,3,3,3,179000,"Murray Park, Stanley DH9"
-1075,2,2,1,83000,"Bedford Street, Darlington DL1"
-1076,4,3,1,450000,"Manor Road, Hartlepool TS26"
-1077,3,,,69995,"Holly Hill, Shildon DL4"
-1078,3,1,1,160000,"Butterstone Avenue, Hartlepool TS24"
-1079,2,1,1,104995,"Wintersweet Gardens, Norton, Stockton-On-Tees TS20"
-1080,3,1,1,125000,"The Wynd, Pelton, Chester Le Street DH2"
-1081,2,1,1,50000,"Holmside Terrace, Stanley DH9"
-1082,2,1,2,285000,"Dinsdale Park, Middleton St. George, Darlington DL2"
-1083,5,2,2,470000,"Station Road, Meadowfield, Durham DH7"
-1084,8,2,4,340000,"Woodside, Bishop Auckland DL14"
-1085,4,2,2,70000,"St. Pauls Terrace, West Pelton, Stanley DH9"
-1086,3,2,1,260000,"Knapton Avenue, Billingham TS22"
-1087,2,1,1,80000,"Hawkshead Place, Newton Aycliffe DL5"
-1088,3,1,1,272000,"Forest Avenue Plot 84, Hartlepool TS24"
-1089,3,2,2,145000,"Kingfisher Drive, Easington Lane, Houghton Le Spring DH5"
-1090,3,1,1,272000,"Forest Avenue Plot 88, Hartlepool TS24"
-1091,4,,,274950,"Howards Green, Edward Pease Way, Darlington, England DL2"
-1092,3,1,1,272000,"Forest Avenue Plot 85, Hartlepool TS24"
-1093,3,1,1,272000,"Forest Avenue Plot 84, Hartlepool TS24"
-1094,3,1,1,165000,"Forest Avenue Plot 89, Hartlepool TS24"
-1095,3,1,1,155000,"Forest Avenue Plot 82, Hartlepool TS24"
-1096,3,1,1,155000,"Forest Avenue Plot 81, Hartlepool TS24"
-1097,2,,1,65950,"Hydenside, Consett, Durham DH8"
-1098,3,1,2,145000,"Habgood Drive, Durham DH1"
-1099,2,1,2,162500,"Sea Breeze Residential Park, Hartlepool, Durham TS25"
-1100,4,2,2,317995,"""Kirkdale"" at Edward Pease Way, Darlington DL2"
-1101,3,1,2,209995,"""Norbury"" at Coxhoe, Durham DH6"
-1102,3,2,1,120000,"Rowan Tree Avenue, Durham DH1"
-1103,3,2,1,199950,"North Street, East Rainton, Houghton Le Spring DH5"
-1104,5,5,3,650000,"Park Drive, Hartlepool TS26"
-1105,3,,,160000,"Norton Crescent, Sadberge, Darlington, Durham DL2"
-1106,3,1,1,64995,"Attlee Avenue, Blackhall TS27"
-1107,3,1,1,135000,"Alderdene, Lanchester, Durham DH7"
-1108,3,2,2,200000,"Kipling Way, Crook DL15"
-1109,2,2,1,90000,"Medomsley Road, Consett DH8"
-1110,3,1,1,94950,"Manor Road, St. Helen Auckland, Bishop Auckland DL14"
-1111,4,2,4,475000,"Video Tour Available - Swallows Nest, Elton TS21"
-1112,3,1,1,28000,"St. Oswalds Street, Hartlepool TS24"
-1113,2,2,1,65000,"West Road, Shildon DL4"
-1114,5,6,,720000,"Byers Green, Spennymoor DL16"
-1115,3,,1,50000,"Argent Street, Easington Colliery, Peterlee SR8"
-1116,2,,1,50000,"Uppingham Street, Hartlepool TS25"
-1117,3,1,1,92000,"Hawthorne Terrace, New Brancepeth, Durham DH7"
-1118,3,1,2,115000,"West Park, Shildon, Bishop Auckland, Co Durham DL4"
-1119,,,,450000,"Thornaby Road, Thornaby, Stockton-On-Tees, Durham TS17"
-1120,2,,,64500,"Woodside, Witton Park, Bishop Auckland DL14"
-1121,2,1,2,110000,"Sandringham Court, Chester-Le-Street DH3"
-1122,2,1,2,320000,"Middleton Woods, Middleton Hall Retirement Village, Middleton St George DL2"
-1123,3,,1,95000,"West View, Houghton Le Spring DH4"
-1124,2,1,1,70000,"Joseph Street, Stanley DH9"
-1125,2,,1,55000,"Carlton Street, Ferryhill DL17"
-1126,2,1,1,65000,"North View, Sherburn Hill, Durham DH6"
-1127,2,1,1,65000,"South Hetton Road, Houghton Le Spring DH5"
-1128,3,2,,166950,"""The Saunton"" at Old Cemetery Road, Hartlepool TS24"
-1129,5,2,,314950,"""The Warwick"" at Junction Road, Norton, Stockton-On-Tees TS20"
-1130,2,1,1,29000,"Beaconsfield Street, The Headland, Hartlepool TS24"
-1131,2,1,,85000,"Orwell Gardens, Stanley DH9"
-1132,3,1,2,254750,"Goldcrest Crescent, Wynyard, Billingham TS22"
-1133,1,1,1,35000,"Abington, Ouston, Chester Le Street DH2"
-1134,3,2,2,230000,"Strathmore Road, Barnard Castle DL12"
-1135,4,,,199995,"Chilton, Ferryhill DL17"
-1136,2,1,,45000,"Hardwick Street, Blackhall Colliery, Hartlepool TS27"
-1137,3,1,1,120000,"Warwick Square, Darlington DL3"
-1138,2,1,1,45000,"Hardwick Street, Blackhall Colliery TS27"
-1139,2,1,1,75000,"Cyril Street, Consett DH8"
-1140,2,,,65000,"Roseberry Street, Beamish, Stanley DH9"
-1141,2,1,1,60000,"Claymond Court, Norton, Stockton-On-Tees TS20"
-1142,4,2,,224950,"""The Highcliff"" at Sterling Way, Shildon DL4"
-1143,4,4,,379950,"""The Marlborough"" at Coppice Lane, Wynyard, Billingham TS22"
-1144,2,1,,155000,"""The Truro +"" at Whinney Hill, Durham DH1"
-1145,3,1,2,65000,"Linden Place, Newton Aycliffe DL5"
-1146,3,2,1,140000,"Glenroy Gardens, Chester Le Street DH2"
-1147,2,1,1,75000,"Windsor Road, Stockton-On-Tees TS18"
-1148,3,1,1,75000,"Wolviston Road, Hartlepool TS25"
-1149,5,2,,575000,"Merrybent, Darlington DL2"
-1150,4,3,,475000,"Littlethorpe, Peterlee SR8"
-1151,,,,95000,"Mowbray Road, Stockton-On-Tees, Durham TS20"
-1152,4,2,1,220000,"Rimswell Road, Stockton-On-Tees TS19"
-1153,3,2,1,200000,"North Albert Road, Norton, Stockton-On-Tees TS20"
-1154,4,1,4,225000,"Robert Terrace, Shield Row, Stanley DH9"
-1155,2,1,1,80000,"Honey Bee Close, Stockton-On-Tees TS19"
-1156,3,2,,187950,"""The Hanbury"" at Junction Road, Norton, Stockton-On-Tees TS20"
-1157,3,2,,184950,"""The Hanbury"" at Junction Road, Norton, Stockton-On-Tees TS20"
-1158,2,1,,34000,"Warren Street, Horden, Peterlee SR8"
-1159,3,1,,90000,"Teesdale Avenue, Billingham TS23"
-1160,4,1,2,550000,"Yarm Road, Eaglescliffe, Stockton-On-Tees TS16"
-1161,4,3,3,340000,"Bloomfield Drive, Billingham TS22"
-1162,4,3,2,359995,"""Bradgate"" at Riverston Close, Hartlepool TS26"
-1163,3,2,1,125000,"Throston Street, The Headland, Hartlepool TS24"
-1164,4,2,2,312950,"Howards Green, Edward Pease Way, Darlington, England DL2"
-1165,4,3,3,334950,"Howards Green, Edward Pease Way, Darlington, England DL2"
-1166,3,1,,50000,"Margaret Street, Seaham SR7"
-1167,4,4,,264950,"""The Coniston Corner"" at Cross Lane, Sacriston, Durham DH7"
-1168,3,1,1,250000,"Springfields, Newton Aycliffe DL5"
-1169,2,1,,70000,"Greenacres Road, Consett DH8"
-1170,2,1,1,89950,"Glamis Court, Woodstone Village, Houghton Le Spring DH4"
-1171,4,1,2,400000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1172,2,,,170000,"The Causeway, Wolsingham, Bishop Auckland DL13"
-1173,4,2,3,325000,"Eden Grove, Newton Aycliffe DL5"
-1174,3,2,1,199999,"Garthlands Road, Darlington DL3"
-1175,2,,,70000,"Woodlands Road, Bishop Auckland DL14"
-1176,4,3,4,445000,"Whitehouse Avenue, Burnhope, Durham DH7"
-1177,2,1,1,53500,"Baden Street, Hartlepool TS26"
-1178,2,1,,49950,"Eden Street, Horden, Peterlee SR8"
-1179,4,2,2,465000,"Holmside, Edmondsley, Durham DH7"
-1180,2,1,1,114950,"Henley Gardens, Consett DH8"
-1181,3,,,100000,"Mayfield Terrace, Cockfield, Bishop Auckland, Durham DL13"
-1182,2,2,1,250000,"Bellerby Road, Stockton-On-Tees TS18"
-1183,3,3,1,130000,"Percy Street, Hartlepool TS26"
-1184,1,,,110000,"Durham Moor, Framwellgate Moor, Durham DH1"
-1185,4,2,,234950,"""The Hornsea"" at Cross Lane, Sacriston, Durham DH7"
-1186,3,3,,159950,"""The Grasmere"" at Hillside Road, Coundon, Bishop Auckland DL14"
-1187,3,3,,199950,"""The Chatsworth"" at Cross Lane, Sacriston, Durham DH7"
-1188,3,3,,204950,"""The Grasmere"" at Mill Lane, Sherburn Village, Durham DH6"
-1189,4,4,,204950,"""The Coniston Corner"" at Hillside Road, Coundon, Bishop Auckland DL14"
-1190,3,3,,139950,"""The Barton"" at Hillside Road, Coundon, Bishop Auckland DL14"
-1191,3,2,,139950,"""The Barton Corner"" at Hillside Road, Coundon, Bishop Auckland DL14"
-1192,4,2,1,300000,"Avill Grove, Ingleby Barwick, Stockton-On-Tees TS17"
-1193,3,1,1,159950,"Carrside, Framwellgate Moor, Durham DH1"
-1194,2,1,1,125000,"Sandwick Terrace, Wheatley Hill, Durham DH6"
-1195,2,1,1,75000,"Middleham Close, Ouston, Chester Le Street DH2"
-1196,3,2,2,215000,"Bentinck Road, Stockton-On-Tees TS19"
-1197,5,3,2,250000,"Catcote Road, Hartlepool TS25"
-1198,2,1,1,23750,"Stanhope Burn Holiday Park, Crawleyside DL13"
-1199,2,1,1,48450,"Linburn Beck Park, Hamsterley DL13"
-1200,3,1,1,25450,"Linburn Beck Park, Hamsterley DL13"
-1201,2,1,1,44500,"Linburn Beck Park, Hamsterley DL13"
-1202,1,1,1,80000,"Trevino Court, Eaglescliffe, Stockton-On-Tees, Durham TS16"
-1203,3,2,,220000,"Ravensworth Park, Elba Park, Houghton Le Spring, Tyne &amp; Wear DH4"
-1204,3,1,,80000,"Chester Drive, Willington, Crook DL15"
-1205,2,1,1,65000,"Adams Terrace, Medomsley, Consett DH8"
-1206,3,1,1,100000,"Gullane Close, Stanley DH9"
-1207,3,1,1,90000,"Teesdale Avenue, Billingham TS23"
-1208,3,1,1,74950,"Commercial Street, Brandon, Durham DH7"
-1209,2,1,1,75000,"Ryde Terrace, Annfield Plain, Stanley DH9"
-1210,2,1,1,36000,"Station Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-1211,4,2,2,375000,"Roddymoor, Crook DL15"
-1212,3,2,2,155000,"Victoria Avenue, Norton TS20"
-1213,3,2,2,145000,"Wylam Terrace, Stanley DH9"
-1214,4,2,2,267995,"""Ingleby"" at Edward Pease Way, Darlington DL2"
-1215,4,2,2,272995,"""Ingleby"" at Edward Pease Way, Darlington DL2"
-1216,4,2,2,244995,"""Chester"" at Rosedale, Spennymoor DL16"
-1217,2,2,1,163995,"""Kenley"" at Riverston Close, Hartlepool TS26"
-1218,2,1,2,110000,"Newcastle Road, Chester Le Street DH3"
-1219,4,4,,254950,"""The Coniston"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-1220,2,1,1,75000,"Cooperative Street, Chester Le Street, Durham DH3"
-1221,2,1,1,59950,"Hurworth Street, Bishop Auckland, County Durham DL14"
-1222,3,2,1,119950,"Deanery View, Lanchester DH7"
-1223,2,2,1,350000,"Well Bank, Aycliffe, Newton Aycliffe DL5"
-1224,4,2,2,350000,"Lambton Court, Peterlee SR8"
-1225,4,1,2,370000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1226,2,1,1,70000,"York Square, Shildon, Durham DL4"
-1227,5,1,3,495000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1228,5,2,3,645000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1229,5,2,3,655000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1230,5,2,3,655000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1231,5,1,3,655000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1232,6,2,4,785000,"Urlay Nook Road, Eaglescliffe, Stockton-On-Tees TS16"
-1233,2,,,65000,"John Street, South Moor, Stanley, Durham DH9"
-1234,2,2,1,60000,"Regent Terrace, Stockton-On-Tees TS21"
-1235,3,2,1,230000,"Danesmoor Crescent, Darlington DL3"
-1236,4,,,270000,"Hutton Henry, Hartlepool TS27"
-1237,4,,,289995,"Chilton, Ferryhill DL17"
-1238,4,,,254995,"Chilton, Ferryhill DL17"
-1239,1,1,1,40000,"Avondale Avenue, Penshaw, Houghton Le Spring DH4"
-1240,3,1,2,248000,"Goshawk Court, Wynyard, Billingham TS22"
-1241,2,1,1,40000,"Elwick Court, Hartlepool TS26"
-1242,2,2,1,69950,"Derwent Street, Tanfield Lea Stanley Co Durham DH9"
-1243,2,1,1,95000,"Highfield Rise, Chester Le Street DH3"
-1244,3,1,1,90000,"Park Terrace, Leadgate, Consett DH8"
-1245,5,4,2,450000,"Broadview Villas, Sherburn Village, Durham DH6"
-1246,2,1,1,69950,"Albion Street, Spennymoor DL16"
-1247,2,1,1,27995,"Stanhope Burn Holiday Park, Crawleyside DL13"
-1248,2,,1,50000,"Vyner Street, Bishop Auckland DL14"
-1249,2,2,1,95000,"Meadow Avenue, Blackhall Colliery, Hartlepool TS27"
-1250,2,1,2,90000,"Hutton Way, Durham DH1"
-1251,3,3,2,152000,"Myers Grove, Willington, Crook DL15"
-1252,3,3,1,225000,"Durham Road, Spennymoor DL16"
-1253,3,2,1,65000,"Park Street, Willington, Crook DL15"
-1254,3,,,720000,"North Close, Kirk Merrington, Spennymoor, Durham DL16"
-1255,3,2,1,50000,"Bevin Square, South Hetton, Durham DH6"
-1256,3,1,,190000,"Station Road, Penshaw, Houghton Le Spring DH4"
-1257,2,1,1,30000,"""Auction Contract "" Burbank Street, Hartlepool TS24"
-1258,3,1,2,230000,"Middleton Avenue, Thornaby, Stockton-On-Tees TS17"
-1259,1,1,1,67500,"Union Court, Chester Le Street, Co. Durham DH3"
-1260,3,1,1,179950,"Baysdale Gardens, Shildon DL4"
-1261,2,1,1,94950,"Warwick Avenue, Consett DH8"
-1262,5,3,3,600000,"Park Road, Hartlepool TS26"
-1263,4,2,1,89950,"Woodland View, West Rainton, Houghton Le Spring DH4"
-1264,3,2,,114995,"Doxford Terrace, Hetton-Le-Hole, Houghton Le Spring DH5"
-1265,3,,,203995,"Chilton, Ferryhill DL17"
-1266,4,,,239995,"Chilton, Ferryhill DL17"
-1267,4,,,300995,"Harrowgate Lane, Stockton-On-Tees TS19"
-1268,4,3,2,534995,"""Avondale"" at South Road, Durham DH1"
-1269,4,3,2,538995,"""Avondale"" at South Road, Durham DH1"
-1270,3,2,2,211995,"""Archford"" at Edward Pease Way, Darlington DL2"
-1271,3,2,2,213995,"""Archford"" at Edward Pease Way, Darlington DL2"
-1272,3,2,2,211995,"""Moresby"" at Rosedale, Spennymoor DL16"
-1273,4,3,2,309995,"""Alderney"" at Riverston Close, Hartlepool TS26"
-1274,3,2,2,212995,"""Moresby"" at Coxhoe, Durham DH6"
-1275,3,2,2,214995,"""Lutterworth"" at Coxhoe, Durham DH6"
-1276,3,2,2,214995,"""Lutterworth"" at Coxhoe, Durham DH6"
-1277,4,3,2,354995,"""Bradgate"" at Riverston Close, Hartlepool TS26"
-1278,4,3,2,362995,"""Avondale"" at Riverston Close, Hartlepool TS26"
-1279,3,2,2,195000,"Chadwick Close, Ushaw Moor, Durham DH7"
-1280,2,2,1,100000,"Dene Road, Blackhall Colliery, Hartlepool TS27"
-1281,3,2,,285000,"Rear Providence Terrace, Stanley DH9"
-1282,3,2,2,140000,"Meadow Green, Spennymoor, Durham DL16"
-1283,1,1,1,70000,"Bamburgh Road, Durham, Durham DH1"
-1284,3,,,149950,"Barley Mill Crescent, Consett DH8"
-1285,3,1,1,120000,"Longfield Road, Darlington DL3"
-1286,,,,7500,"East View Terrace, Seaton Carew, Hartlepool TS25"
-1287,9,,2,250000,"Norton Road, Stockton-On-Tees, Durham TS18"
-1288,5,4,3,395000,"Forester Close, Seaton Carew, Hartlepool TS25"
-1289,,,,230000,"Plot 4, Trouts Lane, Durham DH1"
-1290,5,3,4,700000,"Parklands Hall, Castle Eden, Hartlepool TS27"
-1291,3,2,1,135000,"Hare Law Gardens, Stanley DH9"
-1292,2,1,1,70000,"Upper Church Street, Spennymoor, Durham, N/A DL16"
-1293,2,2,1,68000,"St. Pauls Terrace, Stockton-On-Tees TS19"
-1294,2,1,,45000,"Rossall Street, Hartlepool TS25"
-1295,3,2,1,199950,"Bourne Court, Stanley DH9"
-1296,2,1,1,77500,"Dreswick Court, Murton, Seaham SR7"
-1297,2,1,1,27000,"Cameron Road, Hartlepool TS24"
-1298,2,1,1,32000,"Rydal Street, Hartlepool TS26"
-1299,2,1,1,97500,"Greenfields, Ross, Ouston, Chester Le Street DH2"
-1300,,1,,295000,"Market Place, Barnard Castle DL12"
-1301,2,1,1,215000,"May Lea, Witton Gilbert, Durham DH7"
-1302,3,1,1,125000,"Beaufort Close, Thornaby, Stockton-On-Tees TS17"
-1303,1,1,,39950,"Greenways, Consett DH8"
-1304,4,4,4,200000,"Arthur Street, Darlington DL3"
-1305,5,3,1,515000,"Brambling Grove, Wynyard TS22"
-1306,2,1,,67500,"West Parade, Leadgate, Consett DH8"
-1307,3,2,1,165000,"Clough Dene, Tantobie, Stanley DH9"
-1308,2,1,1,69950,"The Avenue, Hetton Le Hole., Tyne &amp; Wear DH5"
-1309,4,3,1,245000,"Merring Close, Hartburn, Stockton TS18"
-1310,2,,,60000,"Craddock Street, Spennymoor DL16"
-1311,2,,,95000,"Toft Hill, Bishop Auckland, Durham DL14"
-1312,3,1,1,118500,"Chapel Drive, Delves Lane, Consett DH8"
-1313,4,1,2,335000,"Plot 33, Hardwick Grange TS21"
-1314,3,1,1,210000,"Plot 61, Hardwick Grange, Sedgefield TS21"
-1315,5,4,5,875000,"Hamilton House Duke Of Wellington Gardens, Wynyard TS22"
-1316,3,2,1,235000,"Eden Terrace, Durham DH1"
-1317,2,1,1,49950,"Hardwick Street, Horden SR8"
-1318,3,1,2,265000,"Whitworth Park Drive, Houghton Le Spring DH4"
-1319,3,2,1,272000,"Forest Avenue Plot 85, Hartlepool TS24"
-1320,3,2,1,272000,"Forest Avenue Plot 84, Hartlepool TS24"
-1321,2,1,2,117000,"Westfields, Hartlepool TS25"
-1322,2,1,1,110000,"Glaisdale Court, Darlington DL3"
-1323,3,1,1,139950,"Victoria Square, Bowburn, Durham DH6"
-1324,2,,1,110000,"Staindrop Road, West Auckland, Bishop Auckland, Durham DL14"
-1325,2,1,,50000,"Oak Road, Peterlee SR8"
-1326,3,1,1,85000,"Castledene Road, Delves Lane, Consett DH8"
-1327,2,1,1,64950,"Tynedale Street, Hetton Le Hole, Houghton Le Spring DH5"
-1328,3,1,1,75000,"Hope Street, Crook DL15"
-1329,3,1,1,40000,"Twelfth Street, Horden, County Durham SR8"
-1330,2,1,1,245000,"Mansion House, Fleet Avenue, Hartlepool TS24"
-1331,3,2,1,140000,"Widdrington Court, Stockton-On-Tees TS19"
-1332,3,1,1,185000,"Hartburn Village, Hartburn, Stockton-On-Tees TS18"
-1333,4,3,,166500,"Redworth Road, Shildon DL4"
-1334,2,,,85000,"Low Etherley, Bishop Auckland, Durham DL14"
-1335,4,,,229995,"Chilton, Ferryhill DL17"
-1336,3,,,162995,"Chilton, Ferryhill DL17"
-1337,5,3,3,295000,"Grenadier Close, Stockton-On-Tees TS18"
-1338,2,1,1,56500,"Whinside, Tanfield Lea DH9"
-1339,3,2,,75000,"Dennison Street, Stockton-On-Tees TS18"
-1340,2,2,1,55000,"Welsh Terrace, Annfield Plain DH9"
-1341,3,,,200000,"Newgate Street, Bishop Auckland DL14"
-1342,2,1,2,100000,"Aynsley Terrace, Consett DH8"
-1343,3,2,1,145000,"Thornaby Road, Thornaby, Stockton-On-Tees TS17"
-1344,5,,,325000,"Darlington Road, West Auckland, Bishop Auckland DL14"
-1345,3,1,1,100000,"Coalbank Square, Hetton Le Hole DH5"
-1346,2,2,,55000,"Tennyson Avenue, Blackhall Colliery, Hartlepool TS27"
-1347,1,,1,59950,"Harthopeburn, St Johns Chapel DL13"
-1348,3,1,1,129950,"Harker Street, Shildon DL4"
-1349,3,2,1,147000,"Lanehouse Road, Thornaby, Stockton-On-Tees TS17"
-1350,2,1,1,73000,"Hamsterley Crescent, Newton Hall, Durham DH1"
-1351,3,1,,122500,"Witton Street, Consett DH8"
-1352,3,1,1,60000,"Stirling Way, Thornaby, Stockton-On-Tees TS17"
-1353,4,2,2,210000,"Greenfinch Road, Easington Lane, Houghton Le Spring DH5"
-1354,2,1,1,60000,"Ullswater Crescent, Crook, County Durham DL15"
-1355,2,2,1,75000,"Joseph Street, Stanley DH9"
-1356,1,1,1,45000,"Rose Avenue, Stanley DH9"
-1357,2,1,1,80000,"High Croft, Spennymoor, County Durham DL16"
-1358,2,2,,145000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1359,2,1,1,177000,"Timothy Hackworth Court, Stockton-On-Tees TS16"
-1360,4,1,1,230000,"Ferndale, Crawleyside, Bishop Auckland, Durham DL13"
-1361,10,,,1500000,"Low Etherley, Bishop Auckland, Durham DL14"
-1362,3,2,1,110000,"Thurlow Way, Houghton Le Spring DH5"
-1363,2,,1,55500,"Clayton Court, Bishop Auckland, Durham DL14"
-1364,3,,,110000,"South View, Annfield Plain, Stanley, Durham DH9"
-1365,2,1,1,90000,"Dean Fall, Hartfields, Hartlepool TS26"
-1366,2,1,1,90000,"Hartfields, Hartlepool TS26"
-1367,2,1,2,110000,"Sculptor Crescent, Stockton-On-Tees TS18"
-1368,4,4,2,127500,"Woodlands Road, Bishop Auckland DL14"
-1369,3,2,1,110000,"Enid Gardens, Blackhall Colliery, Hartlepool TS27"
-1370,2,2,1,53750,"May Street, Bishop Auckland DL14"
-1371,4,2,,244950,"""The Hornsea"" at Southside, Middridge, Newton Aycliffe DL5"
-1372,2,1,1,32000,"Rydal Street, Hartlepool TS26"
-1373,5,2,3,435000,"Whitehill Hall Gardens, Chester Le Street DH2"
-1374,4,2,2,245000,"Redmire Drive, Consett DH8"
-1375,4,3,3,875000,"Hilltop Stables, Hill Top, Esh, Durham DH7"
-1376,2,1,1,110000,"The Middles, Stanley DH9"
-1377,5,2,3,440000,"North Albert Road, Norton, Stockton TS20"
-1378,3,1,1,75000,"Southburn Terrace, Hartlepool TS25"
-1379,4,2,2,350000,"Folds Close Farm, New Brancepeth, Durham DH7"
-1380,,,,435000,"House DL13, Stanhope, County Durham"
-1381,3,3,,192950,"""The Grasmere"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-1382,5,2,,259950,"""The Belmont"" at North Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-1383,3,2,,165000,"Maria Drive, Stockton-On-Tees TS19"
-1384,4,3,,299950,"""The Harley"" at Sunderland Road, Easington, Peterlee SR8"
-1385,3,1,2,79950,"Heatherway, Stanley DH9"
-1386,3,2,1,165000,"Station Road, Blackhall Colliery, Hartlepool TS27"
-1387,2,1,1,51000,"Ware Street, Norton, Stockton TS20"
-1388,2,1,1,74950,"Prospect Terrace, Cockfield, Bishop Auckland DL13"
-1389,2,2,,170000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1390,3,3,1,180000,"Fleetham Grove, Stockton-On-Tees TS18"
-1391,4,3,1,225000,"Belgrave Avenue, Coxhoe, Durham DH6"
-1392,5,2,,579995,"""Carnoustie"" at Carmel Road South, Darlington DL3"
-1393,2,2,,175000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1394,5,4,,449950,"""The Bond"" at Coppice Lane, Wynyard, Billingham TS22"
-1395,3,2,1,395000,"High Pittington, Durham, Co.Durham DH6"
-1396,3,,,115000,"Longfield Road, Darlington, Durham DL3"
-1397,2,2,1,50000,"Leyburn Street, Hartlepool TS26"
-1398,2,1,1,32000,"Front Street, Consett DH8"
-1399,4,2,1,245000,"South Street, West Rainton, Houghton Le Spring DH4"
-1400,1,,,95000,"Timothy Hackworth Court, Stockton-On-Tees TS16"
-1401,2,2,,180000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1402,2,2,,180000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1403,2,2,,180000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1404,3,2,,229995,"""Harper"" at Finchale, County Durham, Finchale, County Durham DH1"
-1405,2,1,,260000,"Highgate, Durham DH1"
-1406,2,1,1,147000,"School Court, Broompark, Durham DH7"
-1407,3,2,1,125000,"Pine Street, Norton, Stockton-On-Tees TS20"
-1408,2,,,130000,"Fife Cove, Darlington, Durham DL3"
-1409,3,1,1,110000,"South Market Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-1410,3,2,1,85000,"Station Road, Stanley, Co Durham DH9"
-1411,2,1,,90000,"Wansbeck Close, Pelton, Chester Le Street DH2"
-1412,2,1,1,125000,"Mansion House, Fleet Avenue, Hartlepool TS24"
-1413,3,1,1,125000,"Henderson Road, Newton Aycliffe DL5"
-1414,2,1,1,125000,"Grange Road, Darlington DL1"
-1415,2,1,1,48500,"Jane Street, South Moor, Stanley DH9"
-1416,2,1,1,48500,"Jane Street, South Moor, Stanley DH9"
-1417,3,1,2,160000,"Glanville Drive, Houghton Le Spring DH4"
-1418,3,2,1,89950,"Hackworth Road, Shildon DL4"
-1419,3,1,,145000,"Darlington Lane, Norton, Stockton-On-Tees TS20"
-1420,2,2,1,55000,"Bouch Street, Shildon DL4"
-1421,3,2,2,180000,"Chalk Hill Road, Houghton Le Spring DH4"
-1422,4,,,95000,"North Road, Catchgate, Stanley DH9"
-1423,2,2,1,120000,"Raddive Close, Newton Aycliffe DL5"
-1424,3,1,1,100000,"Imperial Road, Billingham TS23"
-1425,3,1,2,285000,"Teesway, Neasham, Darlington DL2"
-1426,2,1,1,69995,"Edward Terrace, New Kyo, Stanley DH9"
-1427,3,1,3,250000,"Grangefields, Barnard Castle DL12"
-1428,3,1,1,125000,"Orkney Way, Thornaby, Stockton-On-Tees TS17"
-1429,3,2,,70000,"Third Street, Stanley DH9"
-1430,2,1,1,95000,"Victoria Court, Framwellgate Moor, Durham DH1"
-1431,3,1,1,55000,"Smiths Terrace, Easington Lane, Houghton Le Spring DH5"
-1432,4,3,,85000,"Commercial Road West, Coxhoe, Durham DH6"
-1433,4,1,3,280000,"Grangefields, Barnard Castle DL12"
-1434,3,1,,52000,"Wynyard Street, Seaham SR7"
-1435,3,1,2,130000,"Lutyens Square, Stockton-On-Tees TS19"
-1436,2,1,1,80000,"Moule Close, Newton Aycliffe, Durham DL5"
-1437,,5,,220000,"Rennie Street, Ferryhill DL17"
-1438,3,1,,95000,"Ridley Court, Norton, Stockton-On-Tees TS20"
-1439,2,,,65950,"Farfield Terrace, Trimdon Colliery, Trimdon Station TS29"
-1440,4,2,1,100000,"Neasham Road, Darlington DL1"
-1441,4,1,1,180000,"Lockton Crescent, Thornaby, Stockton-On-Tees TS17"
-1442,4,1,2,249950,"Barrington Close, Durham DH1"
-1443,6,3,5,250000,"Henry Smith Terrace, Hartlepool TS24"
-1444,1,1,1,125000,"Durham Moor, Framwellgate Moor, Durham DH1"
-1445,6,2,3,450000,"Nevilledale Terrace, Durham DH1"
-1446,3,2,,167950,"""The Ashdown"" at Old Cemetery Road, Hartlepool TS24"
-1447,2,2,,53750,"May Street, Bishop Auckland DL14"
-1448,2,,,159950,"Neasham Road, Hurworth Moor, Darlington DL2"
-1449,2,1,1,165000,"Finchfield Close, Eaglescliffe, Stockton-On-Tees, Cleveland TS16"
-1450,1,1,1,155000,"Middleton Woods, Middleton Hall Retirement Village, Middleton St George DL2"
-1451,3,1,,166950,"""The Danbury"" at Old Cemetery Road, Hartlepool TS24"
-1452,3,1,,162950,"""The Danbury"" at Old Cemetery Road, Hartlepool TS24"
-1453,2,1,1,52500,"Front Street, Consett DH8"
-1454,4,2,1,450000,"Fieldhouse Lane, Durham DH1"
-1455,4,4,2,400000,"1A Howden Head, Fir Tree, Crook DL15"
-1456,2,,,155000,"Shawbrow View, Bishop Auckland, Durham DL14"
-1457,3,,,390000,"Witton Grove, Durham DH1"
-1458,2,2,1,140000,"Neville Terrace, Durham DH1"
-1459,5,3,1,230000,"Woodland Terrace, Darlington DL3"
-1460,2,1,1,145000,"Medomsley Road, Consett DH8"
-1461,3,1,1,70000,"Windermere Terrace, Stanley DH9"
-1462,7,4,4,650000,"Waterside Way, Hartlepool TS26"
-1463,2,1,2,115000,"Sandringham Court, Chester Le Street DH3"
-1464,2,2,,132950,"""The Alnmouth"" at Old Cemetery Road, Hartlepool TS24"
-1465,3,2,,154950,"""The Saunton"" at Old Cemetery Road, Hartlepool TS24"
-1466,5,4,,504950,"""The Portland"" at Coppice Lane, Wynyard, Billingham TS22"
-1467,3,2,1,495000,"Primrose Lane, Etherley Dene, Bishop Auckland DL14"
-1468,2,1,,80000,"St. Andrews Square, Lowland Road, Brandon, Durham DH7"
-1469,4,2,1,400000,"Raven Lane, Norton, Stockton-On-Tees TS20"
-1470,4,3,,279999,"Lowther Court, Peterlee SR8"
-1471,3,2,1,145000,"Wylam Terrace, Shield Row, County Durham DH9"
-1472,2,1,1,112500,"Sea Breeze Residential Park, Hartlepool, Durham TS25"
-1473,4,3,2,145000,"Bowesfield Lane, Stockton-On-Tees TS18"
-1474,2,1,1,82950,"Derwent Avenue, Crook DL15"
-1475,6,,,1200000,"Crawley Hall, Crawleyside, Stanhope, County Durham DL13"
-1476,4,3,3,484950,"Coniscliffe Road, Hartlepool TS26"
-1477,3,,,140000,"Attwood Terrace, Spennymoor DL16"
-1478,2,1,1,79950,"Market Place, Houghton Le Spring, Tyne And Wear DH5"
-1479,2,,,40000,"Spencer Street, Eldon Lane, Bishop Auckland DL14"
-1480,2,1,1,65000,"Brusselton Court, Stockton-On-Tees TS18"
-1481,1,1,1,58000,"Marina House, Hartlepool TS24"
-1482,3,2,1,85000,"Snowdon Place, Peterlee SR8"
-1483,1,1,1,60000,"Fairweather Court, Darlington DL3"
-1484,2,1,,50000,"Eleventh Street, Horden, Peterlee SR8"
-1485,2,1,1,70000,"Gilpin House, Claymond Court, Norton TS20"
-1486,2,1,,50000,"Fourth Street, Horden, Peterlee SR8"
-1487,2,1,,40000,"Easington Street, Easington Colliery, Peterlee SR8"
-1488,2,2,,45000,"Arlington Street, Stockton-On-Tees TS18"
-1489,2,,,149950,"Neasham Road, Hurworth Moor, Darlington DL2"
-1490,2,,,109950,"Neasham Road, Hurworth Moor, Darlington DL2"
-1491,2,,,49950,"Hurworth Road, Neasham, Darlington DL2"
-1492,2,,,39950,"Hurworth Road, Neasham, Darlington DL2"
-1493,2,,,42950,"Hurworth Road, Neasham, Darlington DL2"
-1494,2,2,,45000,"Woodlands Road, Bishop Auckland DL14"
-1495,4,,,264995,"Chilton, Ferryhill DL17"
-1496,3,,,162995,"Chilton, Ferryhill DL17"
-1497,2,1,1,65000,"Louisa Terrace, St. Helen Auckland, Bishop Auckland DL14"
-1498,4,2,1,225000,"Mcintyre Terrace, Bishop Auckland DL14"
-1499,3,2,1,290000,"Highfield Close, Eaglescliffe, Stockton-On-Tees TS16"
-1500,3,2,1,135000,"Windermere Road, Stockton-On-Tees TS18"
-1501,3,1,1,190000,"Pleasant View, Bridgehill, Consett DH8"
-1502,3,2,1,85000,"Wylam Road, Stanley DH9"
-1503,3,1,1,95000,"Anns Terrace, Darlington DL3"
-1504,2,1,1,85000,"Lady Mantle Close, Hartlepool TS26"
-1505,3,,,75000,"Redworth Road, Shildon, County Durham DL4"
-1506,3,1,1,80000,"Hampden Way, Thornaby, Stockton-On-Tees TS17"
-1507,2,2,1,37000,"Cameron Road, Hartlepool TS24"
-1508,2,2,1,265000,"Newhouses, Frosterley, Bishop Auckland DL13"
-1509,2,1,1,70000,"Union Court, Chester Le Street DH3"
-1510,3,1,1,65000,"Maglona Street, Seaham SR7"
-1511,1,1,1,49950,"The Bungalows, Esh Winning DH7"
-1512,4,1,2,325000,"Cambridgeshire Drive, Durham DH1"
-1513,3,2,1,125000,"Stanmore Grove, Seaton Carew, Hartlepool TS25"
-1514,4,,,229995,"Chilton, Ferryhill DL17"
-1515,4,4,3,1350000,"Mole Hill Farmhouse, Boghouse Lane, Beamish, County Durham DH9"
-1516,2,1,1,84950,"Watling Street, Leadgate, Consett DH8"
-1517,2,1,1,89950,"Brydon Crescent, South Hetton, Durham DH6"
-1518,8,4,4,399000,"West Auckland Road, Darlington DL3"
-1519,3,1,,35000,"Twelfth Street, Horden, Peterlee SR8"
-1520,,4,,276500,"Elemore Lane, Houghton Le Spring DH5"
-1521,1,1,1,55000,"Elemore Lane, Houghton Le Spring DH5"
-1522,2,1,1,80000,"South View, Houghton Le Spring DH5"
-1523,4,2,3,325000,"Low Coniscliffe, Darlington DL2"
-1524,1,1,1,65000,"Fairweather Court, Darlington DL3"
-1525,4,2,,129950,"Ashwood Meadows, Horden, Peterlee SR8"
-1526,,,,145000,"Kingsway, Bishop Auckland DL14"
-1527,,,,100000,"Main Street, Ferryhill DL17"
-1528,3,1,,135000,"Fenwick Way, Consett DH8"
-1529,5,3,3,1000000,"Wynyard Road, Wolviston, Billingham TS22"
-1530,3,2,1,65000,"Wolsingham Road, Tow Law, Bishop Auckland DL13"
-1531,6,2,3,350000,"The Beeches, Middleton St. George, Darlington DL2"
-1532,5,2,3,575000,"Hartlea Avenue, Darlington DL1"
-1533,2,1,1,30000,"Cameron Road, Hartlepool TS24"
-1534,3,2,2,79000,"Beaconsfield Road, Hartlepool TS24"
-1535,2,1,1,160000,"Scholars Park, Darlington DL3"
-1536,2,1,,50000,"Forest View, Brandon, Durham DH7"
-1537,2,2,1,140000,Chester Le Street DH2
-1538,3,2,2,95000,"Cambridge Road, Thornaby, Stockton-On-Tees TS17"
-1539,1,1,1,97500,"Durham Moor, Framwellgate Moor, Durham DH1"
-1540,6,6,6,995000,"Widehope Farm, Bildershaw, West Auckland, County Durham DL14"
-1541,2,1,1,265000,"The Green, Thornaby TS17"
-1542,2,1,1,99950,"North Road, Darlington DL1"
-1543,2,1,1,110000,"Heild Close, Newton Aycliffe DL5"
-1544,3,1,1,42000,"West View Road, Hartlepool TS24"
-1545,1,1,1,135000,"Trinity Road, Darlington DL3"
-1546,,,,60000,"Land South View, High Hold, Pelton, Chester Le Street DH2"
-1547,3,1,1,90000,"Meadow Court, Tow Law, Bishop Auckland DL13"
-1548,1,1,1,55000,"Newport House, Thornaby Place, Stockton-On-Tees, Durham TS17"
-1549,3,2,1,75000,"Craddock Street, Bishop Auckland, Durham DL14"
-1550,4,,,290995,"Harrowgate Lane, Stockton-On-Tees TS19"
-1551,3,,,238995,"Harrowgate Lane, Stockton-On-Tees TS19"
-1552,1,,1,210000,"Ormiston Terrace, Flat 6, Edinburgh EH12"
-1553,2,2,2,149950,"Wanstead Crescent, Birtley, Chester-Le-Street DH3"
-1554,3,,,108000,"Main Street, Shildon DL4"
-1555,5,3,5,2240000,"Dilks Street, Bishop Auckland DL14"
-1556,3,3,1,100000,"Wear Terrace, Easington, Peterlee SR8"
-1557,3,2,1,79950,"North Road East, Wingate, County Durham TS28"
-1558,3,1,2,145000,"Kielder Drive, The Middles, Stanley DH9"
-1559,4,2,2,260000,"High Bondgate, Bishop Auckland DL14"
-1560,3,,,58950,"Catherine Terrace, New Kyo, Stanley DH9"
-1561,2,1,1,80000,"Glenmeads, Nettlesworth, Chester Le Street, Durham DH2"
-1562,3,2,1,250000,"Yarm Road, Eaglescliffe TS16"
-1563,2,,,60000,"Holly Hill, Shildon DL4"
-1564,2,2,1,68000,"Edwin Street, Houghton Le Spring DH5"
-1565,4,1,2,130000,"Raby Road, Hartlepool TS24"
-1566,2,1,1,75000,"Allison Gardens, Consett DH8"
-1567,2,2,1,189950,"Humberhill Drive, Lanchester, Durham DH7"
-1568,3,,,65000,"Beaumont Street, Bishop Auckland DL14"
-1569,3,3,2,450000,"Dunholme Close, Aykley Heads, Durham DH1"
-1570,2,1,1,82950,"Bower Court, Coxhoe, Durham DH6"
-1571,5,4,1,465000,"Junction Road, Norton, Stockton-On-Tees TS20"
-1572,6,5,5,550000,"16-18 Market Place, Middleton-In-Teesdale, Barnard Castle, County Durham DL12"
-1573,3,2,,100000,"Watling Avenue, Seaham SR7"
-1574,3,2,1,139950,"Grosvenor Road, Billingham TS22"
-1575,1,1,1,72000,"Waterloo House, Thornaby Place, Stockton-On-Tees, . TS17"
-1576,5,3,3,250000,"Dalton Piercy, Hartlepool TS27"
-1577,5,3,3,595000,"Dalton Piercy, Hartlepool TS27"
-1578,2,1,1,128000,"Lumley Close, Chester Le Street DH2"
-1579,3,3,,164950,"""The Windermere"" at Tursdale Road, Bowburn, Durham DH6"
-1580,4,2,,234950,"""The Burnham"" at Old Cemetery Road, Hartlepool TS24"
-1581,4,2,1,335000,"Leith Road, Darlington DL3"
-1582,3,,,124500,"Lockyer Close, Newton Aycliffe DL5"
-1583,1,1,1,125000,"The Towers, Witton-Le-Wear, Bishop Auckland DL14"
-1584,3,1,1,79950,"Holburn Close, Esh Winning DH7"
-1585,3,2,2,69495,"Church Lane, Ferryhill, County Durham DL17"
-1586,3,1,1,199950,"2 Staindrop Road, Darlington DL3"
-1587,3,1,2,97495,"Crimdon Park, Blackhall Colliery, Hartlepool TS27"
-1588,5,3,2,2000000,"Durham House, Durham DH1"
-1589,2,2,2,299500,"Middleton Woods, Middleton Hall Retirement Village, Middleton St George DL2"
-1590,7,2,2,490000,"Richmond Road, Stockton-On-Tees TS18"
-1591,3,2,1,119950,"Frederick Street South, Meadowfield, Durham DH7"
-1592,,,,45000,"Bowman Street, Darlington DL3"
-1593,5,3,3,475000,"Pebblecroft, 62 Pit House Lane, Leamside, Houghton Le Spring DH4"
-1594,2,,,60000,"Surtees Street, Bishop Auckland DL14"
-1595,3,,,87500,"Moore Road, Spennymoor, Durham DL16"
-1596,2,1,,90000,"Park Road, Blackhill, Consett DH8"
-1597,4,2,2,500000,"Harlsey Road, Stockton-On-Tees TS18"
-1598,2,1,1,69999,"28 Medway Gardens, South Moor, Stanley Co Durham DH9"
-1599,3,1,1,76000,"Raby Square, Hartlepool TS24"
-1600,5,3,4,695000,"Roseberry View, Sadberge, Darlington DL2"
-1601,2,,,95000,"Front Street, Hart, Hartlepool TS27"
-1602,4,1,2,234950,"Leeholme Mews, High Street, Wolviston, Billingham TS22"
-1603,2,1,1,105000,"Mill Wynd, Staindrop, County Durham DL2"
-1604,4,3,2,359000,"Blind Lane, Chester Le Street DH3"
-1605,1,,,45000,"Carlisle Crescent, Houghton Le Spring, Tyne And Wear DH4"
-1606,5,4,2,895000,"Dalton Piercy, Hartlepool TS27"
-1607,16,,12,320000,"Shaftesbury Street, Stockton-On-Tees TS18"
-1608,3,1,2,65000,"Crimdon Park, Blackhall Colliery, Hartlepool TS27"
-1609,3,2,2,215000,"Victoria Terrace, Lanchester DH7"
-1610,3,1,1,240000,"Old Dryburn Way, North End, Durham City, Durham DH1"
-1611,3,2,1,160000,"Edderacres Walk, Wingate TS28"
-1612,4,3,3,975000,"Musgrave Garden Lane, Billingham TS22"
-1613,,,,25000,"Peakfield, Frosterley, Bishop Auckand DL13"
-1614,11,9,6,725000,"High Brooms Farm, Leadgate, Consett DH8"
-1615,5,,2,OA,"Land To The North East Of, New Road, Witton Park Poa DL14"
-1616,3,2,,78000,"Cambridge Road, Thornaby, Stockton-On-Tees TS17"
-1617,1,1,1,55000,"Newport House, Thornaby Place, Stockton-On-Tees, Durham TS17"
-1618,2,1,1,69950,"Meadow Avenue, Blackhall, County Durham TS27"
-1619,2,2,2,100000,"Dene Crescent, Durham DH6"
-1620,1,1,1,45000,"Front Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-1621,4,4,3,950000,"Musgrave Garden Lane, Billingham TS22"
-1622,5,3,2,200000,"Beaconsfield Square, The Headland, Hartlepool TS24"
-1623,2,1,1,100000,"High Road, Stanley, Crook DL15"
-1624,2,2,,172000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1625,2,2,,172000,"Seaview Park Homes, Easington Road, Hartlepool TS24"
-1626,1,1,1,55000,"Cestrian Court, Chester Le Street DH3"
-1627,2,1,1,80000,"Prince Charles Avenue, Bowburn, Durham DH6"
-1628,2,1,1,95000,"Homebryth House, Sedgefield TS21"
-1629,2,2,1,65000,"Murray Street, Hartlepool TS26"
-1630,2,2,1,59999,"Walter Terrace, Easington Lane, Houghton Le Spring DH5"
-1631,3,2,1,160000,"Greens Beck Road, Stockton-On-Tees TS18"
-1632,2,1,1,28000,"Wynyard Mews, Hartlepool TS25"
-1633,1,,1,144950,"Lombard Place, Great Lumley DH3"
-1634,3,,,115000,"Northbridge Park, St. Helen Auckland, Bishop Auckland DL14"
-1635,2,1,1,194950,"Byland Close, Durham DH1"
-1636,2,1,2,115000,"Sandringham Court, Chester Le Street DH3"
-1637,3,1,1,225000,"Buttermere, Peterlee, County Durham SR8"
-1638,2,1,1,90000,"Dunelm Terrace, Dalton-Le-Dale, Seaham SR7"
-1639,2,1,1,70000,"Woods Terrace East, Murton, Seaham SR7"
-1640,5,4,5,1300000,"Wellington Drive, Wynyard, Billingham TS22"
-1641,4,2,,165000,"Abbeydale Gardens, South Hetton, Durham DH6"
-1642,2,1,2,109995,"Heron Drive, Darlington DL1"
-1643,1,1,1,16500,"Old Blackett, Stanley, County Durham DH9"
-1644,4,2,1,250000,"Forest Avenue (Plot 72), Hartlepool TS24"
-1645,3,1,1,152000,"Hays Gardens (Plot 46), Hartlepool TS24"
-1646,3,,,38750,"Plot 13, Liberty Glade, Fencehouses DH4"
-1647,3,1,1,125000,"Harwood Drive, Mulberry Park, Fencehouses DH4"
-1648,3,,1,70000,"Lightfoot Terrace, Ferryhill, Durham DL17"
-1649,3,1,1,195000,"Frazer Road, Consett DH8"
-1650,2,1,1,95000,"Leyburn Grove, Houghton Le Spring DH4"
-1651,3,1,3,180000,"The Pasture, Newton Aycliffe DL5"
-1652,4,1,,266000,"Corvus Drive, Stockton-On-Tees TS18"
-1653,3,1,,45000,"Whitburn Street, Hartlepool TS24"
-1654,3,3,1,160000,"The Fairway, Darlington DL1"
-1655,2,1,1,127950,"Stuart Court, Consett DH8"
-1656,1,1,2,67000,"Burnhall Drive, Seaham, Co. Durham. SR7"
-1657,4,3,3,305000,"Honeysuckle Close, Hartlepool TS26"
-1658,2,2,2,130000,"Beaconsfield Road, Norton, Stockton-On-Tees TS20"
-1659,4,2,3,290000,"Manston Court, Middleton St. George, Darlington DL2"
-1660,4,2,,244950,"""The Hornsea"" at Mill Lane, Sherburn Village, Durham DH6"
-1661,3,3,,174950,"""The Barton"" at Mill Lane, Sherburn Village, Durham DH6"
-1662,3,3,,149950,"""The Barton"" at Tursdale Road, Bowburn, Durham DH6"
-1663,4,2,,239950,"""The Roseberry"" at Cross Lane, Sacriston, Durham DH7"
-1664,3,3,,169950,"""The Barton"" at Black Boy Road, Chilton Moor, Houghton Le Spring DH4"
-1665,4,2,,204950,"""The Roseberry"" at Sterling Way, Shildon DL4"
-1666,3,2,1,92500,"Hutton Avenue, Hartlepool TS26"
-1667,3,2,2,140000,"Vicarage Close, Hetton-Le-Hole, Houghton Le Spring DH5"
-1668,5,2,2,289950,"Southfields, Stanley, Crook DL15"
-1669,3,2,1,97500,"Sycamore Terrace, Haswell DH6"
-1670,2,1,,60000,"Cotsford Crescent, Horden, Peterlee SR8"
-1671,3,1,1,330000,"Caragh Road, Chester Le Street DH2"
-1672,4,,,700000,"Saxon Court, Bishop Auckland DL14"
-1673,2,,1,77950,"Ruby Street, Houghton Le Spring DH4"
-1674,,,,75000,"Stanmore Grove, Seaton Carew, Hartlepool TS25"
-1675,2,1,1,28000,"Wynyard Mews, Hartlepool TS25"
-1676,2,,1,49999,"Mary Street, Stanley DH9"
-1677,3,2,1,140000,"Roseby Road, Horden, Peterlee SR8"
-1678,4,2,2,255000,"Seaton Close, Easington Village, Peterlee SR8"
-1679,4,2,2,120000,"Beldon Drive, Stanley DH9"
-1680,2,2,1,70000,"East Street, Blackhall Colliery, Hartlepool TS27"
-1681,3,1,1,115000,"Wood Vue, Spennymoor DL16"
-1682,3,1,1,115000,"Wood Vue, Spennymoor DL16"
-1683,2,2,1,140000,"Haughton Road, Darlington DL1"
-1684,2,1,,45000,"Easington Street, Easington Colliery, Peterlee SR8"
-1685,3,1,,70000,"Newark Walk, Stockton-On-Tees TS20"
-1686,3,1,1,235000,"The Woodlands, Milbank Road, Darlington DL3"
-1687,4,2,2,220000,"Glenluce, Birtley, Chester Le Street DH3"
-1688,2,1,1,145000,"Westpoint, Northumberland Street, Darlington DL3"
-1689,3,1,2,260000,"The Howard, Hardwick Grange, Sedgefield, Stockton On Tees TS21"
-1690,3,3,3,75000,"York Road, Hartlepool TS26"
-1691,2,1,1,70000,"Meadow Avenue, Blackhall Colliery, Hartlepool TS27"
-1692,4,2,3,349000,""" Valley House"", Station Town, County Durham TS28"
-1693,2,2,1,270000,"Woodcrest Road, Darlington DL3"
-1694,1,1,1,64950,"Raby Road, Newton Hall, Durham DH1"
-1695,1,1,1,120000,"The Avenue, Eaglescliffe, Stockton-On-Tees TS16"
-1696,2,1,1,37500,"Wynyard Mews, Hartlepool TS25"
-1697,2,1,1,35000,"Wynyard Mews, Hartlepool TS25"
-1698,2,1,,64950,"Cotsford Park Estate, Peterlee SR8"
-1699,3,2,1,100000,"Vane Street, Hartlepool TS24"
-1700,4,2,2,250000,"Station Road, West Rainton, Houghton Le Spring DH4"
-1701,2,1,1,87500,"Collingwood Street, Coundon DL14"
-1702,4,2,3,299950,"Kings Court, Horden, County Durham SR8"
-1703,3,2,2,160000,"Maltby Court, Darlington DL1"
-1704,9,,,470000,"Meadowcroft, Cockfield, Bishop Auckland DL13"
-1705,3,2,1,70000,"Gladstone Terrace, Ferryhill, Durham DL17"
-1706,6,2,2,375000,"High Street, Wolviston, Billingham TS22"
-1707,3,,,360000,"Rose Terrace, Egglescliffe, Stockton-On-Tees, Durham TS16"
-1708,2,1,,55000,"Front Street, Leadgate, Consett DH8"
-1709,3,2,1,250000,"Station Road, Blackhall Colliery, Hartlepool TS27"
-1710,4,4,,284950,"""The Mayfair"" at Sunderland Road, Easington, Peterlee SR8"
-1711,5,5,1,500000,"Low Green, Stockton-On-Tees TS21"
-1712,,,,260000,"Development Site At Bowes, Bowes, Barnard Castle DL12"
-1713,3,2,1,485000,"West Wing, Scott's House, Newcastle Road, West Boldon NE36"
-1714,4,2,2,279950,"Howards Green, Edward Pease Way, Darlington, England DL2"
-1715,2,1,1,88000,"Lady Mantle Close, Hartlepool TS26"
-1716,2,1,1,89000,"Studley Drive, Spennymoor DL16"
-1717,3,1,1,110000,"Melrose Avenue, Billingham TS23"
-1718,3,,1,95000,"Poplar Street, Chester Le Street DH3"
-1719,4,1,,240000,"Broadoaks, Murton, Seaham SR7"
-1720,6,5,6,OA,"Flass Vale Hall, Crossgate Moor, Durham DH1"
-1721,6,5,6,OA,"Flass Vale Hall, Crossgate Moor, Durham DH1"
-1722,2,1,1,135000,"West Auckland Road, Darlington DL3"
-1723,3,1,,95000,"Church Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-1724,2,1,1,170000,"St. Giles Close, Gilesgate, Durham DH1"
-1725,,,,805000,"Kingsway, Bishop Auckland DL14"
-1726,3,2,1,155000,"Queensway, Consett DH8"
-1727,5,3,,469950,"""The Compton"" at Coppice Lane, Wynyard, Billingham TS22"
-1728,,,,140000,"Land At Mainsforth, Mainsforth, Spennymoor District, County Durham DL17"
-1729,,,,140000,"Land At Mainsforth, Mainsforth, Spennymoor District, County Durham DL17"
-1730,5,4,,449950,"""The Holborn"" at Coppice Lane, Wynyard, Billingham TS22"
-1731,5,3,,459950,"""The Oxford"" at Coppice Lane, Wynyard, Billingham TS22"
-1732,3,1,2,139950,"Chadwick Close, Ushaw Moor, County Durham DH7"
-1733,1,,,50000,"North End, Sedgefield, Stockton-On-Tees TS21"
-1734,4,2,1,280000,"Station Road, Hetton-Le-Hole, Houghton Le Spring DH5"
-1735,2,,,149950,"Shotley Grove, Dipe Lane, East Boldon, Tyne And Wear NE36"
-1736,4,2,2,300000,"Heath Grange, Houghton Le Spring DH5"
-1737,2,1,2,110000,"Sandringham Court, Chester Le Street DH3"
-1738,4,1,2,189950,"The Avenue Courtyard, Coxhoe, Durham DH6"
-1739,3,1,,157500,"Derwent View, Consett DH8"
-1740,3,1,,157500,"Derwent View, Consett DH8"
-1741,3,1,,157500,"Derwent View, Consett DH8"
-1742,3,1,,157500,"Derwent View, Consett DH8"
-1743,4,1,,174500,"Derwent View, Consett DH8"
-1744,1,1,1,55000,"Thornaby Place, Thornaby, Durham TS17"
-1745,1,,,85000,"Cestrian Court, Chester Le Street DH3"
-1746,2,1,1,100000,"Marlborough Drive, Darlington, County Durham DL1"
-1747,2,1,1,35000,"St. Columbas Court, Hartlepool TS25"
-1748,3,,,340000,"Hawthorn, Seaham SR7"
-1749,2,,,62000,"Union Court, Chester Le Street, Durham DH3"
-1750,1,1,1,79950,"Camsell Court, Durham DH1"
-1751,1,,1,25000,"Shields Place, Houghton Le Spring DH5"
-1752,3,2,3,250000,"Dinsdale Park, Middleton St. George, Darlington DL2"
-1753,2,1,1,149950,"Redhills Lane, Crossgate Moor, Durham DH1"
-1754,2,1,,116500,"Highfield Rise, Chester Le Street DH3"
-1755,,,,375000,"Shaftesbury Street, Stockton On Tees TS18"
-1756,2,1,1,45000,"Prior Court, Billingham TS23"
-1757,1,1,1,54995,"Woodland Road, Darlington DL3"
-1758,3,,,60000,"David Terrace, Coronation, Bishop Auckland DL14"
-1759,,,,89950,"Front Street, Sherburn Village, Durham DH6"
-1760,3,1,1,58000,"Fishburn Terrace, Fishburn, Stockton-On-Tees TS21"
-1761,3,1,1,79950,"Leamington Drive, Hartlepool TS25"
-1762,3,2,,379950,"""The Canterbury"" at Ferens Close, Durham DH1"
-1763,1,1,1,99950,"Cheapside, Spennymoor DL16"
-1764,5,2,2,430000,"Woodside, Ingleby Barwick, Stockton-On-Tees, Durham TS17"
-1765,3,2,1,210000,"North End, Brandon Village, Durham DH7"
-1766,2,1,,80000,"Rock Farm Mews, Wheatley Hill, Durham DH6"
-1767,6,2,4,1000000,"St Laurence’S Church Lane, Middleton One Row, County Durham DL2"
-1768,3,1,1,64950,"Linden Close, Shildon DL4"
-1769,1,1,1,39950,"Palmer Street, Stanley, County Durham DH9"
-1770,2,1,1,45000,"Palmer Street, Stanley, County Durham DH9"
-1771,2,,,55000,"Melbourne Street, Stockton-On-Tees, Durham TS18"
-1772,2,1,1,100000,"Durham House, Scholars Park, Darlington, Co Durham DL3"
-1773,2,1,1,70000,"Hazel Court, Haswell, Durham DH6"
-1774,,,,60000,"Bell Street, Crook DL15"
-1775,3,1,1,99500,"Hawthorne Terrace, New Brancepeth DH7"
-1776,1,1,1,60000,"Fairweather Court, Darlington, Co Durham DL3"
-1777,2,1,,150000,"""The Truro +"" at Whinney Hill, Durham DH1"
-1778,3,2,1,87000,"Durham Road, Stockton-On-Tees, Cleveland TS19"
-1779,,,,550000,"Prince Regent Street, Stockton-On-Tees, Cleveland TS18"
-1780,2,1,1,117000,"Westcliffe Court, Darlington DL3"
-1781,3,1,1,99950,"May Street, Birtley DH3"
-1782,2,1,1,75000,"Carlton Terrace, Easington Village, County Durham SR8"
-1783,1,1,1,63000,"Bamburgh Road, Durham DH1"
-1784,3,1,1,79950,"Station Road, Heton Le Hole DH5"
-1785,4,4,3,2000000,"Mole Hill Farm, Boghouse Lane, Beamish, County Durham DH9"
-1786,4,2,1,150000,"Benridge Bank, West Rainton, Durham, Tyne And Wear DH4"
-1787,2,,,160000,"Old Dryburn Way, Durham DH1"
-1788,6,1,1,439000,"New Brook Terrace, Jackson Street, Bishop Auckland, County Durham DL14"
-1789,1,,,179000,"Lynesack House, Durham Road, Chilton DL17"
-1790,3,1,3,175000,"The Hemmel, Browney, Durham DH7"
-1791,5,2,1,875000,"Stockton Road, Sadberge, Darlington, Durham DL2"
-1792,1,,,129950,"Cestrian Court, Chester Le Street DH3"
-1793,2,1,1,31500,"West Pasture, Middleton-In-Teesdale, Barnard Castle DL12"
-1794,2,1,1,36500,"West Pasture, Middleton-In-Teesdale, Barnard Castle DL12"
-1795,6,,,435000,"Guest Houses And B&amp;Bs DL13, Stanhope, Durham"
-1796,3,1,1,104950,"Northlands, Chester Le Street DH3"
-1797,2,1,1,100000,"Scholars Park, Darlington DL3"
-1798,,,,25000,"Quarry Road, Stanley DH9"
-1799,2,1,1,48500,"Greencroft Close, Darlington DL3"
-1800,2,1,,80000,"Hazel Court, Haswell, Durham DH6"
-1801,4,2,3,266000,"Corvus Drive, Stockton-On-Tees TS18"
-1802,7,2,4,450000,"Ritsons Road, Blackhill, Consett DH8"
-1803,2,1,1,75000,"Hopper Terrace, Shotton Colliery, County Durham DH6"
-1804,3,1,1,110000,"Norton Avenue, Stockton-On-Tees TS20"
-1805,3,1,1,129995,"South Leigh, Tanfield Lea, Stanley DH9"
-1806,4,3,2,360000,"The Granary, Wynyard, Billingham TS22"
-1807,4,,,400000,"Goodwood Close, Shotley Bridge, Consett DH8"
-1808,2,1,1,60000,"Grasmere Street, Hartlepool TS26"
-1809,3,2,1,170000,"Emerson Road, Hurworth, Darlington DL2"
-1810,2,1,1,79995,"Clavering Place, Annfield Plain, Stanley DH9"
-1811,3,1,1,79950,"Fifth Street, Consett, Durham DH8"
-1812,4,2,2,160000,"Station Lane, Hartlepool TS25"
-1813,2,1,1,69950,"Thirlmere Road, Darlington DL1"
-1814,4,2,3,180000,"Sewell Court, Crook DL15"
-1815,2,1,,64950,"Keir Hardie Avenue, Stanley DH9"
-1816,4,2,1,260000,"Sculptor Crescent, Stockton-On-Tees TS18"
-1817,1,1,1,110000,"High Street, Norton, Stockton-On-Tees TS20"
-1818,1,1,1,49950,"Lambton Drive, Hetton Le Hole, Houghton -Le- Spring DH5"
-1819,2,1,,45000,"Fairy Street, Hetton-Le-Hole, Houghton Le Spring DH5"
-1820,2,1,1,129950,"Church Row, West Rainton, Houghton Le Spring DH4"
-1821,3,1,2,140000,"Elemore Lane, Easington Lane, Houghton Le Spring DH5"
-1822,3,1,,154999,"Longlands Drive, Houghton Le Spring DH5"
+0,3,,1,100000,DL14
+1,2,2,1,79000,DL4
+2,3,3,,225000,SR8
+3,4,,,230000,DL2
+4,3,1,1,48000,TS24
+5,3,1,1,160000,DH3
+6,3,1,2,169950,DH7
+7,3,2,,125000,TS18
+8,3,2,1,185000,DL3
+9,3,3,1,230000,DL3
+10,3,1,1,140000,DL5
+11,3,2,1,119950,DH1
+12,4,1,1,190000,DH6
+13,2,2,1,375000,TS21
+14,2,1,,30000,TS25
+15,3,2,2,209995,DL2
+16,3,2,2,209995,DL2
+17,3,1,2,120000,TS25
+18,1,2,1,220000,DH8
+19,3,2,1,180000,DH8
+20,5,4,3,360000,TS28
+21,3,2,1,93000,TS24
+22,3,1,1,140000,TS23
+23,1,1,1,40000,DH5
+24,2,,1,70000,DL4
+25,3,1,2,130000,DL5
+26,2,2,1,125000,TS20
+27,5,,2,235000,DH3
+28,2,1,1,167500,TS19
+29,3,2,2,102997,DH6
+30,3,1,3,142500,TS24
+31,3,3,1,160000,DH6
+32,5,3,,294950,TS17
+33,3,2,1,149950,DH7
+34,4,2,3,180000,TS23
+35,3,1,2,125000,TS17
+36,2,1,1,80000,DH3
+37,3,1,1,125000,TS19
+38,3,1,1,95000,DL15
+39,4,2,2,266000,TS18
+40,3,1,1,150000,DH5
+41,4,,,600000,DL14
+42,2,1,1,129995,SR7
+43,5,1,2,285000,DH5
+44,2,1,1,70000,DL3
+45,4,2,,160000,DL1
+46,3,2,1,45000,TS24
+47,3,2,1,75000,TS24
+48,5,2,1,375000,DH5
+49,4,2,2,330000,TS17
+50,4,1,2,195000,DH8
+51,5,1,2,140000,TS28
+52,2,1,1,80000,SR7
+53,2,1,1,105000,TS20
+54,1,1,1,40000,DH1
+55,7,2,5,250000,TS18
+56,2,1,1,90000,DL1
+57,3,2,,89950,SR8
+58,2,1,1,89950,DH7
+59,3,2,,80000,TS28
+60,2,,1,89950,DH3
+61,4,2,3,290000,DH4
+62,3,2,2,179999,DH4
+63,3,2,2,122500,DL2
+64,1,1,1,40000,TS27
+65,2,,1,70000,DL4
+66,2,2,1,135000,DL14
+67,2,1,1,55000,DH2
+68,6,6,4,750000,DL14
+69,2,,,70000,DL14
+70,2,1,1,45000,DH3
+71,3,2,1,140000,DH8
+72,3,2,2,235000,TS5
+73,4,2,2,272995,DL2
+74,2,1,1,158995,DL2
+75,2,1,1,159995,DL2
+76,3,2,2,124995,TS26
+77,3,2,2,104995,DH6
+78,3,2,2,209995,DH6
+79,2,2,1,149950,DH3
+80,4,1,2,350000,DL2
+81,3,2,1,300000,DH8
+82,1,1,1,99950,DH1
+83,3,,,144995,DH9
+84,4,,,525000,TS29
+85,3,2,1,299950,TS16
+86,2,,1,70000,DL14
+87,4,2,2,325000,DH4
+88,3,2,2,220000,DH2
+89,3,2,1,170000,TS18
+90,2,1,1,99950,DL16
+91,3,1,1,360000,TS19
+92,3,1,1,90000,TS20
+93,4,2,2,299950,TS17
+94,4,2,2,339950,DH7
+95,2,1,1,110000,DH9
+96,4,4,2,395000,TS25
+97,4,2,2,329950,TS22
+98,2,1,1,65000,DL1
+99,4,1,2,220000,DH4
+100,3,1,1,115000,DH5
+101,3,1,2,150000,SR8
+102,3,,,140000,DL14
+103,3,1,1,140000,TS19
+104,3,2,3,140000,TS23
+105,2,2,1,80000,TS27
+106,4,2,2,340000,TS23
+107,2,2,1,140000,DL1
+108,6,4,1,90000,TS25
+109,3,1,2,225000,DH3
+110,2,1,1,90000,TS25
+111,3,,1,186000,TS24
+112,3,1,1,272000,TS24
+113,3,1,,145000,TS18
+114,2,1,1,90000,SR8
+115,2,1,1,190000,DH3
+116,3,,1,70000,TS24
+117,3,,1,70000,TS26
+118,3,,1,70000,TS26
+119,3,2,1,185000,DH4
+120,3,,1,70000,TS25
+121,3,2,1,125000,DH7
+122,2,1,1,118995,TS25
+123,3,3,,189950,DH1
+124,3,1,1,99995,SR7
+125,3,1,1,150000,TS20
+126,4,,,80000,DH9
+127,2,2,1,110000,TS25
+128,1,1,1,115000,TS19
+129,5,3,3,600000,TS20
+130,2,1,1,45000,TS29
+131,3,2,2,125000,DL15
+132,2,1,1,25000,TS2
+133,4,2,3,142000,TS18
+134,4,3,2,190000,TS17
+135,4,,,240000,TS29
+136,4,,,145000,TS29
+137,4,,,105000,TS29
+138,2,2,1,125000,TS27
+139,2,,,75000,DL14
+140,3,2,,40000,SR8
+141,3,,,90000,DL14
+142,3,1,,55000,DH6
+143,2,2,1,68000,DH5
+144,4,,,250000,DH4
+145,3,2,1,225000,TS21
+146,2,1,1,120000,DL2
+147,3,1,1,145000,DH3
+148,4,5,3,575000,TS26
+149,3,1,1,174950,DH4
+150,3,1,1,180000,TS22
+151,2,1,1,38000,DH8
+152,4,2,2,85000,DH6
+153,2,1,1,70000,DH9
+154,3,2,1,140000,TS23
+155,4,2,2,285000,TS19
+156,3,2,1,70000,SR8
+157,1,1,,65000,DH3
+158,3,,,125000,DH4
+159,2,1,1,60000,TS17
+160,1,1,,12000,DL14
+161,3,3,2,360000,TS16
+162,2,1,,70000,TS18
+163,1,1,1,65000,DH3
+164,1,1,1,59995,TS18
+165,2,1,1,130000,TS19
+166,3,1,1,100000,TS19
+167,3,2,1,200000,TS18
+168,5,3,3,379950,DL3
+169,3,3,1,185000,DH7
+170,4,4,,259950,DH6
+171,3,3,,189950,DH6
+172,5,2,,264950,DH7
+173,3,3,,199950,DH4
+174,2,1,1,65000,TS25
+175,2,1,1,60000,TS25
+176,3,2,1,160000,TS18
+177,2,1,1,105000,TS24
+178,2,1,1,72000,TS17
+179,2,,,74995,DL12
+180,2,,,99995,DL12
+181,2,,,39995,DL12
+182,3,2,2,160000,DL15
+183,3,1,,120000,DL13
+184,3,1,1,110000,TS19
+185,4,2,2,230000,TS18
+186,3,1,1,100000,TS20
+187,3,2,2,200000,DH8
+188,3,1,2,269000,DH8
+189,2,1,2,145000,DH3
+190,4,1,1,235000,DL2
+191,4,2,2,179950,SR7
+192,3,2,,175000,TS20
+193,2,1,2,99950,DH3
+194,3,2,,160000,DH8
+195,5,2,3,350000,DH1
+196,2,1,1,200000,DL2
+197,2,1,1,65000,TS18
+198,4,2,1,350000,DH5
+199,4,2,1,320000,TS20
+200,4,2,1,230000,TS19
+201,2,1,1,100000,TS18
+202,4,3,,254950,TS24
+203,2,2,1,47950,DL14
+204,5,1,3,295000,DL13
+205,4,2,2,260000,TS27
+206,2,1,1,85000,DH3
+207,3,1,1,120000,DH7
+208,2,2,2,150000,DL15
+209,2,1,1,125000,DH8
+210,3,1,2,170000,DL1
+211,3,1,1,120000,DL5
+212,1,1,1,210000,TS20
+213,3,2,,99999,DH5
+214,3,2,1,164950,DH8
+215,3,1,1,90000,DH3
+216,3,1,1,250000,DH2
+217,2,1,1,39500,DH4
+218,2,1,,115000,DH1
+219,3,1,1,95000,SR8
+220,2,1,,55000,SR8
+221,4,4,2,395000,NE36
+222,2,1,1,38450,DL13
+223,3,,1,132000,TS17
+224,3,1,1,235000,DL3
+225,3,1,1,120000,TS19
+226,3,2,1,295000,TS19
+227,4,2,2,535000,DH1
+228,5,,,350000,DH1
+229,2,1,1,120000,DH1
+230,3,,1,70000,TS26
+231,4,1,,150000,TS28
+232,3,1,1,290000,DH1
+233,3,1,2,235000,DH8
+234,2,,,120000,DH4
+235,3,2,1,145000,TS19
+236,4,2,2,499950,DH3
+237,2,1,1,130000,TS17
+238,5,2,,274950,DL5
+239,3,3,,214950,DL5
+240,3,3,,174950,DL5
+241,2,2,,151950,DL5
+242,2,2,1,69950,DL1
+243,2,1,1,90000,DL1
+244,4,,2,359950,DL2
+245,4,,2,365950,DL2
+246,3,2,1,115000,DL13
+247,2,1,1,93500,TS23
+248,3,2,1,245000,TS18
+249,3,1,1,109950,DH9
+250,3,1,2,175000,DH2
+251,2,1,1,19000,SR8
+252,3,2,1,60000,TS26
+253,3,2,1,295000,TS18
+254,3,1,2,105000,DH9
+255,3,,1,240000,DL15
+256,2,1,1,80000,TS24
+257,3,1,4,275000,TS24
+258,3,1,1,79950,SR8
+259,2,1,1,75000,DH6
+260,3,2,1,79950,DL3
+261,2,1,1,42500,TS18
+262,3,1,1,85000,DH9
+263,3,,,200000,TS16
+264,3,1,1,130000,DL1
+265,4,2,2,399950,DL12
+266,2,2,1,95000,DH4
+267,2,1,2,105000,DL1
+268,3,2,1,195000,TS18
+269,5,2,3,270000,TS23
+270,3,2,1,65000,TS29
+271,3,2,1,69950,DH6
+272,2,1,1,10000,NE36
+273,3,2,1,15000,TS17
+274,2,2,1,140000,TS19
+275,2,1,2,70000,TS17
+276,4,3,1,300000,TS18
+277,3,1,1,115000,TS24
+278,2,1,1,105000,DH8
+279,1,1,1,119950,SR7
+280,4,3,3,475000,DL14
+281,2,,,80000,DL17
+282,4,2,2,230000,DH9
+283,2,1,1,140000,DH3
+284,3,1,,89950,SR8
+285,3,2,1,180000,DH8
+286,3,2,3,230000,DL16
+287,2,1,1,105000,DH8
+288,3,2,1,60000,DH6
+289,2,1,2,260000,DL4
+290,2,1,1,94995,DL5
+291,2,,,140000,DL3
+292,,,,400000,Durham
+293,4,2,1,125000,TS26
+294,5,4,2,450000,DL1
+295,4,2,2,270000,DH8
+296,2,2,,160000,DH4
+297,3,3,1,165000,DL15
+298,2,1,2,99950,DL16
+299,3,2,,95000,TS19
+300,3,2,,85000,DH6
+301,4,3,1,325000,TS18
+302,3,1,1,50000,DL5
+303,3,2,1,80000,DH9
+304,3,2,2,204995,DH6
+305,2,2,1,95000,DH3
+306,4,2,,239950,DH6
+307,3,2,,209950,DH6
+308,4,2,,237950,DH7
+309,3,3,,184950,DH7
+310,3,3,,159950,DH5
+311,4,2,2,200000,TS23
+312,3,1,1,189950,TS16
+313,3,2,1,150000,TS18
+314,1,1,1,35000,DL4
+315,3,1,1,200000,TS18
+316,3,2,1,100000,DH8
+317,3,2,,60000,DH6
+318,2,1,1,25000,SR8
+319,2,1,1,25000,SR8
+320,2,1,1,65000,DH8
+321,4,2,1,150000,TS18
+322,3,2,1,125000,TS19
+323,2,1,1,120000,DL14
+324,3,1,1,169950,DH4
+325,3,1,1,350000,TS27
+326,2,1,1,84950,DH8
+327,2,1,1,59950,TS25
+328,2,1,1,69950,DH7
+329,3,2,1,160000,DH6
+330,3,1,1,85000,DL5
+331,4,3,2,220000,DH5
+332,3,2,1,95000,DH9
+333,3,1,1,265000,DH9
+334,3,2,1,79950,TS23
+335,2,1,1,148000,DH5
+336,3,2,3,105000,SR7
+337,3,1,1,5000,SR8
+338,2,1,1,5000,DL14
+339,3,1,1,99995,DH9
+340,3,5,3,425000,TS26
+341,3,1,1,67500,TS23
+342,2,1,1,79950,TS23
+343,3,1,2,225000,DH3
+344,3,2,2,327000,SR7
+345,2,1,,35000,SR8
+346,2,1,1,110000,TS19
+347,3,2,,186950,TS24
+348,3,1,2,199950,DH1
+349,2,1,1,130000,DH9
+350,2,1,1,220000,DH8
+351,4,3,2,210000,DH5
+352,3,,1,80000,DL15
+353,3,,1,70000,DL15
+354,4,2,3,270000,TS18
+355,3,3,2,180000,DL15
+356,4,1,1,220000,DH9
+357,4,2,2,335000,TS22
+358,2,1,1,115000,DH3
+359,5,3,7,1500000,TS21
+360,3,1,1,128000,DH2
+361,3,,,150000,DL16
+362,2,1,1,75000,SR7
+363,2,1,1,215000,TS18
+364,4,4,1,98000,DH5
+365,3,1,1,89950,DH8
+366,6,3,3,330000,TS27
+367,2,1,1,129995,DL5
+368,1,1,1,52500,TS20
+369,3,2,1,185000,TS19
+370,3,2,1,169950,TS17
+371,3,2,1,135000,DH7
+372,3,2,2,180000,DH2
+373,2,1,1,55000,NE63
+374,2,1,,40000,SR8
+375,2,1,1,110000,DH6
+376,2,1,1,218000,TS22
+377,3,2,1,149950,DL4
+378,2,1,1,105000,SR8
+379,3,2,1,165000,TS19
+380,4,4,,399950,NE36
+381,3,,1,199950,DH2
+382,2,1,1,65000,SR7
+383,,,,12000,DL14
+384,2,1,1,45000,DL4
+385,4,2,2,240000,DH8
+386,3,2,1,140000,DH9
+387,2,,,70000,DL14
+388,3,1,1,100000,DH4
+389,2,2,,175000,TS19
+390,2,1,1,150000,TS19
+391,4,2,2,259500,TS26
+392,4,1,,155000,TS28
+393,4,3,2,314995,DH6
+394,4,2,2,282995,TS26
+395,4,2,2,282995,TS26
+396,4,3,2,319995,TS26
+397,4,3,2,294995,DL16
+398,3,1,2,152500,TS26
+399,5,2,3,695000,DH2
+400,2,1,1,79950,DH7
+401,2,,,100000,DH7
+402,3,1,1,143000,DH5
+403,2,2,1,89950,DH7
+404,3,1,1,120000,TS23
+405,3,1,3,195000,DH4
+406,2,1,1,90000,DH9
+407,2,1,1,80000,DH4
+408,2,1,1,170000,DH6
+409,3,2,1,250000,DL1
+410,5,,,745000,DH1
+411,2,,,79950,DH5
+412,4,1,1,120000,TS19
+413,3,2,,50000,SR8
+414,3,2,1,150000,TS18
+415,2,1,1,65000,SR7
+416,3,3,1,320000,TS21
+417,2,1,1,39999,TS27
+418,3,2,,40000,DH6
+419,4,2,2,374995,DH3
+420,2,1,1,159950,SR7
+421,2,1,1,145000,DL17
+422,4,1,1,205000,DH8
+423,4,2,2,600000,TS26
+424,3,2,1,105000,TS25
+425,1,1,1,79950,DH4
+426,4,2,2,600000,TS26
+427,3,2,1,105000,DH8
+428,3,1,1,150000,TS17
+429,3,2,1,249950,SR8
+430,2,1,1,115000,DH8
+431,2,1,,125000,DH8
+432,3,,,259995,DH4
+433,3,,,196995,DH4
+434,3,1,1,244995,DL3
+435,4,2,2,325000,TS28
+436,4,2,1,230000,TS16
+437,4,1,2,244950,DH4
+438,2,1,1,40000,DL14
+439,3,2,1,150000,DH1
+440,3,1,1,135000,DL14
+441,2,1,1,195000,DL13
+442,2,1,1,36000,DL13
+443,5,1,1,230000,TS18
+444,3,1,2,160000,DH8
+445,3,2,2,230000,DH8
+446,3,1,3,225000,DH1
+447,3,,2,195000,DH1
+448,2,,,140000,DH4
+449,3,2,2,175000,TS25
+450,4,2,2,245000,TS25
+451,2,1,1,100000,DH7
+452,4,1,1,249995,DH8
+453,4,2,3,385000,TS22
+454,4,2,2,250000,TS23
+455,3,1,2,199950,DH2
+456,3,2,1,95000,DL15
+457,2,1,1,59950,DH2
+458,3,2,2,166550,SR7
+459,3,,1,109999,DH2
+460,2,2,1,59995,DH9
+461,3,1,1,125000,DH8
+462,2,2,1,155000,DH4
+463,2,1,1,70000,TS20
+464,2,,,95000,DH8
+465,2,1,2,89950,DH7
+466,3,1,,119950,DH4
+467,2,1,2,110000,DH3
+468,3,1,2,215000,DH2
+469,2,1,1,49950,SR8
+470,2,1,1,95000,TS17
+471,3,1,1,137500,DH2
+472,2,1,1,105000,TS23
+473,2,1,1,44500,DL13
+474,2,1,2,38450,DL13
+475,2,1,2,48450,DL13
+476,2,2,1,72500,TS27
+477,4,3,3,315000,TS26
+478,3,2,1,92500,TS17
+479,3,1,1,15000,TS21
+480,2,1,1,10000,TS21
+481,2,1,1,15000,TS25
+482,3,1,1,10000,TS24
+483,2,1,1,10000,DL14
+484,2,1,1,59950,SR8
+485,2,1,1,35995,DH8
+486,2,1,1,150000,TS18
+487,5,4,3,595000,TS22
+488,3,2,1,169950,TS17
+489,2,1,1,80000,DH4
+490,3,2,2,185000,DH9
+491,2,2,,84999,DH5
+492,7,,,145000,TS18
+493,3,1,1,175000,TS23
+494,3,1,,80000,TS19
+495,2,1,1,48000,DL14
+496,3,2,1,145000,TS23
+497,3,2,1,95000,SR7
+498,5,3,1,115000,SR8
+499,1,1,1,55000,DH5
+500,3,2,,175000,SR8
+501,3,1,1,52000,DL5
+502,3,1,1,120000,DL5
+503,3,1,1,130000,TS17
+504,4,3,2,325000,DH1
+505,4,2,2,334995,TS26
+506,4,3,2,364995,TS26
+507,5,4,3,484995,TS26
+508,3,2,2,86995,DL16
+509,3,2,2,87495,DL16
+510,4,3,2,374995,TS26
+511,4,2,2,309995,TS26
+512,3,2,2,124995,DL2
+513,3,2,2,87995,DL16
+514,2,1,1,205000,TS16
+515,3,1,1,160000,TS25
+516,3,2,1,100000,DH5
+517,2,1,1,95000,DL15
+518,2,1,2,290000,DH1
+519,3,1,,165000,DH4
+520,2,1,1,40000,SR7
+521,1,3,1,119995,DL17
+522,4,1,2,200000,DH9
+523,2,,1,295000,DH7
+524,3,2,,240000,DH8
+525,3,2,1,330000,TS19
+526,4,2,,509995,DL3
+527,3,1,3,220000,TS16
+528,2,2,1,49995,DL3
+529,3,2,1,399950,DH1
+530,4,,,420000,DL15
+531,2,,1,60000,SR8
+532,3,,,114950,DH9
+533,3,1,1,115000,DH3
+534,2,1,1,59950,DL17
+535,3,1,1,84950,DH5
+536,3,1,2,189999,TS28
+537,3,1,1,195000,DH2
+538,2,,1,40000,DL14
+539,3,,1,65000,DH9
+540,3,1,1,114950,DH4
+541,2,2,1,75000,DL14
+542,2,1,,45000,TS25
+543,4,1,3,275000,DH3
+544,2,,,75000,DL14
+545,3,,,140000,DH1
+546,2,1,1,75000,TS24
+547,2,1,1,140000,DH1
+548,6,3,3,315000,TS18
+549,3,2,1,175000,TS23
+550,3,2,2,260000,TS22
+551,3,1,,60000,TS28
+552,,,,25000,DH2
+553,3,1,1,145000,TS20
+554,2,1,1,45000,SR8
+555,3,1,2,260000,TS22
+556,3,1,1,85000,SR8
+557,1,1,,42000,TS17
+558,2,2,1,45000,DL15
+559,4,3,3,355000,DH6
+560,5,2,1,130000,TS26
+561,,,,85000,TS17
+562,3,1,1,147500,TS24
+563,3,1,1,90000,DL14
+564,4,1,2,335000,TS22
+565,3,2,1,95000,DH5
+566,1,1,1,60000,TS23
+567,3,1,1,45000,TS24
+568,3,1,1,110000,TS17
+569,1,,,9000,TS18
+570,1,,,5000,TS18
+571,1,,,5000,TS18
+572,3,1,1,85000,DH5
+573,1,1,1,42000,TS17
+574,2,1,1,58000,TS17
+575,4,,,195000,DH2
+576,5,3,,259950,DH7
+577,5,2,,259950,DH6
+578,3,3,,219950,DH5
+579,3,3,,174950,DH5
+580,4,2,,224950,DH5
+581,2,2,1,200000,DL2
+582,3,1,2,147000,DL3
+583,5,2,2,120000,DH8
+584,3,2,1,140000,TS19
+585,4,2,2,120000,TS17
+586,2,1,1,70000,DL4
+587,2,1,1,120000,TS26
+588,3,1,1,145000,DH7
+589,4,2,,240000,TS24
+590,3,1,,260000,DH1
+591,2,1,,44999,DH4
+592,4,2,2,325000,DH3
+593,4,,,254995,DL17
+594,4,2,1,190000,TS17
+595,5,3,,599995,DL3
+596,5,3,,564995,DL3
+597,5,2,3,315000,TS27
+598,3,2,1,119950,DH9
+599,2,,,85000,DL1
+600,2,1,1,140000,DL3
+601,3,2,3,190000,DL13
+602,3,2,2,195000,DH3
+603,,,,40000,DL4
+604,2,,,49950,SR8
+605,1,1,1,50000,DH2
+606,1,1,1,40000,DL1
+607,5,2,3,250000,DL15
+608,2,1,1,109950,DH8
+609,4,1,2,230000,DH4
+610,2,1,1,82950,DH1
+611,3,2,2,154950,DH9
+612,3,1,1,75000,DH9
+613,2,,,65000,DL14
+614,3,,3,280000,DH8
+615,3,2,1,135000,DL1
+616,4,,1,239000,DH3
+617,4,4,,259950,DH4
+618,3,3,,179950,DH4
+619,3,3,,134950,DL14
+620,3,3,,139950,DL14
+621,3,3,,209950,DH6
+622,4,3,,264950,DH7
+623,3,2,1,290000,DH1
+624,3,1,1,80000,DL14
+625,2,1,,145000,TS24
+626,3,1,1,180000,DH3
+627,2,1,1,89950,DH4
+628,2,,,160000,DL14
+629,2,1,1,75000,DH5
+630,3,1,2,224950,TS27
+631,3,1,1,65950,DH8
+632,2,2,1,75000,DL14
+633,3,,2,89000,DH5
+634,5,3,3,520000,TS22
+635,3,1,2,154950,DH9
+636,3,1,1,160000,TS19
+637,3,1,2,184950,DH5
+638,2,1,1,58000,DH9
+639,3,1,1,65000,TS25
+640,2,2,1,29000,TS24
+641,2,1,1,70000,SR7
+642,2,1,1,38000,TS25
+643,2,1,1,135000,TS19
+644,3,1,,175000,SR8
+645,2,1,1,110000,DL3
+646,3,1,1,75000,TS25
+647,2,1,1,87500,DH9
+648,2,1,1,89950,DH5
+649,2,1,1,115000,DH9
+650,4,1,1,85000,SR8
+651,3,2,1,99950,DH5
+652,4,2,1,95000,DL5
+653,2,1,1,100000,DL3
+654,2,1,1,75000,TS19
+655,3,2,1,105000,SR8
+656,3,2,1,90000,TS17
+657,2,1,,30000,TS27
+658,2,1,1,75000,DH8
+659,2,,,28000,TS24
+660,1,1,1,70000,TS25
+661,2,1,2,109995,DL1
+662,2,,1,60000,SR8
+663,2,2,1,75000,DH6
+664,3,2,,169950,DL14
+665,3,2,1,145000,TS18
+666,2,2,,40000,DL14
+667,2,1,1,75000,DH9
+668,2,,,29000,DH8
+669,3,,,32000,SR8
+670,2,,,28000,SR8
+671,3,,,99950,DH5
+672,4,2,2,399995,DH1
+673,3,2,2,214995,DL2
+674,4,2,2,266995,DL2
+675,5,4,3,473995,TS26
+676,3,2,2,215000,DL16
+677,2,1,,45000,DL14
+678,2,1,,30000,SR8
+679,2,2,,30000,TS26
+680,3,2,1,170000,DH9
+681,2,1,1,100000,DL5
+682,2,1,1,79950,DH5
+683,3,2,1,75000,TS26
+684,1,1,1,32500,DH9
+685,1,1,,97000,NE36
+686,3,1,2,175000,DH4
+687,4,2,2,220000,TS28
+688,3,2,3,350000,DL2
+689,3,,,221995,TS19
+690,3,,,157995,DL17
+691,3,,,162995,DL17
+692,4,3,2,410000,SR8
+693,2,,1,45000,DL14
+694,5,3,1,185000,DH8
+695,2,2,1,59950,TS17
+696,5,1,3,325000,DH9
+697,5,4,4,525000,DH9
+698,4,,,300000,DH9
+699,4,1,2,370000,DH3
+700,5,3,,419950,TS22
+701,3,1,2,160000,TS25
+702,2,1,1,89950,DH3
+703,3,1,1,90000,DH2
+704,5,,,60000,TS26
+705,2,2,1,175000,DL17
+706,3,2,,219950,SR8
+707,4,4,,359950,TS22
+708,3,1,2,125000,DH7
+709,2,1,1,65000,DL15
+710,3,2,,159950,DH6
+711,3,1,1,150000,TS18
+712,2,,,200000,DH5
+713,4,2,1,210000,DH1
+714,3,1,2,200000,DH5
+715,3,2,,179950,TS24
+716,2,1,1,89950,DH7
+717,3,2,1,150000,TS17
+718,2,1,1,110000,DH5
+719,3,2,1,135000,TS19
+720,3,1,1,195000,TS16
+721,3,1,1,125000,DH4
+722,3,1,2,249950,DH6
+723,2,,1,400000,TS18
+724,3,1,2,175000,TS20
+725,2,2,1,160000,TS16
+726,3,1,1,140000,DL15
+727,4,1,2,270000,DH2
+728,2,1,1,75000,DH7
+729,4,1,2,225000,DH7
+730,3,2,1,400000,DH9
+731,4,3,2,550000,TS21
+732,3,,,75000,DL5
+733,4,2,,85000,DL14
+734,3,,,100000,DL14
+735,4,2,1,240000,TS27
+736,7,3,3,925000,TS21
+737,3,,,235000,DL14
+738,3,1,1,110000,DH6
+739,2,1,,42000,DL14
+740,2,,,110000,DL14
+741,3,1,1,269950,TS26
+742,3,,,155000,DH8
+743,2,2,1,42000,DL14
+744,1,1,1,59950,DH3
+745,2,1,1,51500,TS26
+746,3,,,250000,TS16
+747,4,2,2,250000,DH4
+748,3,2,1,85000,TS24
+749,2,2,1,175000,TS22
+750,4,,2,450000,DH6
+751,3,,,90000,DL14
+752,1,1,1,89950,DH1
+753,3,1,1,155000,TS20
+754,3,1,1,80000,DH5
+755,2,1,,25000,SR8
+756,2,1,,140000,DH2
+757,5,3,2,250000,DL13
+758,3,,,155000,DL14
+759,4,2,1,229995,TS27
+760,3,,,224950,DL2
+761,2,1,1,45000,DH9
+762,2,1,,160000,TS25
+763,3,,,140000,DL14
+764,4,,,376995,DH3
+765,3,,,160000,DL1
+766,3,2,1,185000,SR8
+767,3,1,1,110000,DL1
+768,2,1,,47000,SR8
+769,3,1,2,170000,DH8
+770,3,,1,150000,DL13
+771,4,1,2,300000,DL5
+772,2,1,2,235000,DH1
+773,5,2,3,395000,DH6
+774,4,2,2,395000,DH6
+775,2,2,1,25000,SR8
+776,2,1,,105000,SR7
+777,3,2,1,160000,TS18
+778,4,2,2,270000,DH2
+779,4,1,1,170000,DH9
+780,3,1,1,170000,TS18
+781,2,1,1,99950,DL5
+782,4,3,2,349950,DH8
+783,2,1,1,60000,DH9
+784,3,,,221995,TS19
+785,3,2,1,80000,DL4
+786,3,1,1,210000,TS17
+787,3,1,2,84995,DH8
+788,2,2,,85000,DH1
+789,5,2,3,595000,TS22
+790,3,,,35500,TS25
+791,4,2,3,330000,TS22
+792,4,1,3,240000,TS21
+793,2,1,1,68500,SR7
+794,5,4,2,89000,TS28
+795,3,2,1,65000,DL4
+796,2,1,2,110000,TS18
+797,4,2,2,120000,TS19
+798,3,,,115000,DL4
+799,2,1,1,180000,TS19
+800,3,1,1,140000,TS19
+801,2,1,,90000,TS19
+802,3,1,1,94000,DH6
+803,2,1,1,95000,DL3
+804,4,,,220000,DH8
+805,2,2,,137950,TS24
+806,2,2,1,95000,DL15
+807,1,1,1,110000,TS19
+808,2,1,,79950,DH9
+809,2,,,68000,DL14
+810,3,2,1,139500,DH1
+811,3,1,2,179995,TS28
+812,2,1,1,166995,TS26
+813,2,1,1,169995,TS26
+814,2,1,1,161995,TS26
+815,2,1,2,85000,DH8
+816,2,2,2,335000,DL2
+817,3,1,3,129950,TS19
+818,4,1,2,220000,DH4
+819,4,2,1,95000,DH9
+820,3,2,2,65995,TS25
+821,4,,,145000,SR8
+822,5,3,,329950,SR8
+823,3,1,,110000,DH5
+824,4,1,1,85000,DL5
+825,4,1,3,160000,TS18
+826,4,1,1,250000,DH3
+827,5,1,2,460000,DH1
+828,5,2,1,450000,DH1
+829,1,1,1,195000,DH1
+830,5,3,1,395000,DH5
+831,3,2,2,145000,DL13
+832,2,,,73000,DL14
+833,,,,30000,DH9
+834,2,1,1,110000,SR8
+835,2,1,,40000,TS27
+836,2,1,,40000,SR8
+837,2,2,1,120000,DH5
+838,3,2,1,300000,TS18
+839,,,,89950,DH6
+840,,,,89950,DH6
+841,,,,89950,DH6
+842,,,,89950,DH6
+843,,,,89950,DH6
+844,,,,89950,DH6
+845,,,,550000,DH6
+846,,,,89950,DH6
+847,3,2,1,52000,TS26
+848,2,2,1,80000,DH5
+849,3,,,95000,SR7
+850,3,1,1,175000,DH3
+851,2,1,1,80000,TS19
+852,3,2,,194950,TS17
+853,2,2,1,136995,DL16
+854,2,1,1,82500,TS21
+855,2,1,1,130000,DH4
+856,3,1,1,125000,DH4
+857,2,1,1,65000,DL14
+858,5,3,3,525000,TS22
+859,3,1,2,180000,DH7
+860,3,1,,145000,SR8
+861,3,2,1,52000,TS26
+862,3,,,130000,TS19
+863,2,1,,90000,DL3
+864,3,2,1,15000,TS25
+865,2,1,1,75000,DH6
+866,2,1,1,75000,DH9
+867,3,1,,125950,SR8
+868,2,1,,125000,SR8
+869,1,1,,119950,SR8
+870,2,1,,119950,SR8
+871,2,1,,119950,SR8
+872,1,1,,129950,SR8
+873,4,2,1,225000,TS18
+874,2,1,1,54995,DH8
+875,2,1,2,300000,DH1
+876,4,4,4,146000,TS18
+877,3,3,1,118000,DH4
+878,3,1,1,84950,DH7
+879,3,1,2,84950,DL5
+880,2,1,1,38000,DH2
+881,4,,,371995,DH4
+882,4,,,391995,DH4
+883,4,,,432995,DH4
+884,5,,,432995,DH4
+885,4,,,381995,DH4
+886,4,,,381995,DH4
+887,4,,,339995,DH4
+888,4,,,294995,DH4
+889,4,,,315995,DH3
+890,4,,,304994,DH3
+891,3,,,234995,DH3
+892,4,,,345995,DH3
+893,3,,,284995,DH3
+894,4,,,315995,DH3
+895,3,,,253995,DH3
+896,4,,,315995,DH3
+897,3,,,238995,TS19
+898,4,,,259995,TS19
+899,3,,,186100,TS19
+900,3,,,213995,DL17
+901,2,1,1,62995,SR8
+902,3,1,,55000,TS19
+903,3,,,110000,DH9
+904,4,3,2,250000,DL1
+905,3,1,1,104950,DH7
+906,2,1,1,38000,TS25
+907,3,1,1,99950,TS20
+908,2,1,,55000,TS18
+909,2,1,,55000,TS18
+910,2,2,1,129950,DH7
+911,5,4,3,375000,DH3
+912,5,1,3,450000,TS21
+913,2,1,1,84950,DH9
+914,4,1,,170000,TS20
+915,3,1,,75000,TS20
+916,3,1,,55000,TS18
+917,3,1,,85000,TS23
+918,5,3,1,1000000,DL13
+919,1,1,1,54950,DL3
+920,2,1,,190000,TS24
+921,3,1,,230000,TS24
+922,5,3,1,375000,DL2
+923,4,2,2,274995,DH4
+924,3,3,1,249995,DH4
+925,3,1,2,140000,DH8
+926,4,1,1,170000,TS20
+927,3,2,2,95000,SR8
+928,4,2,2,414995,DH1
+929,4,3,2,524995,DH1
+930,4,3,2,367995,TS26
+931,3,2,2,239995,DH6
+932,3,2,2,245500,DH6
+933,3,2,2,88499,DL16
+934,3,2,1,90000,DL14
+935,4,1,2,269950,DL16
+936,3,1,1,90000,DL15
+937,,,,125000,TS24
+938,3,2,1,80000,DL3
+939,2,2,1,110000,TS20
+940,3,1,1,230000,DH2
+941,2,1,1,164950,DL14
+942,2,1,1,130000,TS16
+943,3,1,,44000,TS24
+944,2,,,55000,DL3
+945,4,3,2,250000,TS27
+946,2,1,1,92950,DH2
+947,4,2,2,250000,TS17
+948,3,1,3,230000,DL3
+949,2,1,1,185000,DH7
+950,3,1,1,280000,DL2
+951,3,2,2,240000,TS22
+952,4,3,3,450000,DH3
+953,3,2,1,59950,DL4
+954,2,,1,68000,TS17
+955,4,3,2,279950,DL2
+956,3,2,1,120000,DH4
+957,4,1,,199999,DH4
+958,3,2,2,295000,DH8
+959,4,2,2,130000,DL17
+960,4,2,2,250000,TS18
+961,3,2,1,55000,TS18
+962,2,1,1,55000,TS18
+963,2,1,1,55000,TS18
+964,3,1,1,75000,TS20
+965,3,1,1,85000,TS23
+966,2,2,1,55000,TS19
+967,2,2,1,229995,TS22
+968,3,2,,227995,DH1
+969,3,2,,224995,DH1
+970,4,2,2,300000,DL4
+971,2,1,,60000,SR8
+972,3,2,1,65000,TS17
+973,3,2,1,145000,DH7
+974,4,,,239995,DL17
+975,3,3,1,365000,DH5
+976,3,2,,90000,DH9
+977,2,1,2,80000,DL3
+978,3,3,,232950,DH6
+979,3,2,1,90000,DL15
+980,2,1,,40000,TS26
+981,3,,2,180000,SR8
+982,3,,2,180000,SR8
+983,2,1,1,115000,TS19
+984,3,,,100000,DL14
+985,4,2,2,325000,TS22
+986,2,,,50000,DL14
+987,2,2,1,55000,DH7
+988,2,1,2,109950,DH7
+989,2,,,58000,DL14
+990,2,,1,89995,DH9
+991,4,2,2,265000,TS27
+992,3,1,1,120000,DH2
+993,2,1,,25000,DL14
+994,6,4,3,630000,TS17
+995,4,4,2,450000,TS29
+996,3,2,2,165000,DL17
+997,3,1,1,150000,TS24
+998,2,1,1,82500,DL17
+999,3,2,,55000,SR8
+1000,4,1,,165000,TS20
+1001,4,,,450000,SR7
+1002,2,1,,55000,SR8
+1003,3,2,1,120000,DH5
+1004,2,1,1,194000,TS16
+1005,3,2,1,145000,DH7
+1006,2,1,2,100000,DH3
+1007,2,1,1,100000,TS18
+1008,3,3,,224950,TS20
+1009,2,1,1,60000,DL4
+1010,2,1,1,65000,DL3
+1011,4,2,1,415000,TS16
+1012,4,1,2,165000,TS20
+1013,1,1,1,80000,SR7
+1014,4,2,,249950,DH4
+1015,4,4,,264950,DH4
+1016,3,3,,169950,DH4
+1017,2,1,,25000,SR8
+1018,3,2,2,214995,DL2
+1019,3,1,2,196995,DL16
+1020,3,1,2,205995,DL16
+1021,3,2,2,216995,DL2
+1022,2,1,,100000,DH5
+1023,,,,99000,DL16
+1024,3,3,,109950,SR8
+1025,5,2,2,385000,TS27
+1026,2,1,1,65000,DL4
+1027,3,1,2,67500,TS27
+1028,2,1,1,69999,TS28
+1029,1,1,1,32000,SR7
+1030,2,1,2,330000,DH2
+1031,2,1,1,50000,DH2
+1032,3,2,1,69000,DH9
+1033,3,2,2,250000,TS26
+1034,,,,280000,DH9
+1035,4,2,2,295000,TS22
+1036,3,2,,85000,SR8
+1037,5,2,3,379500,DH8
+1038,2,2,1,85000,DH7
+1039,2,2,2,65000,SR7
+1040,3,1,2,160000,DH8
+1041,1,1,1,75000,DL3
+1042,2,1,,30000,SR8
+1043,3,2,1,160000,DH6
+1044,2,1,1,55000,TS29
+1045,3,,,100000,DH4
+1046,2,2,,139950,DH6
+1047,3,1,1,105000,DH7
+1048,3,2,1,170000,TS19
+1049,2,2,1,180000,TS22
+1050,3,1,1,120000,DL1
+1051,4,,2,OA,TS20
+1052,2,2,,60000,DH5
+1053,4,2,,565000,DL16
+1054,4,3,2,529995,DH1
+1055,3,2,1,120000,TS27
+1056,2,1,1,150000,TS22
+1057,3,1,1,180000,DH5
+1058,3,1,1,70000,TS19
+1059,2,1,,68000,SR8
+1060,2,2,1,50000,DH6
+1061,4,,,190000,DL4
+1062,4,,,274950,DH7
+1063,2,4,2,169950,DL16
+1064,3,1,1,260000,DH8
+1065,4,3,2,125000,SR7
+1066,2,1,1,65000,SR7
+1067,2,2,1,37000,TS24
+1068,2,,1,55000,DH9
+1069,3,2,1,15000,DH2
+1070,3,2,1,45000,SR8
+1071,2,1,1,65000,DH9
+1072,1,1,1,98000,TS16
+1073,3,3,2,174995,DH1
+1074,3,3,3,179000,DH9
+1075,2,2,1,83000,DL1
+1076,4,3,1,450000,TS26
+1077,3,,,69995,DL4
+1078,3,1,1,160000,TS24
+1079,2,1,1,104995,TS20
+1080,3,1,1,125000,DH2
+1081,2,1,1,50000,DH9
+1082,2,1,2,285000,DL2
+1083,5,2,2,470000,DH7
+1084,8,2,4,340000,DL14
+1085,4,2,2,70000,DH9
+1086,3,2,1,260000,TS22
+1087,2,1,1,80000,DL5
+1088,3,1,1,272000,TS24
+1089,3,2,2,145000,DH5
+1090,3,1,1,272000,TS24
+1091,4,,,274950,DL2
+1092,3,1,1,272000,TS24
+1093,3,1,1,272000,TS24
+1094,3,1,1,165000,TS24
+1095,3,1,1,155000,TS24
+1096,3,1,1,155000,TS24
+1097,2,,1,65950,DH8
+1098,3,1,2,145000,DH1
+1099,2,1,2,162500,TS25
+1100,4,2,2,317995,DL2
+1101,3,1,2,209995,DH6
+1102,3,2,1,120000,DH1
+1103,3,2,1,199950,DH5
+1104,5,5,3,650000,TS26
+1105,3,,,160000,DL2
+1106,3,1,1,64995,TS27
+1107,3,1,1,135000,DH7
+1108,3,2,2,200000,DL15
+1109,2,2,1,90000,DH8
+1110,3,1,1,94950,DL14
+1111,4,2,4,475000,TS21
+1112,3,1,1,28000,TS24
+1113,2,2,1,65000,DL4
+1114,5,6,,720000,DL16
+1115,3,,1,50000,SR8
+1116,2,,1,50000,TS25
+1117,3,1,1,92000,DH7
+1118,3,1,2,115000,DL4
+1119,,,,450000,TS17
+1120,2,,,64500,DL14
+1121,2,1,2,110000,DH3
+1122,2,1,2,320000,DL2
+1123,3,,1,95000,DH4
+1124,2,1,1,70000,DH9
+1125,2,,1,55000,DL17
+1126,2,1,1,65000,DH6
+1127,2,1,1,65000,DH5
+1128,3,2,,166950,TS24
+1129,5,2,,314950,TS20
+1130,2,1,1,29000,TS24
+1131,2,1,,85000,DH9
+1132,3,1,2,254750,TS22
+1133,1,1,1,35000,DH2
+1134,3,2,2,230000,DL12
+1135,4,,,199995,DL17
+1136,2,1,,45000,TS27
+1137,3,1,1,120000,DL3
+1138,2,1,1,45000,TS27
+1139,2,1,1,75000,DH8
+1140,2,,,65000,DH9
+1141,2,1,1,60000,TS20
+1142,4,2,,224950,DL4
+1143,4,4,,379950,TS22
+1144,2,1,,155000,DH1
+1145,3,1,2,65000,DL5
+1146,3,2,1,140000,DH2
+1147,2,1,1,75000,TS18
+1148,3,1,1,75000,TS25
+1149,5,2,,575000,DL2
+1150,4,3,,475000,SR8
+1151,,,,95000,TS20
+1152,4,2,1,220000,TS19
+1153,3,2,1,200000,TS20
+1154,4,1,4,225000,DH9
+1155,2,1,1,80000,TS19
+1156,3,2,,187950,TS20
+1157,3,2,,184950,TS20
+1158,2,1,,34000,SR8
+1159,3,1,,90000,TS23
+1160,4,1,2,550000,TS16
+1161,4,3,3,340000,TS22
+1162,4,3,2,359995,TS26
+1163,3,2,1,125000,TS24
+1164,4,2,2,312950,DL2
+1165,4,3,3,334950,DL2
+1166,3,1,,50000,SR7
+1167,4,4,,264950,DH7
+1168,3,1,1,250000,DL5
+1169,2,1,,70000,DH8
+1170,2,1,1,89950,DH4
+1171,4,1,2,400000,TS16
+1172,2,,,170000,DL13
+1173,4,2,3,325000,DL5
+1174,3,2,1,199999,DL3
+1175,2,,,70000,DL14
+1176,4,3,4,445000,DH7
+1177,2,1,1,53500,TS26
+1178,2,1,,49950,SR8
+1179,4,2,2,465000,DH7
+1180,2,1,1,114950,DH8
+1181,3,,,100000,DL13
+1182,2,2,1,250000,TS18
+1183,3,3,1,130000,TS26
+1184,1,,,110000,DH1
+1185,4,2,,234950,DH7
+1186,3,3,,159950,DL14
+1187,3,3,,199950,DH7
+1188,3,3,,204950,DH6
+1189,4,4,,204950,DL14
+1190,3,3,,139950,DL14
+1191,3,2,,139950,DL14
+1192,4,2,1,300000,TS17
+1193,3,1,1,159950,DH1
+1194,2,1,1,125000,DH6
+1195,2,1,1,75000,DH2
+1196,3,2,2,215000,TS19
+1197,5,3,2,250000,TS25
+1198,2,1,1,23750,DL13
+1199,2,1,1,48450,DL13
+1200,3,1,1,25450,DL13
+1201,2,1,1,44500,DL13
+1202,1,1,1,80000,TS16
+1203,3,2,,220000,DH4
+1204,3,1,,80000,DL15
+1205,2,1,1,65000,DH8
+1206,3,1,1,100000,DH9
+1207,3,1,1,90000,TS23
+1208,3,1,1,74950,DH7
+1209,2,1,1,75000,DH9
+1210,2,1,1,36000,DH5
+1211,4,2,2,375000,DL15
+1212,3,2,2,155000,TS20
+1213,3,2,2,145000,DH9
+1214,4,2,2,267995,DL2
+1215,4,2,2,272995,DL2
+1216,4,2,2,244995,DL16
+1217,2,2,1,163995,TS26
+1218,2,1,2,110000,DH3
+1219,4,4,,254950,DH5
+1220,2,1,1,75000,DH3
+1221,2,1,1,59950,DL14
+1222,3,2,1,119950,DH7
+1223,2,2,1,350000,DL5
+1224,4,2,2,350000,SR8
+1225,4,1,2,370000,TS16
+1226,2,1,1,70000,DL4
+1227,5,1,3,495000,TS16
+1228,5,2,3,645000,TS16
+1229,5,2,3,655000,TS16
+1230,5,2,3,655000,TS16
+1231,5,1,3,655000,TS16
+1232,6,2,4,785000,TS16
+1233,2,,,65000,DH9
+1234,2,2,1,60000,TS21
+1235,3,2,1,230000,DL3
+1236,4,,,270000,TS27
+1237,4,,,289995,DL17
+1238,4,,,254995,DL17
+1239,1,1,1,40000,DH4
+1240,3,1,2,248000,TS22
+1241,2,1,1,40000,TS26
+1242,2,2,1,69950,DH9
+1243,2,1,1,95000,DH3
+1244,3,1,1,90000,DH8
+1245,5,4,2,450000,DH6
+1246,2,1,1,69950,DL16
+1247,2,1,1,27995,DL13
+1248,2,,1,50000,DL14
+1249,2,2,1,95000,TS27
+1250,2,1,2,90000,DH1
+1251,3,3,2,152000,DL15
+1252,3,3,1,225000,DL16
+1253,3,2,1,65000,DL15
+1254,3,,,720000,DL16
+1255,3,2,1,50000,DH6
+1256,3,1,,190000,DH4
+1257,2,1,1,30000,TS24
+1258,3,1,2,230000,TS17
+1259,1,1,1,67500,DH3
+1260,3,1,1,179950,DL4
+1261,2,1,1,94950,DH8
+1262,5,3,3,600000,TS26
+1263,4,2,1,89950,DH4
+1264,3,2,,114995,DH5
+1265,3,,,203995,DL17
+1266,4,,,239995,DL17
+1267,4,,,300995,TS19
+1268,4,3,2,534995,DH1
+1269,4,3,2,538995,DH1
+1270,3,2,2,211995,DL2
+1271,3,2,2,213995,DL2
+1272,3,2,2,211995,DL16
+1273,4,3,2,309995,TS26
+1274,3,2,2,212995,DH6
+1275,3,2,2,214995,DH6
+1276,3,2,2,214995,DH6
+1277,4,3,2,354995,TS26
+1278,4,3,2,362995,TS26
+1279,3,2,2,195000,DH7
+1280,2,2,1,100000,TS27
+1281,3,2,,285000,DH9
+1282,3,2,2,140000,DL16
+1283,1,1,1,70000,DH1
+1284,3,,,149950,DH8
+1285,3,1,1,120000,DL3
+1286,,,,7500,TS25
+1287,9,,2,250000,TS18
+1288,5,4,3,395000,TS25
+1289,,,,230000,DH1
+1290,5,3,4,700000,TS27
+1291,3,2,1,135000,DH9
+1292,2,1,1,70000,DL16
+1293,2,2,1,68000,TS19
+1294,2,1,,45000,TS25
+1295,3,2,1,199950,DH9
+1296,2,1,1,77500,SR7
+1297,2,1,1,27000,TS24
+1298,2,1,1,32000,TS26
+1299,2,1,1,97500,DH2
+1300,,1,,295000,DL12
+1301,2,1,1,215000,DH7
+1302,3,1,1,125000,TS17
+1303,1,1,,39950,DH8
+1304,4,4,4,200000,DL3
+1305,5,3,1,515000,TS22
+1306,2,1,,67500,DH8
+1307,3,2,1,165000,DH9
+1308,2,1,1,69950,DH5
+1309,4,3,1,245000,TS18
+1310,2,,,60000,DL16
+1311,2,,,95000,DL14
+1312,3,1,1,118500,DH8
+1313,4,1,2,335000,TS21
+1314,3,1,1,210000,TS21
+1315,5,4,5,875000,TS22
+1316,3,2,1,235000,DH1
+1317,2,1,1,49950,SR8
+1318,3,1,2,265000,DH4
+1319,3,2,1,272000,TS24
+1320,3,2,1,272000,TS24
+1321,2,1,2,117000,TS25
+1322,2,1,1,110000,DL3
+1323,3,1,1,139950,DH6
+1324,2,,1,110000,DL14
+1325,2,1,,50000,SR8
+1326,3,1,1,85000,DH8
+1327,2,1,1,64950,DH5
+1328,3,1,1,75000,DL15
+1329,3,1,1,40000,SR8
+1330,2,1,1,245000,TS24
+1331,3,2,1,140000,TS19
+1332,3,1,1,185000,TS18
+1333,4,3,,166500,DL4
+1334,2,,,85000,DL14
+1335,4,,,229995,DL17
+1336,3,,,162995,DL17
+1337,5,3,3,295000,TS18
+1338,2,1,1,56500,DH9
+1339,3,2,,75000,TS18
+1340,2,2,1,55000,DH9
+1341,3,,,200000,DL14
+1342,2,1,2,100000,DH8
+1343,3,2,1,145000,TS17
+1344,5,,,325000,DL14
+1345,3,1,1,100000,DH5
+1346,2,2,,55000,TS27
+1347,1,,1,59950,DL13
+1348,3,1,1,129950,DL4
+1349,3,2,1,147000,TS17
+1350,2,1,1,73000,DH1
+1351,3,1,,122500,DH8
+1352,3,1,1,60000,TS17
+1353,4,2,2,210000,DH5
+1354,2,1,1,60000,DL15
+1355,2,2,1,75000,DH9
+1356,1,1,1,45000,DH9
+1357,2,1,1,80000,DL16
+1358,2,2,,145000,TS24
+1359,2,1,1,177000,TS16
+1360,4,1,1,230000,DL13
+1361,10,,,1500000,DL14
+1362,3,2,1,110000,DH5
+1363,2,,1,55500,DL14
+1364,3,,,110000,DH9
+1365,2,1,1,90000,TS26
+1366,2,1,1,90000,TS26
+1367,2,1,2,110000,TS18
+1368,4,4,2,127500,DL14
+1369,3,2,1,110000,TS27
+1370,2,2,1,53750,DL14
+1371,4,2,,244950,DL5
+1372,2,1,1,32000,TS26
+1373,5,2,3,435000,DH2
+1374,4,2,2,245000,DH8
+1375,4,3,3,875000,DH7
+1376,2,1,1,110000,DH9
+1377,5,2,3,440000,TS20
+1378,3,1,1,75000,TS25
+1379,4,2,2,350000,DH7
+1380,,,,435000,Durham
+1381,3,3,,192950,DH5
+1382,5,2,,259950,DH5
+1383,3,2,,165000,TS19
+1384,4,3,,299950,SR8
+1385,3,1,2,79950,DH9
+1386,3,2,1,165000,TS27
+1387,2,1,1,51000,TS20
+1388,2,1,1,74950,DL13
+1389,2,2,,170000,TS24
+1390,3,3,1,180000,TS18
+1391,4,3,1,225000,DH6
+1392,5,2,,579995,DL3
+1393,2,2,,175000,TS24
+1394,5,4,,449950,TS22
+1395,3,2,1,395000,DH6
+1396,3,,,115000,DL3
+1397,2,2,1,50000,TS26
+1398,2,1,1,32000,DH8
+1399,4,2,1,245000,DH4
+1400,1,,,95000,TS16
+1401,2,2,,180000,TS24
+1402,2,2,,180000,TS24
+1403,2,2,,180000,TS24
+1404,3,2,,229995,DH1
+1405,2,1,,260000,DH1
+1406,2,1,1,147000,DH7
+1407,3,2,1,125000,TS20
+1408,2,,,130000,DL3
+1409,3,1,1,110000,DH5
+1410,3,2,1,85000,DH9
+1411,2,1,,90000,DH2
+1412,2,1,1,125000,TS24
+1413,3,1,1,125000,DL5
+1414,2,1,1,125000,DL1
+1415,2,1,1,48500,DH9
+1416,2,1,1,48500,DH9
+1417,3,1,2,160000,DH4
+1418,3,2,1,89950,DL4
+1419,3,1,,145000,TS20
+1420,2,2,1,55000,DL4
+1421,3,2,2,180000,DH4
+1422,4,,,95000,DH9
+1423,2,2,1,120000,DL5
+1424,3,1,1,100000,TS23
+1425,3,1,2,285000,DL2
+1426,2,1,1,69995,DH9
+1427,3,1,3,250000,DL12
+1428,3,1,1,125000,TS17
+1429,3,2,,70000,DH9
+1430,2,1,1,95000,DH1
+1431,3,1,1,55000,DH5
+1432,4,3,,85000,DH6
+1433,4,1,3,280000,DL12
+1434,3,1,,52000,SR7
+1435,3,1,2,130000,TS19
+1436,2,1,1,80000,DL5
+1437,,5,,220000,DL17
+1438,3,1,,95000,TS20
+1439,2,,,65950,TS29
+1440,4,2,1,100000,DL1
+1441,4,1,1,180000,TS17
+1442,4,1,2,249950,DH1
+1443,6,3,5,250000,TS24
+1444,1,1,1,125000,DH1
+1445,6,2,3,450000,DH1
+1446,3,2,,167950,TS24
+1447,2,2,,53750,DL14
+1448,2,,,159950,DL2
+1449,2,1,1,165000,TS16
+1450,1,1,1,155000,DL2
+1451,3,1,,166950,TS24
+1452,3,1,,162950,TS24
+1453,2,1,1,52500,DH8
+1454,4,2,1,450000,DH1
+1455,4,4,2,400000,DL15
+1456,2,,,155000,DL14
+1457,3,,,390000,DH1
+1458,2,2,1,140000,DH1
+1459,5,3,1,230000,DL3
+1460,2,1,1,145000,DH8
+1461,3,1,1,70000,DH9
+1462,7,4,4,650000,TS26
+1463,2,1,2,115000,DH3
+1464,2,2,,132950,TS24
+1465,3,2,,154950,TS24
+1466,5,4,,504950,TS22
+1467,3,2,1,495000,DL14
+1468,2,1,,80000,DH7
+1469,4,2,1,400000,TS20
+1470,4,3,,279999,SR8
+1471,3,2,1,145000,DH9
+1472,2,1,1,112500,TS25
+1473,4,3,2,145000,TS18
+1474,2,1,1,82950,DL15
+1475,6,,,1200000,DL13
+1476,4,3,3,484950,TS26
+1477,3,,,140000,DL16
+1478,2,1,1,79950,DH5
+1479,2,,,40000,DL14
+1480,2,1,1,65000,TS18
+1481,1,1,1,58000,TS24
+1482,3,2,1,85000,SR8
+1483,1,1,1,60000,DL3
+1484,2,1,,50000,SR8
+1485,2,1,1,70000,TS20
+1486,2,1,,50000,SR8
+1487,2,1,,40000,SR8
+1488,2,2,,45000,TS18
+1489,2,,,149950,DL2
+1490,2,,,109950,DL2
+1491,2,,,49950,DL2
+1492,2,,,39950,DL2
+1493,2,,,42950,DL2
+1494,2,2,,45000,DL14
+1495,4,,,264995,DL17
+1496,3,,,162995,DL17
+1497,2,1,1,65000,DL14
+1498,4,2,1,225000,DL14
+1499,3,2,1,290000,TS16
+1500,3,2,1,135000,TS18
+1501,3,1,1,190000,DH8
+1502,3,2,1,85000,DH9
+1503,3,1,1,95000,DL3
+1504,2,1,1,85000,TS26
+1505,3,,,75000,DL4
+1506,3,1,1,80000,TS17
+1507,2,2,1,37000,TS24
+1508,2,2,1,265000,DL13
+1509,2,1,1,70000,DH3
+1510,3,1,1,65000,SR7
+1511,1,1,1,49950,DH7
+1512,4,1,2,325000,DH1
+1513,3,2,1,125000,TS25
+1514,4,,,229995,DL17
+1515,4,4,3,1350000,DH9
+1516,2,1,1,84950,DH8
+1517,2,1,1,89950,DH6
+1518,8,4,4,399000,DL3
+1519,3,1,,35000,SR8
+1520,,4,,276500,DH5
+1521,1,1,1,55000,DH5
+1522,2,1,1,80000,DH5
+1523,4,2,3,325000,DL2
+1524,1,1,1,65000,DL3
+1525,4,2,,129950,SR8
+1526,,,,145000,DL14
+1527,,,,100000,DL17
+1528,3,1,,135000,DH8
+1529,5,3,3,1000000,TS22
+1530,3,2,1,65000,DL13
+1531,6,2,3,350000,DL2
+1532,5,2,3,575000,DL1
+1533,2,1,1,30000,TS24
+1534,3,2,2,79000,TS24
+1535,2,1,1,160000,DL3
+1536,2,1,,50000,DH7
+1537,2,2,1,140000,DH2
+1538,3,2,2,95000,TS17
+1539,1,1,1,97500,DH1
+1540,6,6,6,995000,DL14
+1541,2,1,1,265000,TS17
+1542,2,1,1,99950,DL1
+1543,2,1,1,110000,DL5
+1544,3,1,1,42000,TS24
+1545,1,1,1,135000,DL3
+1546,,,,60000,DH2
+1547,3,1,1,90000,DL13
+1548,1,1,1,55000,TS17
+1549,3,2,1,75000,DL14
+1550,4,,,290995,TS19
+1551,3,,,238995,TS19
+1552,1,,1,210000,EH12
+1553,2,2,2,149950,DH3
+1554,3,,,108000,DL4
+1555,5,3,5,2240000,DL14
+1556,3,3,1,100000,SR8
+1557,3,2,1,79950,TS28
+1558,3,1,2,145000,DH9
+1559,4,2,2,260000,DL14
+1560,3,,,58950,DH9
+1561,2,1,1,80000,DH2
+1562,3,2,1,250000,TS16
+1563,2,,,60000,DL4
+1564,2,2,1,68000,DH5
+1565,4,1,2,130000,TS24
+1566,2,1,1,75000,DH8
+1567,2,2,1,189950,DH7
+1568,3,,,65000,DL14
+1569,3,3,2,450000,DH1
+1570,2,1,1,82950,DH6
+1571,5,4,1,465000,TS20
+1572,6,5,5,550000,DL12
+1573,3,2,,100000,SR7
+1574,3,2,1,139950,TS22
+1575,1,1,1,72000,TS17
+1576,5,3,3,250000,TS27
+1577,5,3,3,595000,TS27
+1578,2,1,1,128000,DH2
+1579,3,3,,164950,DH6
+1580,4,2,,234950,TS24
+1581,4,2,1,335000,DL3
+1582,3,,,124500,DL5
+1583,1,1,1,125000,DL14
+1584,3,1,1,79950,DH7
+1585,3,2,2,69495,DL17
+1586,3,1,1,199950,DL3
+1587,3,1,2,97495,TS27
+1588,5,3,2,2000000,DH1
+1589,2,2,2,299500,DL2
+1590,7,2,2,490000,TS18
+1591,3,2,1,119950,DH7
+1592,,,,45000,DL3
+1593,5,3,3,475000,DH4
+1594,2,,,60000,DL14
+1595,3,,,87500,DL16
+1596,2,1,,90000,DH8
+1597,4,2,2,500000,TS18
+1598,2,1,1,69999,DH9
+1599,3,1,1,76000,TS24
+1600,5,3,4,695000,DL2
+1601,2,,,95000,TS27
+1602,4,1,2,234950,TS22
+1603,2,1,1,105000,DL2
+1604,4,3,2,359000,DH3
+1605,1,,,45000,DH4
+1606,5,4,2,895000,TS27
+1607,16,,12,320000,TS18
+1608,3,1,2,65000,TS27
+1609,3,2,2,215000,DH7
+1610,3,1,1,240000,DH1
+1611,3,2,1,160000,TS28
+1612,4,3,3,975000,TS22
+1613,,,,25000,DL13
+1614,11,9,6,725000,DH8
+1615,5,,2,OA,DL14
+1616,3,2,,78000,TS17
+1617,1,1,1,55000,TS17
+1618,2,1,1,69950,TS27
+1619,2,2,2,100000,DH6
+1620,1,1,1,45000,DH5
+1621,4,4,3,950000,TS22
+1622,5,3,2,200000,TS24
+1623,2,1,1,100000,DL15
+1624,2,2,,172000,TS24
+1625,2,2,,172000,TS24
+1626,1,1,1,55000,DH3
+1627,2,1,1,80000,DH6
+1628,2,1,1,95000,TS21
+1629,2,2,1,65000,TS26
+1630,2,2,1,59999,DH5
+1631,3,2,1,160000,TS18
+1632,2,1,1,28000,TS25
+1633,1,,1,144950,DH3
+1634,3,,,115000,DL14
+1635,2,1,1,194950,DH1
+1636,2,1,2,115000,DH3
+1637,3,1,1,225000,SR8
+1638,2,1,1,90000,SR7
+1639,2,1,1,70000,SR7
+1640,5,4,5,1300000,TS22
+1641,4,2,,165000,DH6
+1642,2,1,2,109995,DL1
+1643,1,1,1,16500,DH9
+1644,4,2,1,250000,TS24
+1645,3,1,1,152000,TS24
+1646,3,,,38750,DH4
+1647,3,1,1,125000,DH4
+1648,3,,1,70000,DL17
+1649,3,1,1,195000,DH8
+1650,2,1,1,95000,DH4
+1651,3,1,3,180000,DL5
+1652,4,1,,266000,TS18
+1653,3,1,,45000,TS24
+1654,3,3,1,160000,DL1
+1655,2,1,1,127950,DH8
+1656,1,1,2,67000,SR7
+1657,4,3,3,305000,TS26
+1658,2,2,2,130000,TS20
+1659,4,2,3,290000,DL2
+1660,4,2,,244950,DH6
+1661,3,3,,174950,DH6
+1662,3,3,,149950,DH6
+1663,4,2,,239950,DH7
+1664,3,3,,169950,DH4
+1665,4,2,,204950,DL4
+1666,3,2,1,92500,TS26
+1667,3,2,2,140000,DH5
+1668,5,2,2,289950,DL15
+1669,3,2,1,97500,DH6
+1670,2,1,,60000,SR8
+1671,3,1,1,330000,DH2
+1672,4,,,700000,DL14
+1673,2,,1,77950,DH4
+1674,,,,75000,TS25
+1675,2,1,1,28000,TS25
+1676,2,,1,49999,DH9
+1677,3,2,1,140000,SR8
+1678,4,2,2,255000,SR8
+1679,4,2,2,120000,DH9
+1680,2,2,1,70000,TS27
+1681,3,1,1,115000,DL16
+1682,3,1,1,115000,DL16
+1683,2,2,1,140000,DL1
+1684,2,1,,45000,SR8
+1685,3,1,,70000,TS20
+1686,3,1,1,235000,DL3
+1687,4,2,2,220000,DH3
+1688,2,1,1,145000,DL3
+1689,3,1,2,260000,TS21
+1690,3,3,3,75000,TS26
+1691,2,1,1,70000,TS27
+1692,4,2,3,349000,TS28
+1693,2,2,1,270000,DL3
+1694,1,1,1,64950,DH1
+1695,1,1,1,120000,TS16
+1696,2,1,1,37500,TS25
+1697,2,1,1,35000,TS25
+1698,2,1,,64950,SR8
+1699,3,2,1,100000,TS24
+1700,4,2,2,250000,DH4
+1701,2,1,1,87500,DL14
+1702,4,2,3,299950,SR8
+1703,3,2,2,160000,DL1
+1704,9,,,470000,DL13
+1705,3,2,1,70000,DL17
+1706,6,2,2,375000,TS22
+1707,3,,,360000,TS16
+1708,2,1,,55000,DH8
+1709,3,2,1,250000,TS27
+1710,4,4,,284950,SR8
+1711,5,5,1,500000,TS21
+1712,,,,260000,DL12
+1713,3,2,1,485000,NE36
+1714,4,2,2,279950,DL2
+1715,2,1,1,88000,TS26
+1716,2,1,1,89000,DL16
+1717,3,1,1,110000,TS23
+1718,3,,1,95000,DH3
+1719,4,1,,240000,SR7
+1720,6,5,6,OA,DH1
+1721,6,5,6,OA,DH1
+1722,2,1,1,135000,DL3
+1723,3,1,,95000,DH5
+1724,2,1,1,170000,DH1
+1725,,,,805000,DL14
+1726,3,2,1,155000,DH8
+1727,5,3,,469950,TS22
+1728,,,,140000,DL17
+1729,,,,140000,DL17
+1730,5,4,,449950,TS22
+1731,5,3,,459950,TS22
+1732,3,1,2,139950,DH7
+1733,1,,,50000,TS21
+1734,4,2,1,280000,DH5
+1735,2,,,149950,NE36
+1736,4,2,2,300000,DH5
+1737,2,1,2,110000,DH3
+1738,4,1,2,189950,DH6
+1739,3,1,,157500,DH8
+1740,3,1,,157500,DH8
+1741,3,1,,157500,DH8
+1742,3,1,,157500,DH8
+1743,4,1,,174500,DH8
+1744,1,1,1,55000,TS17
+1745,1,,,85000,DH3
+1746,2,1,1,100000,DL1
+1747,2,1,1,35000,TS25
+1748,3,,,340000,SR7
+1749,2,,,62000,DH3
+1750,1,1,1,79950,DH1
+1751,1,,1,25000,DH5
+1752,3,2,3,250000,DL2
+1753,2,1,1,149950,DH1
+1754,2,1,,116500,DH3
+1755,,,,375000,TS18
+1756,2,1,1,45000,TS23
+1757,1,1,1,54995,DL3
+1758,3,,,60000,DL14
+1759,,,,89950,DH6
+1760,3,1,1,58000,TS21
+1761,3,1,1,79950,TS25
+1762,3,2,,379950,DH1
+1763,1,1,1,99950,DL16
+1764,5,2,2,430000,TS17
+1765,3,2,1,210000,DH7
+1766,2,1,,80000,DH6
+1767,6,2,4,1000000,DL2
+1768,3,1,1,64950,DL4
+1769,1,1,1,39950,DH9
+1770,2,1,1,45000,DH9
+1771,2,,,55000,TS18
+1772,2,1,1,100000,DL3
+1773,2,1,1,70000,DH6
+1774,,,,60000,DL15
+1775,3,1,1,99500,DH7
+1776,1,1,1,60000,DL3
+1777,2,1,,150000,DH1
+1778,3,2,1,87000,TS19
+1779,,,,550000,TS18
+1780,2,1,1,117000,DL3
+1781,3,1,1,99950,DH3
+1782,2,1,1,75000,SR8
+1783,1,1,1,63000,DH1
+1784,3,1,1,79950,DH5
+1785,4,4,3,2000000,DH9
+1786,4,2,1,150000,DH4
+1787,2,,,160000,DH1
+1788,6,1,1,439000,DL14
+1789,1,,,179000,DL17
+1790,3,1,3,175000,DH7
+1791,5,2,1,875000,DL2
+1792,1,,,129950,DH3
+1793,2,1,1,31500,DL12
+1794,2,1,1,36500,DL12
+1795,6,,,435000,Durham
+1796,3,1,1,104950,DH3
+1797,2,1,1,100000,DL3
+1798,,,,25000,DH9
+1799,2,1,1,48500,DL3
+1800,2,1,,80000,DH6
+1801,4,2,3,266000,TS18
+1802,7,2,4,450000,DH8
+1803,2,1,1,75000,DH6
+1804,3,1,1,110000,TS20
+1805,3,1,1,129995,DH9
+1806,4,3,2,360000,TS22
+1807,4,,,400000,DH8
+1808,2,1,1,60000,TS26
+1809,3,2,1,170000,DL2
+1810,2,1,1,79995,DH9
+1811,3,1,1,79950,DH8
+1812,4,2,2,160000,TS25
+1813,2,1,1,69950,DL1
+1814,4,2,3,180000,DL15
+1815,2,1,,64950,DH9
+1816,4,2,1,260000,TS18
+1817,1,1,1,110000,TS20
+1818,1,1,1,49950,DH5
+1819,2,1,,45000,DH5
+1820,2,1,1,129950,DH4
+1821,3,1,2,140000,DH5
+1822,3,1,,154999,DH5
