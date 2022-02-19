@@ -119,7 +119,7 @@ class dataprocesser:
                 ## Here we find the address
                 address = textContent.find("p", {"class": "css-nwapgq-Text eczcs4p0"})
                 address = address.text
-                property["address"] = address
+                property["address"] = address.split(" ")[-1]
 
                 properties.append(property)
 
