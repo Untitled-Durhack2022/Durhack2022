@@ -9,6 +9,7 @@ class httpWebpage:
         self.head = None
 
 
+## Syncrhonous Scraper
 class scraper:
     def __init__(self):
         bufferData = BytesIO()
@@ -21,7 +22,6 @@ class scraper:
         c.setopt(c.WRITEHEADER, bufferHeader)
         c.setopt(c.FOLLOWLOCATION, True)
         c.setopt(c.ACCEPT_ENCODING, "*")
-
         self.curlHandle = c
 
 
@@ -39,7 +39,6 @@ class scraper:
         currentHandle.setopt(currentHandle.WRITEHEADER, bufferHeader)
 
         currentHandle.perform()
-
         webpage = httpWebpage()
         webpage.body = bufferData
         webpage.head = bufferHeader
@@ -47,15 +46,39 @@ class scraper:
 
 
     def parseHttpPage(self, webpage):
-        webpage.body = webpage.body.getvalue()
         webpage.head = webpage.head.getvalue()
+        webpage.body = BeautifulSoup(webpage.body.getvalue(), "lxml")
         return webpage
+
+
+    def scrapeZoopla(self, term):
+        url = f"https://www.zoopla.co.uk/for-sale/property/county-durham/?q=county%20durham&results_sort=newest_listings&search_source=for-sale"
+        counter = 1
+        while True:
+            newurl = f"{url}&pn={counter}"
+            filename = f"output\\{term}{counter}.txt"
+            print(newurl)
+
+            resp = self.makeRequest(newurl)
+            webpage = self.parseHttpPage(resp)
+            if webpage.body.find("div", {"content": "No results found"}) != None: break
+
+            with open(filename, "w+") as outfile:
+                outfile.write(str(webpage.body))
+            counter += 1
+
+
+        print("exiting")
+
+        
+
 
 
 def main():
     s = scraper()
-    ret = s.makeRequest("https://www.google.com")
-    webpage = s.parseHttpPage(ret)
+    # s.scrapeZoopla("county_durham")
+
+    d = dataprocessor()
 
 
 if __name__ == "__main__":
