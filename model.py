@@ -65,7 +65,7 @@ def train_model():
     y = encoded.pop('price')
 
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=0)
 
 
     rf = RandomForestRegressor(random_state=0)
@@ -73,20 +73,24 @@ def train_model():
 
     return rf
 
+
+
 def return_encoded_postcode(postcode_str):
-   encoded = np.zeros(36)
-   postcodes = ['DH1', 'DH2', 'DH3', 'DH4', 'DH5', 'DH6', 'DH7', 'DH8', 'DH9', 'DL1', 'DL12', 'DL13', 'DL14', 'DL15', 'DL16', 'DL17', 'DL2', 'DL3', 'DL4', 'DL5', 'SR7', 'SR8', 'TS16', 'TS17', 'TS18', 'TS19', 'TS20', 'TS21', 'TS22', 'TS23', 'TS24', 'TS25', 'TS26', 'TS27', 'TS28', 'TS29']
-   i = 0
-   for i in range(36):
-      if postcode_str == postcodes[i]:
-         encoded[i] = 1
-   return list(encoded)
+    encoded = np.zeros(36)
+    postcodes = ['DH1', 'DH2', 'DH3', 'DH4', 'DH5', 'DH6', 'DH7', 'DH8', 'DH9', 'DL1', 'DL12', 'DL13', 'DL14', 'DL15', 'DL16', 'DL17', 'DL2', 'DL3', 'DL4', 'DL5', 'SR7', 'SR8', 'TS16', 'TS17', 'TS18', 'TS19', 'TS20', 'TS21', 'TS22', 'TS23', 'TS24', 'TS25', 'TS26', 'TS27', 'TS28', 'TS29']
+    i = 0
+    for i in range(36):
+        if postcode_str == postcodes[i]:
+            encoded[i] = 1
+    return list(encoded)
+
 
 model = train_model()
 
 def predict(bedrooms, receptions, bathrooms, postcode):
-   arguments = arguments = pd.Series([bedrooms, receptions, bathrooms] + return_encoded_postcode(postcode))
-   arguments = pd.DataFrame(arguments.values.reshape((1,-1)))
-   return model.predict(arguments)[0]
+    arguments = pd.Series([bedrooms, receptions, bathrooms] + return_encoded_postcode(postcode))
+    arguments = pd.Series(arguments.values)
+    arguments = pd.DataFrame(arguments.values.reshape(1,-1))
+    return model.predict(arguments)[0]
 
-print(predict(4, 2, 4, "DH1"))
+#print(predict(5, 3, 1.5, "TS22"))
