@@ -95,7 +95,6 @@ def predict(bedrooms, receptions, bathrooms, postcode):
     arguments = pd.Series(arguments.values)
     arguments = pd.DataFrame(arguments.values.reshape(1,-1))
 
-    
 
     return model.predict(arguments)[0]
 
@@ -146,5 +145,4 @@ def getRelated(postcode):
     price =  df[df['address'] == postcode]['price'].median()
     
     
-    return relatedBedrooms, relatedBathrooms, relatedReceptions, price
-
+    return postcode + "," + str(int(relatedBedrooms)) + "," + str(int(relatedBathrooms)) + "," + str(int(relatedReceptions)) + "," + str(int(price))
