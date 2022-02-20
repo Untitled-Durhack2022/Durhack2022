@@ -68,13 +68,8 @@ function processForm(e) {
     /* do what you want with the form */
     var bedrms = document.getElementById("bedrms").value;
     var bthrms = document.getElementById("bthrms").value;
-    var pcode = document.getElementById("pcode").value;
+    var pcode = document.getElementById("pcode").value.toUpperCase();
     var rcptns = document.getElementById("rcptns").value;
-
-    console.log(pcode);
-    console.log(bthrms);
-    console.log(bedrms);
-    console.log(rcptns);
 
     let error = validate({
         bedrooms: bedrms,
