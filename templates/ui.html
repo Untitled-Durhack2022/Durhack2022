@@ -48,15 +48,56 @@
             <div class="col-sm-1"></div>
           </div>
 
+
+          
           <div class="row" id="results">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-8 result-display">
+            <hr>
+            <h3>Results </h3>
+            <br>
+            <div class="result-display">
               <div id="result-value"></div>
             </div>
-            <div class="col-sm-2 table"></div>
-          </div>
-
-          <div class="row" id="compare">
+          
+            <hr>
+            <h3 id="postcodehere">Comparison with other properties in: </h3>
+            <div class="row">
+              <div class="col-sm-9">
+                <div class="col-sm-6 table">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th scope="col">#</th>
+                      <th scope="col">Metric</th>
+                      <th scope="col">Value</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>Median Number of receptions in this area:</td>
+                      <td id="medPrice"></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>Median Number of bedrooms in this area</td>
+                      <td id="medBedrooms"></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Median Number of bathrooms in this area</td>
+                      <td id="medBathrooms"></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Median Number of bathrooms in this area</td>
+                      <td id="medReceptions"></td>
+                    </tr>
+                  </tbody>
+                </table>
+                </div>
+            </div>
+            </div>
+          <!-- <div class="row" id="compare">
             <div class="col-sm-2"></div>
             <div class="col-sm-8">
               <h3 id="postcodehere">Comparison with other properties in: </h3>
@@ -68,8 +109,8 @@
              </ul>
             </div>
             <div class="col-sm-2"></div>
+          </div> -->
           </div>
-
         </div>
     </body>
     <script src="static/ui.js"></script>
