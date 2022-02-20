@@ -1,7 +1,7 @@
 from pyexpat import model
 from flask import Flask, render_template
 from flask import request
-from model import train_model, predict
+from model import predict, getRelated
 
 app = Flask(__name__)
 
@@ -32,6 +32,7 @@ def submitModelData():
 
       ## TODO: Remove this estimatedPrice with the modelpredict
       estimatedPrice = "£" + str(round(predict(bedrooms, receptions, bathrooms, postcode)))
+      medians = getRelated(postcode)
       return estimatedPrice, 200
    except Exception as e:
       return "Internal Server Error", 500

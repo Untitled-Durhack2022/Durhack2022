@@ -2,6 +2,7 @@
 
 button = document.getElementById("showResults")
 results = document.getElementById("results")
+compare = document.getElementById("compare")
 // button.addEventListener('click', () => {
 
 //     if (results.style.display == 'block')
@@ -105,8 +106,10 @@ function processForm(e) {
       return response.text()
     })
     .then(data => {
-      document.getElementById("result-value").innerText = data;
+      document.getElementById("result-value").innerText = "Estimated valuation: " + data;
       document.getElementById("results").style.display = "block";
+      document.getElementById("compare").style.display = "block";
+
       console.log(data);
     })
     .catch(error => console.log(error));
