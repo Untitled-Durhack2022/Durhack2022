@@ -26,7 +26,7 @@ var constraints = {
         presence: true,
         inclusion: {
             within: validPostcodes,
-            message: "PostCode entered not allowed"
+            message: "entered not allowed"
           }
     },
     // TODO: Add max value for bathrooms, bedrooms, receptions
@@ -83,15 +83,35 @@ function processForm(e) {
         receptions: rcptns
         }, constraints)
 
+    var ids = ["pcode", "bedrms", "bthrms", "rcptns"];
+    var args = ["postcode", "bedrooms", "bathrooms", "receptions"];
+
+    // Data validation
+    var bIsInvalid = false;
+    console.log(error);
     if (error !== undefined){
-        alert("Incorrect Input");
+        for(var i = 0; i < ids.length; i++){
+            let label = document.getElementById(`${ids[i]}-label`);
+            console.log(i);
+            console.log(label);
+
+            if (error[args[i]] !== undefined) {
+                label.innerHTML = error[args[i]][0];
+                bIsInvalid = true;
+            } else {
+                label.innerHTML = "";
+            }
+        }
+        if (bIsInvalid == true){
+            return false;
+        }
     }
-    let args = ["pcode", "bedrms", "bthrms", "rcptns"];
-    //     for(var i =0; i <= error.length();i++){
-    //         let label = document.querySelectorAll(`[for={args[i]}]`);
-    //         label.innerHTML = error[args[0]];
-    //         }
-    // }
+
+    // resetting labels after successful validation
+    for (var i = 0; i < args.length; i++){
+        let label = document.getElementById(`${ids[i]}-label`);
+        label.innerHTML = "";
+    }
 
     console.log(error);
     // if err print error
