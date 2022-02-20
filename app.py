@@ -1,16 +1,9 @@
 from pyexpat import model
 from flask import Flask, render_template
 from flask import request
+from model import predict, getRelated
+
 app = Flask(__name__)
-
-##TODO:
-
-def trainModel():
-   ## TOOD: Wait on Tristan to finish
-   ...
-   return model
-
-model = trainModel()
 
 @app.route('/')
 def home():
@@ -38,13 +31,13 @@ def submitModelData():
       # estimatedPrice = model.predict(arguments)
 
       ## TODO: Remove this estimatedPrice with the modelpredict
-      estimatedPrice = "10"
-      return estimatedPrice, 200
-   except Exception:
+      data = "£" + str(round(predict(bedrooms, receptions, bathrooms, postcode))) + ","
+      data = data + getRelated(postcode)
+      
+      return data, 200
+   except Exception as e:
+      print("Oh no ", e)
       return "Internal Server Error", 500
-
-
 
 if __name__ == '__main__':
    app.run()
-

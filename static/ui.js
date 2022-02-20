@@ -2,6 +2,7 @@
 
 button = document.getElementById("showResults")
 results = document.getElementById("results")
+compare = document.getElementById("compare")
 // button.addEventListener('click', () => {
 
 //     if (results.style.display == 'block')
@@ -25,7 +26,7 @@ var constraints = {
         presence: true,
         inclusion: {
             within: validPostcodes,
-            message: "PostCode entered not allowed"
+            message: "entered not allowed"
           }
     },
     // TODO: Add max value for bathrooms, bedrooms, receptions
@@ -65,10 +66,10 @@ function processForm(e) {
 
 
     /* do what you want with the form */
-    let bedrms = document.getElementById("bedrms").value;
-    let bthrms = document.getElementById("bthrms").value;
-    let pcode = document.getElementById("pcode").value;
-    let rcptns = document.getElementById("rcptns").value;
+    var bedrms = document.getElementById("bedrms").value;
+    var bthrms = document.getElementById("bthrms").value;
+    var pcode = document.getElementById("pcode").value;
+    var rcptns = document.getElementById("rcptns").value;
 
     console.log(pcode);
     console.log(bthrms);
@@ -82,15 +83,35 @@ function processForm(e) {
         receptions: rcptns
         }, constraints)
 
+    var ids = ["pcode", "bedrms", "bthrms", "rcptns"];
+    var args = ["postcode", "bedrooms", "bathrooms", "receptions"];
+
+    // Data validation
+    var bIsInvalid = false;
+    console.log(error);
     if (error !== undefined){
-        alert("Incorrect Input");
+        for(var i = 0; i < ids.length; i++){
+            let label = document.getElementById(`${ids[i]}-label`);
+            console.log(i);
+            console.log(label);
+
+            if (error[args[i]] !== undefined) {
+                label.innerHTML = error[args[i]][0];
+                bIsInvalid = true;
+            } else {
+                label.innerHTML = "";
+            }
+        }
+        if (bIsInvalid == true){
+            return false;
+        }
     }
-    let args = ["pcode", "bedrms", "bthrms", "rcptns"];
-    //     for(var i =0; i <= error.length();i++){
-    //         let label = document.querySelectorAll(`[for={args[i]}]`);
-    //         label.innerHTML = error[args[0]];
-    //         }
-    // }
+
+    // resetting labels after successful validation
+    for (var i = 0; i < args.length; i++){
+        let label = document.getElementById(`${ids[i]}-label`);
+        label.innerHTML = "";
+    }
 
     console.log(error);
     // if err print error
@@ -105,8 +126,19 @@ function processForm(e) {
       return response.text()
     })
     .then(data => {
-      document.getElementById("result-value").innerText = data;
+      const arr = data.split(",");
+      document.getElementById("result-value").innerText = "Estimated valuation: " + arr[0];
+      document.getElementById("postcodehere").innerText = "Comparison with other properties in " + arr[1];
+      document.getElementById("medPrice").innerText = "Median Price £" + arr[5];
+      document.getElementById("medBedrooms").innerText = "Median no Bedrooms " + arr[2];
+      document.getElementById("medBathrooms").innerText = "Median no Bathrooms " + arr[3];
+      document.getElementById("medReceptions").innerText = "Median no Receptions " + arr[4];
       document.getElementById("results").style.display = "block";
+      document.getElementById("compare").style.display = "block";
+      //google maps manipulation
+      document.getElementById("googlemaps")["src"] = `https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
+      &q=${pcode}`;
+
       console.log(data);
     })
     .catch(error => console.log(error));
