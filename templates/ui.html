@@ -18,54 +18,53 @@
             <p>Use Regression Models to value properties</p>
           </div>
           <!-- Postcode &nbsp &nbsp &nbsp <input type="text" name="pcode", id="pcode"><label for="pcode" id="pcode-label" style="color:red;font-size:0.7em"></label><br> -->
+          <div class="row" id="model-input">
+            <div class="col-sm-6" align="left">
+              <h3> Provide Evaulation Arguments: </h3>
+              <form id="my-form">
+                <div class="form-group" style="margin-bottom:5px">
+                  <label for="pcode" class="col-form-label">Postcode</label>
+                  <input type="text" class="form-control" name="pcode" id="pcode" placeholder="DH1" style="margin-top:3px;margin-bottom:0px">
+                  <div class="" style="color:red;font-weight:true" id="pcode-label"></div>
+                </div>
+                <div class="form-group" style="margin-bottom:5px">
+                  <label for="bedrms" class="col-form-label">Bedrooms</label>
+                  <input type="text" class="form-control" name="bedrms" id="bedrms" placeholder="4" style="margin-top:3px;margin-bottom:0px">
+                  <div class="" style="color:red;font-weight:true" id="bedrms-label"></div>
 
-          <div class="col-sm-6" align="left">
-            <h3> Provide Evaulation Arguments: </h3>
-            <form id="my-form">
-              <div class="form-group" style="margin-bottom:5px">
-                <label for="pcode" class="col-form-label">Postcode</label>
-                <input type="text" class="form-control" name="pcode" id="pcode" placeholder="DH1" style="margin-top:3px;margin-bottom:0px">
-                <div class="" style="color:red;font-weight:true" id="pcode-label"></div>
-              </div>
-              <div class="form-group" style="margin-bottom:5px">
-                <label for="bedrms" class="col-form-label">Bedrooms</label>
-                <input type="text" class="form-control" name="bedrms" id="bedrms" placeholder="4" style="margin-top:3px;margin-bottom:0px">
-                <div class="" style="color:red;font-weight:true" id="bedrms-label"></div>
+                </div>
+                <div class="form-group" style="margin-bottom:5px">
+                  <label for="bthrms" class="col-form-label">Bathrooms</label>
+                  <input type="text" class="form-control" name="bthrms" id="bthrms" placeholder="2" style="margin-top:3px;margin-bottom:0px">
+                  <div class="" style="color:red;font-weight:true" id="bthrms-label"></div>
 
-              </div>
-              <div class="form-group" style="margin-bottom:5px">
-                <label for="bthrms" class="col-form-label">Bathrooms</label>
-                <input type="text" class="form-control" name="bthrms" id="bthrms" placeholder="2" style="margin-top:3px;margin-bottom:0px">
-                <div class="" style="color:red;font-weight:true" id="bthrms-label"></div>
+                </div>
+                <div class="form-group" style="margin-bottom:15px">
+                  <label for="rcptns" class="col-form-label">Receptions</label>
+                  <input type="text" class="form-control" name="rcptns" id="rcptns" placeholder="1" style="margin-top:3px;margin-bottom:0px">
+                  <div class="" style="color:red;font-weight:true" id="rcptns-label"></div>
 
-              </div>
-              <div class="form-group" style="margin-bottom:15px">
-                <label for="rcptns" class="col-form-label">Receptions</label>
-                <input type="text" class="form-control" name="rcptns" id="rcptns" placeholder="1" style="margin-top:3px;margin-bottom:0px">
-                <div class="" style="color:red;font-weight:true" id="rcptns-label"></div>
+                </div>
+                <div class="form-group">
+                  <button type="submit" class="btn btn-primary">Sign in</button>
+                </div>
+              </form>
+            </div>
 
-              </div>
-              <div class="form-group">
-                <button type="submit" class="btn btn-primary">Sign in</button>
-              </div>
-            </form>
+            <div class="col-sm-6" style="padding-left:10px">
+                <h3 >County Durham</h3>
+                <iframe id="googlemaps"
+                width=100%
+                height="400"
+                style="border:0"
+                loading="lazy"
+                allowfullscreen
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
+                &q=County+Durham">
+              </iframe>
+            </div>
           </div>
 
-          <div class="col-sm-6" style="padding-left:10px">
-              <h3 >County Durham</h3>
-              <iframe id="googlemaps"
-              width=100%
-              height="400"
-              style="border:0"
-              loading="lazy"
-              allowfullscreen
-              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
-              &q=County+Durham">
-            </iframe>
-          </div>
-
-
-          <hr>
           <div class="row" id="results">
             <br>
             <hr>
