@@ -92,14 +92,14 @@ function processForm(e) {
     if (error !== undefined){
         for(var i = 0; i < ids.length; i++){
             let label = document.getElementById(`${ids[i]}-label`);
-            console.log(i);
-            console.log(label);
 
             if (error[args[i]] !== undefined) {
                 label.innerHTML = error[args[i]][0];
+                label.classList.add("invalid-feedback");
                 bIsInvalid = true;
             } else {
                 label.innerHTML = "";
+                label.classList.remove("invalid-feedback");
             }
         }
         if (bIsInvalid == true){
@@ -111,6 +111,7 @@ function processForm(e) {
     for (var i = 0; i < args.length; i++){
         let label = document.getElementById(`${ids[i]}-label`);
         label.innerHTML = "";
+        label.classList.remove("invalid-feedback");
     }
 
     console.log(error);
