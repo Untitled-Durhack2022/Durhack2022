@@ -135,10 +135,9 @@ function processForm(e) {
       document.getElementById("medBathrooms").innerText = "Median no Bathrooms " + arr[3];
       document.getElementById("medReceptions").innerText = "Median no Receptions " + arr[4];
       document.getElementById("results").style.display = "block";
-      document.getElementById("compare").style.display = "block";
       //google maps manipulation
-      document.getElementById("googlemaps")["src"] = `https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
-      &q=${pcode}`;
+      document.getElementById("googlemaps").setAttribute("src", `https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
+      &q=${pcode}`);
 
       console.log(data);
     })
