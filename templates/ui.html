@@ -6,9 +6,10 @@
   <title>UI</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="static/main.css">
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/main.css') }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
 </head>
     <body>
         <div class="jumbotron text-center">
@@ -21,20 +22,19 @@
               <div class="col-sm-1"></div>
               <div class="col-sm-4">
                 <h3>Make your search below:</h3>
-                <form>
-                    Postcode &nbsp &nbsp &nbsp <input type="text" name="pcode"><br>
-                    Bedrooms &nbsp &nbsp &nbsp<input type="text" name="bedrms"><br>
-                    Bathrooms &nbsp &nbsp <input type="text" name="bthrms"><br>
-                    Receptions &nbsp &nbsp <input type="text" name="rcptns"><br>
+                <form action="/submitModelDataHere" id="my-form">
+                    Postcode Area &nbsp &nbsp<input type="text" name="pcode", id="pcode"><label for="pcode"></label><br>
+                    Bedrooms &nbsp &nbsp &nbsp<input type="text" name="bedrms", id="bedrms"><label for="bedrms"></label><br>
+                    Bathrooms &nbsp &nbsp <input type="text" name="bthrms", id="bthrms"><label for="bthrms"></label><br>
+                    Receptions &nbsp &nbsp <input type="text" name="rcptns", id="rcptns"><label for="rcptns"></label><br>
                     <input type="submit">
 
                 </form>
-                <button type="button" id="showResults">Display Results</button>
               </div>
               <div class="col-sm-6">
                 <h3>County Durham</h3>
                 <div class="viz-box">
-                  <object id="map" data="durham.svg" width="500" height="400" ></object>
+                  <object id="map" data="static/durham.svg" width="500" height="400" ></object>
                 </div>
               </div>
               <div class="col-sm-1"></div>
@@ -46,19 +46,21 @@
               <div class="col-sm-6">
                 <h1>Search Results</h1>
                 <p>Successfully retrieved:</p>
-                <div class="col-sm-3">
+                <div id="result-value"></div>
+                <br>
+                <!-- <div class="col-sm-3">
                   <div class="row result">Result1</div>
                   <div class="row result">Result2</div>
                 </div>
                 <div class="col-sm-3">
                   <div class="row result">Result3</div>
                   <div class="row result">Result4</div>
-                </div>
+                </div> -->
               </div>
               <div class="col-sm-4 viz-box"></div>
               <div class="col-sm-1"></div>
             </div>
           </div>
     </body>
-    <script src="ui.js"></script>
+    <script src="static/ui.js"></script>
 </html>

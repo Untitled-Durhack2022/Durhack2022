@@ -23,7 +23,7 @@ var validPostcodes = ['DH1', 'DH2', 'DH3', 'DH4', 'DH5', 'DH6', 'DH7', 'DH8', 'D
 var constraints = {
     postcode: {
         presence: true,
-        exclusion: {
+        inclusion: {
             within: validPostcodes,
             message: "PostCode entered not allowed"
           }
@@ -62,43 +62,54 @@ var constraints = {
 
 function processForm(e) {
     if (e.preventDefault) e.preventDefault();
-    console.log("processForm")
+
 
     /* do what you want with the form */
     let bedrms = document.getElementById("bedrms").value;
     let bthrms = document.getElementById("bthrms").value;
     let pcode = document.getElementById("pcode").value;
     let rcptns = document.getElementById("rcptns").value;
-    console.log(bedrms)
+
+    console.log(pcode);
+    console.log(bthrms);
+    console.log(bedrms);
+    console.log(rcptns);
 
     let error = validate({
-        bedroom: bedrms,
+        bedrooms: bedrms,
         bathrooms: bthrms,
         postcode: pcode,
         receptions: rcptns
-        }, constraints);
+        }, constraints)
+
+    if (error !== undefined){
+        alert("Incorrect Input");
+    }
+    let args = ["pcode", "bedrms", "bthrms", "rcptns"];
+    //     for(var i =0; i <= error.length();i++){
+    //         let label = document.querySelectorAll(`[for={args[i]}]`);
+    //         label.innerHTML = error[args[0]];
+    //         }
+    // }
 
     console.log(error);
-    
     // if err print error
 
-    fetch(`/submitModelData?bedrms={bedrms}&bthrms={bthrms}&pcode={pcode}&rcptns={rcptns}`)
+    fetch("/submitModelData?bedrms=" + bedrms + "&bthrms=" + bthrms + "&pcode=" + pcode + "&rcptns=" + rcptns)
     .then(response => {
       // indicates whether the response is successful (status code 200-299) or not
       if (!response.ok) {
-        throw new Error(`Request failed with status ${reponse.status}`)
+        throw new Error(`Request failed with status ${response.status}`)
       }
+      console.log(response);
       return response.text()
     })
     .then(data => {
-      console.log(data)
+      document.getElementById("result-value").innerText = data;
+      document.getElementById("results").style.display = "block";
+      console.log(data);
     })
-    .catch(error => console.log(error))
-
-
-
-
-
+    .catch(error => console.log(error));
 
 
     // You must return false to prevent the default form behavior
@@ -106,11 +117,9 @@ function processForm(e) {
 }
 
 var form = document.getElementById('my-form');
-console.log(form);
 if (form.attachEvent) {
     form.attachEvent("submit", processForm);
 } else {
     form.addEventListener("submit", processForm);
 }
 
-alert("set");
