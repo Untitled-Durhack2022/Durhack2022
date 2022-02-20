@@ -68,13 +68,8 @@ function processForm(e) {
     /* do what you want with the form */
     var bedrms = document.getElementById("bedrms").value;
     var bthrms = document.getElementById("bthrms").value;
-    var pcode = document.getElementById("pcode").value;
+    var pcode = document.getElementById("pcode").value.toUpperCase();
     var rcptns = document.getElementById("rcptns").value;
-
-    console.log(pcode);
-    console.log(bthrms);
-    console.log(bedrms);
-    console.log(rcptns);
 
     let error = validate({
         bedrooms: bedrms,
@@ -92,14 +87,14 @@ function processForm(e) {
     if (error !== undefined){
         for(var i = 0; i < ids.length; i++){
             let label = document.getElementById(`${ids[i]}-label`);
-            console.log(i);
-            console.log(label);
 
             if (error[args[i]] !== undefined) {
                 label.innerHTML = error[args[i]][0];
+                label.classList.add("invalid-feedback");
                 bIsInvalid = true;
             } else {
                 label.innerHTML = "";
+                label.classList.remove("invalid-feedback");
             }
         }
         if (bIsInvalid == true){
@@ -111,6 +106,7 @@ function processForm(e) {
     for (var i = 0; i < args.length; i++){
         let label = document.getElementById(`${ids[i]}-label`);
         label.innerHTML = "";
+        label.classList.remove("invalid-feedback");
     }
 
     console.log(error);
@@ -134,10 +130,9 @@ function processForm(e) {
       document.getElementById("medBathrooms").innerText = "Median no Bathrooms " + arr[3];
       document.getElementById("medReceptions").innerText = "Median no Receptions " + arr[4];
       document.getElementById("results").style.display = "block";
-      document.getElementById("compare").style.display = "block";
       //google maps manipulation
-      document.getElementById("googlemaps")["src"] = `https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
-      &q=${pcode}`;
+      document.getElementById("googlemaps").setAttribute("src", `https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
+      &q=${pcode}`);
 
       console.log(data);
     })
