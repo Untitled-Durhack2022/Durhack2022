@@ -14,7 +14,6 @@ input {
 }
 
 #results {
-  border-style: solid;
   display: none;
 }
 
@@ -27,7 +26,21 @@ input {
   margin-right: 2px;
 }
 
+#result-value {
+  text-align: center;
+  color:mediumseagreen;
+  font-size: x-large;
+}
+
 #map {
   transform: rotate(270deg);
   align-self: center;
+}
+
+#compare {
+  background-color: black;
+  color: aliceblue;
+  border-style: ridge;
+  border-radius: 5px;
+  display: none;
 }

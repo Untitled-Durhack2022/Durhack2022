@@ -11,56 +11,53 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
 </head>
-    <body>
-        <div class="jumbotron text-center">
-            <h1>GOAT Prediction Engine</h1>
-            <p>Use GOAT to value properties</p>
-        </div>
-          
-          <div class="container">
-            <div class="row">
-              <div class="col-sm-1"></div>
-              <div class="col-sm-4">
-                <h3>Make your search below:</h3>
-                <form action="/submitModelDataHere" id="my-form">
-                    Postcode &nbsp &nbsp &nbsp <input type="text" name="pcode", id="pcode"><label for="pcode"></label><br>
-                    Bedrooms &nbsp &nbsp <input type="text" name="bedrms", id="bedrms"><label for="bedrms"></label><br>
-                    Bathrooms &nbsp <input type="text" name="bthrms", id="bthrms"><label for="bthrms"></label><br>
-                    Receptions &nbsp  <input type="text" name="rcptns", id="rcptns"><label for="rcptns"></label><br>
-                    <input type="submit">
+    <body>          
+        <div class="container">
 
-                </form>
-              </div>
-              <div class="col-sm-6">
-                <h3>County Durham</h3>
-                <div class="viz-box">
-                  <object id="map" data="static/durham.svg" width="500" height="400" ></object>
-                </div>
-              </div>
-              <div class="col-sm-1"></div>
+          <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-4">
+              <h3>Make your search below:</h3>
+              <form action="/submitModelDataHere" id="my-form">
+                  Postcode &nbsp &nbsp &nbsp <input type="text" name="pcode", id="pcode"><label for="pcode"></label><br>
+                  Bedrooms &nbsp &nbsp <input type="text" name="bedrms", id="bedrms"><label for="bedrms"></label><br>
+                  Bathrooms &nbsp <input type="text" name="bthrms", id="bthrms"><label for="bthrms"></label><br>
+                  Receptions &nbsp  <input type="text" name="rcptns", id="rcptns"><label for="rcptns"></label><br>
+                  <input type="submit">
+              </form>
             </div>
-            
-            <div class="row" id="results">
-              <hr>
-              <div class="col-sm-1"></div>
-              <div class="col-sm-6">
-                <h1>Search Results</h1>
-                <p>Successfully retrieved:</p>
-                <div id="result-value"></div>
-                <br>
-                <!-- <div class="col-sm-3">
-                  <div class="row result">Result1</div>
-                  <div class="row result">Result2</div>
-                </div>
-                <div class="col-sm-3">
-                  <div class="row result">Result3</div>
-                  <div class="row result">Result4</div>
-                </div> -->
+            <div class="col-sm-6">
+              <h3>County Durham</h3>
+              <div class="viz-box">
+                <object id="map" data="static/durham.svg" width="500" height="400"></object>
               </div>
-              <div class="col-sm-4 viz-box"></div>
-              <div class="col-sm-1"></div>
             </div>
+            <div class="col-sm-1"></div>
           </div>
+
+          <div class="row" id="results">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8 result-display">
+              <div id="result-value"></div>
+            </div>
+            <div class="col-sm-2 table"></div>
+          </div>
+
+          <div class="row" id="compare">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+              <h3 id="postcodehere1">Comparison with other properties in: </h3>
+              <ul style="list-style-type:disc">
+                <li id="medPrice">Median Price for properties in this area: </li>
+                <li id="medBedrooms">Median Number of bedrooms in this area: </li>
+                <li id="medBathrooms">Median Number of bathrooms in this area: </li>
+                <li id="medReceptions">Median Number of receptions in this area: </li>
+             </ul>
+            </div>
+            <div class="col-sm-2"></div>
+          </div>
+
+        </div>
     </body>
     <script src="static/ui.js"></script>
 </html>

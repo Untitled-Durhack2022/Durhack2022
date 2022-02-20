@@ -88,9 +88,63 @@ def return_encoded_postcode(postcode_str):
 model = train_model()
 
 def predict(bedrooms, receptions, bathrooms, postcode):
+
+    df = pd.read_csv('data.csv')
+
     arguments = pd.Series([bedrooms, receptions, bathrooms] + return_encoded_postcode(postcode))
     arguments = pd.Series(arguments.values)
     arguments = pd.DataFrame(arguments.values.reshape(1,-1))
+
+    
+
     return model.predict(arguments)[0]
 
-#print(predict(5, 3, 1.5, "TS22"))
+def getRelated(postcode):
+    
+    df = pd.read_csv('data.csv')
+    df = df.loc[:, ~df.columns.str.contains('^Unnamed')] #removing the first (unnamed) column as it just corresponds to the index of each row
+    cols = list(df.columns.values) #need to save column labels for later (after imputer applied)
+
+
+    indexes = np.where(df['price']=="OA")[0] #price column has 5 instances of value "OA", these instances are removed
+    df.drop(indexes, inplace=True)
+    df['price'] = df['price'].astype(float) #set price column type to float
+
+
+    imputer = KNNImputer(n_neighbors=2)
+    address = df.pop("address") #remove address before fitting with imputer (add back to the dataframe later)
+    df = pd.DataFrame(imputer.fit_transform(df))
+    df = df.join(pd.DataFrame(address))
+    df.columns = cols #reset column labels after applying imputer 
+
+
+
+
+    def drop(data, column, value, regex=True): #regex flag is whether to match via first n characters or exact match to inputted string
+        if regex == True:
+            indexes = np.where(data[column].str[:len(value)] == value)[0]
+        else:
+            indexes = np.where(data[column] == value)[0]
+            
+        # print(df.loc[indexes])
+        data.drop(indexes, inplace=True)
+        
+        return data.reset_index(drop=True) #resetting the row indexes for the dataframe after rows have been removed. 
+
+
+
+    #dropping postcodes with few instances
+    df = drop(df, "address", "Durham")
+    df = drop(df, "address", "EH")
+    df = drop(df, "address", "NE")
+    df = drop(df, "address", "TS2", False) #we want an exact match to TS2 to be removed, hence regex=False
+    df = drop(df, "address", "TS5", False)
+    
+    relatedBedrooms = df[df['address'] == postcode]['bedroom'].median()
+    relatedBathrooms = df[df['address'] == postcode]['bathroom'].median()
+    relatedReceptions = df[df['address'] == postcode]['reception'].median()
+    price =  df[df['address'] == postcode]['price'].median()
+    
+    
+    return relatedBedrooms, relatedBathrooms, relatedReceptions, price
+
