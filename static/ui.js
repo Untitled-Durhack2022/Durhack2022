@@ -106,7 +106,13 @@ function processForm(e) {
       return response.text()
     })
     .then(data => {
-      document.getElementById("result-value").innerText = "Estimated valuation: " + data;
+      const arr = data.split(",");
+      document.getElementById("result-value").innerText = "Estimated valuation: " + arr[0];
+      document.getElementById("postcodehere").innerText = "Comparison with other properties in " + arr[1];
+      document.getElementById("medPrice").innerText = "Median Price £" + arr[5];
+      document.getElementById("medBedrooms").innerText = "Median no Bedrooms " + arr[2];
+      document.getElementById("medBathrooms").innerText = "Median no Bathrooms " + arr[3];
+      document.getElementById("medReceptions").innerText = "Median no Receptions " + arr[4];
       document.getElementById("results").style.display = "block";
       document.getElementById("compare").style.display = "block";
 

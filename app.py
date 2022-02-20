@@ -31,10 +31,12 @@ def submitModelData():
       # estimatedPrice = model.predict(arguments)
 
       ## TODO: Remove this estimatedPrice with the modelpredict
-      estimatedPrice = "£" + str(round(predict(bedrooms, receptions, bathrooms, postcode)))
-      medians = getRelated(postcode)
-      return estimatedPrice, 200
+      data = "£" + str(round(predict(bedrooms, receptions, bathrooms, postcode))) + ","
+      data = data + getRelated(postcode)
+      
+      return data, 200
    except Exception as e:
+      print("Oh no ", e)
       return "Internal Server Error", 500
 
 if __name__ == '__main__':
