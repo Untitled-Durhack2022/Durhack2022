@@ -19,22 +19,27 @@ def home():
 @app.route('/submitModelData')
 def submitModelData():
    try:
+      print(request.args)
       postcode = request.args["pcode"]
       bedrooms = request.args["bedrms"]
       bathrooms = request.args["bthrms"]
       receptions = request.args["rcptns"]
+      arguments = [postcode, bedrooms, bathrooms, receptions]
       for arg in arguments:
          if arg == "":
-            raise Exception
-   except:
+            print(arg)
+            raise SyntaxError
+   except SyntaxError:
       return "Bad Request", 400
 
-   arguments = [postcode, bedrooms, bathrooms, receptions]
    
    try:
       ## TODO: We may need to change the price
-      estimatedPrice = model.predict(arguments)
-      return estimatedPrice
+      # estimatedPrice = model.predict(arguments)
+
+      ## TODO: Remove this estimatedPrice with the modelpredict
+      estimatedPrice = "10"
+      return estimatedPrice, 200
    except Exception:
       return "Internal Server Error", 500
 

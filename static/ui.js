@@ -83,8 +83,9 @@ function processForm(e) {
         }, constraints)
 
     if (error !== undefined){
-        let args = ["pcode", "bedrms", "bthrms", "rcptns"];
-        alert("Incorrect Input Arguments")
+        alert("Incorrect Input");
+    }
+    let args = ["pcode", "bedrms", "bthrms", "rcptns"];
     //     for(var i =0; i <= error.length();i++){
     //         let label = document.querySelectorAll(`[for={args[i]}]`);
     //         label.innerHTML = error[args[0]];
@@ -94,23 +95,21 @@ function processForm(e) {
     console.log(error);
     // if err print error
 
-    fetch(`/submitModelData?bedrms={bedrms}&bthrms={bthrms}&pcode={pcode}&rcptns={rcptns}`)
+    fetch("/submitModelData?bedrms=" + bedrms + "&bthrms=" + bthrms + "&pcode=" + pcode + "&rcptns=" + rcptns)
     .then(response => {
       // indicates whether the response is successful (status code 200-299) or not
       if (!response.ok) {
-        throw new Error(`Request failed with status ${reponse.status}`)
+        throw new Error(`Request failed with status ${response.status}`)
       }
+      console.log(response);
       return response.text()
     })
     .then(data => {
+      document.getElementById("result-value").innerText = data;
+      document.getElementById("results").style.display = "block";
       console.log(data);
     })
-    .catch(error => console.log(error))
-
-
-
-
-
+    .catch(error => console.log(error));
 
 
     // You must return false to prevent the default form behavior
