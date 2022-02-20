@@ -66,10 +66,10 @@ function processForm(e) {
 
 
     /* do what you want with the form */
-    let bedrms = document.getElementById("bedrms").value;
-    let bthrms = document.getElementById("bthrms").value;
-    let pcode = document.getElementById("pcode").value;
-    let rcptns = document.getElementById("rcptns").value;
+    var bedrms = document.getElementById("bedrms").value;
+    var bthrms = document.getElementById("bthrms").value;
+    var pcode = document.getElementById("pcode").value;
+    var rcptns = document.getElementById("rcptns").value;
 
     console.log(pcode);
     console.log(bthrms);
@@ -135,6 +135,9 @@ function processForm(e) {
       document.getElementById("medReceptions").innerText = "Median no Receptions " + arr[4];
       document.getElementById("results").style.display = "block";
       document.getElementById("compare").style.display = "block";
+      //google maps manipulation
+      document.getElementById("googlemaps")["src"] = `https://www.google.com/maps/embed/v1/place?key=AIzaSyAUT8HAbNhczkJs5Ib1HcX1vOkX0_Xcsdo
+      &q=${pcode}`;
 
       console.log(data);
     })
